@@ -1,0 +1,131 @@
+- authors: 'Philipp Dufter, Martin Schmitt, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Computational Linguistics, 1–31, June 2022.
+  title: "Position Information in Transformers: An Overview."
+  url: 'https://doi.org/10.1162/coli_a_00445'
+  year: '2022'
+
+- authors: 'Valentin Hofmann, Janet B. Pierrehumbert, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the Thirty-ninth International Conference on Machine Learning (ICML), July 2022.
+  title: "Unsupervised Detection of Contextualized Embedding Bias with Application to Ideology."
+  url: 'https://proceedings.mlr.press/v162/hofmann22a/hofmann22a.pdf'
+  year: '2022'
+
+- authors: 'Valentin Hofmann, Hinrich Schütze, Janet B. Pierrehumbert.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
+  title: "An Embarrassingly Simple Method to Mitigate Undesirable Properties of Pretrained Language Model Tokenizers."
+  url: 'https://aclanthology.org/2022.acl-short.43.pdf'
+  year: '2022'
+
+- authors: 'Valentin Hofmann, Xiaowen Dong, Janet B. Pierrehumbert, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Findings, July 2022.
+  title: "Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity."
+  url: 'https://aclanthology.org/2022.findings-naacl.41.pdf'
+  year: '2022'
+
+- authors: 'Ayyoob Imani, Lütfi Kerem Senel, Masoud Jalili Sabet, François Yvon, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL) Findings, May 2022.
+  title: "Graph Neural Networks for Multiparallel Word Alignment."
+  url: 'https://aclanthology.org/2022.findings-acl.108.pdf'
+  year: '2022'
+
+- authors: 'Sanjeev Kumar Karn, Ning Liu, Hinrich Schütze, Oladimeji Farri.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
+  title: "Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization."
+  url: 'https://aclanthology.org/2022.acl-long.109.pdf'
+  year: '2022'
+
+- authors: 'Sheng Liang, Mengjie Zhao, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL) Findings, May 2022.
+  title: "Modular and Parameter-Efficient Multimodal Fusion with Prompting."
+  url: 'https://aclanthology.org/2022.findings-acl.234.pdf'
+  year: '2022'
+
+- authors: 'Yihong Liu, Haris Jabbar, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
+  title: "Flow-Adapter Architecture for Unsupervised Machine Translation."
+  url: 'https://aclanthology.org/2022.acl-long.89.pdf'
+  year: '2022'
+
+- authors: 'Antonis Maronikolakis, Axel Wisiorek, Leah Nann, Haris Jabbar, Sahana Udupa, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL) Findings, May 2022.
+  title: "Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments."
+  url: 'https://aclanthology.org/2022.findings-acl.87.pdf'
+  year: '2022'
+
+- authors: 'Lütfi Kerem Senel, Timo Schick, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
+  title: "CoDA21: Evaluating Language Understanding Capabilities of NLP Models With Context-Definition Alignment."
+  url: 'https://aclanthology.org/2022.acl-short.92.pdf'
+  year: '2022'
+
+- authors: 'Victor Steinborn, Philipp Dufter, Haris Jabbar, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Findings, July 2022.
+  title: "An Information-Theoretic Approach and Dataset for Probing Gender Stereotypes in Multilingual Masked Language Models."
+  url: 'https://aclanthology.org/2022.findings-naacl.69.pdf'
+  year: '2022'
+
+- authors: 'Leonie Weissweiler, Valentin Hofmann, Masoud Jalili Sabet, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
+  title: "CaMEL: Case Marker Extraction without Labels."
+  url: 'https://aclanthology.org/2022.acl-long.377.pdf'
+  year: '2022'
+
+- authors: 'Mengjie Zhao, Fei Mi, Yasheng Wang, Minglei Li, Xin Jiang, Qun Liu, Hinrich Schütze.'
+  display: link
+  highlight: 1
+  proceedings: In Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Findings, July 2022.
+  title: "LMTurk: Few-Shot Learners as Crowdsourcing Workers in a Language-Model-as-a-Service Framework."
+  url: 'https://aclanthology.org/2022.findings-naacl.51.pdf'
+  year: '2022'
+
+
+
+
+
+
+
+# - authors: 'Timo Schick, Hinrich Schütze'
+#   description: 'Using much smaller models and a cloze based reformulation of NLP tasks, the paper achieves achieves performance comparable to GPT-3 models.'
+#   display: link
+#   image: fewshot.png
+#   highlight: 1
+#   news: ''
+#   # proceedings: Proceedings of the National Academy of Sciences of the United States of America
+#   title: "It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners"
+#   url: 'https://arxiv.org/abs/2009.07118'
+#   year: '2020'
+
+# - authors: 'James L. McClelland, Felix Hill, Maja Rudolph, Jason Baldridge, and Hinrich Schütze'
+#   description: 'The article takes a fresh look at the contemporary NLP systems from the standpoint of cognitive neuroscience; sketching a new framework for future research.'
+#   display: link
+#   image: pnas.png
+#   highlight: 1
+#   news: ''
+#   proceedings: Proceedings of the National Academy of Sciences of the United States of America
+#   title: "Placing language in an integrated understanding system: Next steps toward human-level performance in neural language models"
+#   url: 'https://www.pnas.org/content/117/42/25966'
+#   year: '2020'

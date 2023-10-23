@@ -1,0 +1,104 @@
+# - name: Maxine Musterfrau
+#   photo: female.jpeg
+#   info: Master student
+#   email: maxine.musterfrau@campus.lmu.de
+#   number_educ: 1
+#   education1: MSc. Computational Linguistics.
+
+- name: Philipp Dufter
+  photo: dufter.jpg
+  info: Alumnus
+  webpage: https://pdufter.github.io/
+  email: philipp@cis.lmu.de
+  number_educ: 3
+  education1: Ph.D. CIS, LMU Munich
+  education2: M.Sc. Imperial College London
+  education3: B.Sc. Technical University of Munich
+
+- name: Nora Kassner
+  photo: nora.jpeg
+  info: Alumna
+  email: kassner@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. (Physics) LMU Munich
+  education2: B.SC. (Physics) University of Heidelberg
+
+- name: Nina Poerner
+  photo: female.jpeg 
+  info: Apple Inc.
+  webpage: https://www.cis.uni-muenchen.de/~poerner
+  email: poerner@cis.lmu.de
+  number_educ: 4
+  education1: PhD, CIS, LMU Munich 
+  education2: M.Sc. Computational Linguistics, LMU Munich
+  education3: M.A. Phonetics and Speech Processing, LMU Munich
+  education4: B.A. French and Linguistics, University of Oxford
+
+- name: Haris Jabbar
+  photo: haris.jpeg
+  info: Scientific Researcher at Technische Universität Darmstadt
+  webpage: https://scholar.google.cl/citations?user=8H_RIcEAAAAJ&hl=en
+  email: jabbar@cis.lmu.de
+  number_educ: 3
+  education1: M.Sc. (CSE) Technical University Munich
+  education2: M.Sc. (Computer Engineering) University of Engineering & Technology, Taxila
+  education3: B.Engg (Aerospace) NUST, Pakistan
+
+- name: Masoud Jalili Sabet
+  photo: masoud.jpeg
+  info: Alumnus
+  email: jalili.masoud@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. University of Tehran, Iran.
+  education2: B.Sc. Iran University of Science and Technology (IUST), Iran.
+
+- name: Timo Schick
+  photo: male.jpeg
+  info: Alumnus
+  webpage: http://www.timoschick.com
+  email: schickt@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. TU Dresden, Germany
+  education2: B.Sc. TU Dresden, Germany
+
+- name: Martin Schmitt
+  photo: schmitt.jpg
+  info: Alumnus
+  email: martin@cis.lmu.de
+  webpage: https://www.cis.uni-muenchen.de/~martin
+  number_educ: 2
+  education1: M.Sc. in Computer Science, FAU Erlangen-Nürnberg
+  education2: B.A. in Computer Science and Indo-European Languages (two majors), FAU Erlangen-Nürnberg
+
+- name: Marina Sedinkina
+  photo: female.jpeg
+  info: Alumna
+  email: speranskaya@cis.lmu.de
+  number_educ: 2
+  education1: B.A. Computational Linguistics, University of Heidelberg
+  education2: M.Sc. Computational Linguistics, LMU
+
+- name: Silvia Severini
+  photo: silvia.png
+  info: Alumna
+  email: silvia@cis.lmu.de
+  webpage: https://silviaseverini.github.io/
+  number_educ: 2
+  education1: M.Sc. University of Pisa, Italy
+  education2: B.Sc. University of Bologna, Italy
+
+- name: Dietrich Trautmann
+  photo: trautmann.jpg
+  info: Alumnus 
+  webpage: www.trautmann.me
+  email: dietrich@cis.lmu.de
+  number_educ: 1
+  education1: M.Sc. (TUM)
+
+- name: Mengjie Zhao
+  photo: mzhao.jpeg 
+  info: Alumnus
+  email: mengjie.zhao@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. EPFL, Switzerland.
+  education2: B.Eng (Hons), ANU, Australia.

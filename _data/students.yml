@@ -1,0 +1,17 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Max Mustermann
+  photo: male.jpeg
+  info: Master student
+  email: max.mustermann@campus.lmu.de
+  number_educ: 2
+  education1: MSc. Computational Linguistics.
+  education2: BSc. Statistics.

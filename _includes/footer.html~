@@ -1,0 +1,36 @@
+<div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+		<div class="col-sm-4">
+			
+		  <p>&copy 2021 Schütze Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="{{ site.url }}{{ site.baseurl }}/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+              <p>We are part of the <a href="https://www.cis.uni-muenchen.de/">Centrum für Informations- und Sprachverarbeitung - CIS</a> at <a href="https://www.en.uni-muenchen.de/index.html">Ludwig Maximilian University of Munich</a>.</p>
+            
+
+		   <p>  </p><p>
+            		  
+            
+		</div>
+		<div class="col-sm-4">
+		  Funding:<br />
+		  - <a href="https://mcml.ai/">Munich Centre for Machine Learning</a> <br />
+		  - <a href="https://www.dfg.de/en/">Deutsche Forschungsgemeinschaft (DFG)</a> <br />
+		  - <a href='https://cordis.europa.eu/project/id/740516'>ERC advanced grant</a> <br />
+		  - <a href="https://www.mimesis-doc.uni-muenchen.de/index.html">Munich Doctoral Program (IDK)</a>
+		</div>
+		<div class="col-sm-4">
+		  Contact:<br />
+		  Centrum für Informations- und Sprachverarbeitung<br />
+		  Oettingenstraße 67, 1. OG, Flügel C<br />
+		  80538 München<br />
+		  Germany <br />
+            (<a href="https://goo.gl/maps/b2ssy6KTH9Xv68Y27">Maps</a>, <a href="https://www.cis.uni-muenchen.de/kontakt/index.html">Directions</a>)
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
