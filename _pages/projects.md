@@ -36,4 +36,13 @@ Arab worlds. A particular focus will be on digital humanities methods.
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 80%; float: center; margin: 10px"} -->
 
-## ... and more.
+<!-- ## ... and more. -->
+
+# Robotics Projects
+As large language models (LLMs) show impressive emergent abilities in various fields, we are exploring multiple directions combining LLMs into robotics.
+Currently, we are mostly interested in the following topics:
+
+## Long-Horizon Language-Conditioned Robotic Manipulation
+Given a high-level human instruction, the robot is supposed to understand the language instruction well and perform long-horizon memorizing and complex reasoning to complete the designated task.   
+We open-sourced a challenging benchmark *LoHoRavens* for this task and provided two baselines. 
+See more details on [LoHoRavens page](https://cisnlp.github.io/lohoravens-webpage/).
