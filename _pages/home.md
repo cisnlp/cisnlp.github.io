@@ -8,7 +8,9 @@ permalink: /
 
 We are a dynamic research group at the [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) located at [Ludwig Maximilian University Munich](https://www.en.uni-muenchen.de/index.html). Our primary focus is linguistically-informed Neural NLP: We use our deep understanding of language in our research and believe in the principle that learning is key to successful NLP -- the same way that the language capabilities of humans are based on learning. 
 
-Our research areas are representation learning, multilinguality, machine learning for low-resource scenarios, cognitively motivated deep learning, linguistically informed deep learning (especially for morphology) and digital humanities.
+Our research areas are representation learning, multilinguality, machine learning for low-resource scenarios, cognitively motivated deep learning, linguistically informed deep learning (especially for morphology), digital humanities, and the intersection of NLP and robotics.
+
+You can find resources (data, code, repositories) released by CIS lab members on our [GitHub page](https://github.com/cisnlp) and [HuggingFace page](https://huggingface.co/cis-lmu).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
