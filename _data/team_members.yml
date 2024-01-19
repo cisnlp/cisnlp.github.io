@@ -165,6 +165,15 @@
   number_educ: 1
   education1: MPhys Theoretical Physics, University of Edinburgh, UK
 
+- name: Mingyang Wang
+  photo: mingyang.jpg
+  info: PhD Student, started September 2022
+  webpage : https://ddd26.github.io/mingyang-wang.github.io/
+  email: mingyang@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. Robotics, Cognition, Intelligence, Technical University Munich, Germany
+  education2: B.Sc. Vehicle Engineering, Tongji University, China
+
 - name: Leonie Weissweiler
   photo: weissweiler.png
   info: PhD Student, started September 2020
