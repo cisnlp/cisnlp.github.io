@@ -18,7 +18,20 @@ WICHTIGER HINWEIS FUER BSc/MSc AM CIS: Die Betreuung einer Abschlussarbeit wird 
 
 Presently we have open BSc/MSc thesis positions in the following areas. Kindly apply on [this form](https://tinyurl.com/y2otyv2b). You can also apply if you have a thesis topic of your own :
 
-- [~~Task Label Aware Classification for Hate Speech and Harassment~~]({{ site.baseurl }}/thesis_proposals/Amir-2023-Project-1.pdf)
+- [Evaluating Faithfulness in Chain-of-Thought Reasoning]({{ site.baseurl }}/thesis_proposals/2024/Ali-2024-Project-1.pdf)
+- [Language Identification Challenges and Solutions]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-1.pdf)
+- [Privacy-preserving federated learning]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-1.pdf)
+- [Hate speech detection data generation for a low-resource language]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-2.pdf)
+- [Multilinguality of large-scale language models]({{ site.baseurl }}/thesis_proposals/2024/Chunlan-2024-Project-1.pdf)
+- [Deep Dive into Multilinguality Analysis and Evaluation of Open-Source Large Language Models through Neural Representations]({{ site.baseurl }}/thesis_proposals/2024/Ercong-2024-Project-1.pdf)
+- [Reinforcement Learning from Human Feedback in Story Generation]({{ site.baseurl }}/thesis_proposals/2024/Latif-2024-Project-1.pdf)
+- [In-Context Learning for Natural Language Generation]({{ site.baseurl }}/thesis_proposals/2024/Peiqin-2024-Project-1.pdf)
+- [Exploring Spatial Reasoning Abilities of Large Language Models]({{ site.baseurl }}/thesis_proposals/2024/Shengqiang-2024-Project-1.pdf)
+- [How Multilingual are Existing Multilingual Benchmark Datasets? A Systematic Investigation]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-1.pdf)
+- [Prioritized Training on Worth-Learning Samples with Your Pretrained Model]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-2.pdf)
+- [Improve The Robustness of Language Model To Prompts]({{ site.baseurl }}/thesis_proposals/2024/Yongkang-2024-Project-2.pdf)
+
+<!-- - [~~Task Label Aware Classification for Hate Speech and Harassment~~]({{ site.baseurl }}/thesis_proposals/Amir-2023-Project-1.pdf)
 - [~~Investigate temporal shift in hate speech detection~~]({{ site.baseurl }}/thesis_proposals/Antonis-2023-Project-1.pdf)
 - [Create SuperMBERT]({{ site.baseurl }}/thesis_proposals/Ayyoob-2023-Project-1.pdf)
 - [Improve low-resource language performance using intermediate language fine-tuning]({{ site.baseurl }}/thesis_proposals/Chunlan-2023-Project-1.pdf)
@@ -33,7 +46,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [~~Exploring Non-English Gender Bias in NLP Models~~]({{ site.baseurl }}/thesis_proposals/Victor-2023-Project-1.pdf)
 - [~~Adapt multilingual PLMs to new languages? Scripts can matter~~]({{ site.baseurl }}/thesis_proposals/Yihong-2023-Project-1.pdf)
 - [~~Deep Case: data and probing~~]({{ site.baseurl }}/thesis_proposals/Yihong-2023-Project-2.pdf)
-- [~~Towards A Unified Multi-Domain Framework for Dialogue Generation~~]({{ site.baseurl }}/thesis_proposals/Yongkang-2023-Project-1.pdf)
+- [~~Towards A Unified Multi-Domain Framework for Dialogue Generation~~]({{ site.baseurl }}/thesis_proposals/Yongkang-2023-Project-1.pdf) -->
 
 <!-- - [~~Analyzing the reasoning and self explaining capabilities of pretrained language models using prompts~~]({{ site.baseurl }}/thesis_proposals/2022_kerem_1.pdf)
 - [~~Synergize the cross-lingual similarities to come up with a better language representation~~]({{ site.baseurl }}/thesis_proposals/2022_ayyoob_2.pdf)
