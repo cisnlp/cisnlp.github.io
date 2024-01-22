@@ -29,7 +29,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Exploring Spatial Reasoning Abilities of Large Language Models]({{ site.baseurl }}/thesis_proposals/2024/Shengqiang-2024-Project-1.pdf)
 - [How Multilingual are Existing Multilingual Benchmark Datasets? A Systematic Investigation]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-1.pdf)
 - [Prioritized Training on Worth-Learning Samples with Your Pretrained Model]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-2.pdf)
-- [Improve The Robustness of Language Model To Prompts]({{ site.baseurl }}/thesis_proposals/2024/Yongkang-2024-Project-2.pdf)
+- [Improve The Robustness of Language Model To Prompts]({{ site.baseurl }}/thesis_proposals/2024/Yongkang-2024-Project-1.pdf)
 
 <!-- - [~~Task Label Aware Classification for Hate Speech and Harassment~~]({{ site.baseurl }}/thesis_proposals/Amir-2023-Project-1.pdf)
 - [~~Investigate temporal shift in hate speech detection~~]({{ site.baseurl }}/thesis_proposals/Antonis-2023-Project-1.pdf)
