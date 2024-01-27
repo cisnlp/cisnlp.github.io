@@ -28,7 +28,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Low resource language identification]({{ site.baseurl }}/thesis_proposals/2024/Molly-2024-Project-1.pdf)
 - [In-Context Learning for Natural Language Generation]({{ site.baseurl }}/thesis_proposals/2024/Peiqin-2024-Project-1.pdf)
 - [Normalization of Orthographic and Script Variances with the Help of Parallel Corpus]({{ site.baseurl }}/thesis_proposals/2024/Renhao-2024-Project-1.pdf)
-- [Enhancing Lexical Similarity Calcula4on through Grapheme-to-Phoneme Conversion]({{ site.baseurl }}/thesis_proposals/2024/Renhao-2024-Project-2.pdf)
+- [Enhancing Lexical Similarity Calculation through Grapheme-to-Phoneme Conversion]({{ site.baseurl }}/thesis_proposals/2024/Renhao-2024-Project-2.pdf)
 - [Using Aligned Word Embedding Spaces for Orthography and Script Normalization]({{ site.baseurl }}/thesis_proposals/2024/Renhao-2024-Project-3.pdf)
 - [Exploring Spatial Reasoning Abilities of Large Language Models]({{ site.baseurl }}/thesis_proposals/2024/Shengqiang-2024-Project-1.pdf)
 - [How Multilingual are Existing Multilingual Benchmark Datasets? A Systematic Investigation]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-1.pdf)
