@@ -20,6 +20,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 
 - [Evaluating Faithfulness in Chain-of-Thought Reasoning]({{ site.baseurl }}/thesis_proposals/2024/Ali-2024-Project-1.pdf)
 - [Language Identification Challenges and Solutions]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-1.pdf)
+- [GlotSparse: Creating Corpora in Under-Resourced Languages]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-2.pdf)
 - [Privacy-preserving federated learning]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-1.pdf)
 - [Hate speech detection data generation for a low-resource language]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-2.pdf)
 - [Multilinguality of large-scale language models]({{ site.baseurl }}/thesis_proposals/2024/Chunlan-2024-Project-1.pdf)
