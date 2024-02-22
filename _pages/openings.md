@@ -24,7 +24,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Privacy-preserving federated learning]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-1.pdf)
 - [Hate speech detection data generation for a low-resource language]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-2.pdf)
 - [Multilinguality of large-scale language models]({{ site.baseurl }}/thesis_proposals/2024/Chunlan-2024-Project-1.pdf)
-- [Deep Dive into Multilinguality Analysis and Evaluation of Open-Source Large Language Models through Neural Representations]({{ site.baseurl }}/thesis_proposals/2024/Ercong-2024-Project-1.pdf)
+- [~~Deep Dive into Multilinguality Analysis and Evaluation of Open-Source Large Language Models through Neural Representations~~]({{ site.baseurl }}/thesis_proposals/2024/Ercong-2024-Project-1.pdf)
 - [Reinforcement Learning from Human Feedback in Story Generation]({{ site.baseurl }}/thesis_proposals/2024/Latif-2024-Project-1.pdf)
 - [Low resource language identification]({{ site.baseurl }}/thesis_proposals/2024/Molly-2024-Project-1.pdf)
 - [In-Context Learning for Natural Language Generation]({{ site.baseurl }}/thesis_proposals/2024/Peiqin-2024-Project-1.pdf)
@@ -33,7 +33,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Using Aligned Word Embedding Spaces for Orthography and Script Normalization]({{ site.baseurl }}/thesis_proposals/2024/Renhao-2024-Project-3.pdf)
 - [Exploring Spatial Reasoning Abilities of Large Language Models]({{ site.baseurl }}/thesis_proposals/2024/Shengqiang-2024-Project-1.pdf)
 - [How Multilingual are Existing Multilingual Benchmark Datasets? A Systematic Investigation]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-1.pdf)
-- [Prioritized Training on Worth-Learning Samples with Your Pretrained Model]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-2.pdf)
+- [~~Prioritized Training on Worth-Learning Samples with Your Pretrained Model~~]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-2.pdf)
 - [Improve The Robustness of Language Model To Prompts]({{ site.baseurl }}/thesis_proposals/2024/Yongkang-2024-Project-1.pdf)
 
 <!-- - [~~Task Label Aware Classification for Hate Speech and Harassment~~]({{ site.baseurl }}/thesis_proposals/Amir-2023-Project-1.pdf)
