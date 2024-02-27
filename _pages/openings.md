@@ -32,7 +32,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Enhancing Lexical Similarity Calculation through Grapheme-to-Phoneme Conversion]({{ site.baseurl }}/thesis_proposals/2024/Renhao-2024-Project-2.pdf)
 - [Using Aligned Word Embedding Spaces for Orthography and Script Normalization]({{ site.baseurl }}/thesis_proposals/2024/Renhao-2024-Project-3.pdf)
 - [Exploring Spatial Reasoning Abilities of Large Language Models]({{ site.baseurl }}/thesis_proposals/2024/Shengqiang-2024-Project-1.pdf)
-- [How Multilingual are Existing Multilingual Benchmark Datasets? A Systematic Investigation]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-1.pdf)
+- [~~How Multilingual are Existing Multilingual Benchmark Datasets? A Systematic Investigation~~]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-1.pdf)
 - [~~Prioritized Training on Worth-Learning Samples with Your Pretrained Model~~]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-2.pdf)
 - [Improve The Robustness of Language Model To Prompts]({{ site.baseurl }}/thesis_proposals/2024/Yongkang-2024-Project-1.pdf)
 
