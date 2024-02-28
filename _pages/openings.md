@@ -23,6 +23,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [GlotSparse: Creating Corpora in Under-Resourced Languages]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-2.pdf)
 - [Privacy-preserving federated learning]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-1.pdf)
 - [Hate speech detection data generation for a low-resource language]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-2.pdf)
+- [Organize and Index Language Model Knowledge]({{ site.baseurl }}/thesis_proposals/2024/Ayyoob-2024-Project-1.pdf)
 - [Multilinguality of large-scale language models]({{ site.baseurl }}/thesis_proposals/2024/Chunlan-2024-Project-1.pdf)
 - [~~Deep Dive into Multilinguality Analysis and Evaluation of Open-Source Large Language Models through Neural Representations~~]({{ site.baseurl }}/thesis_proposals/2024/Ercong-2024-Project-1.pdf)
 - [~~Reinforcement Learning from Human Feedback in Story Generation~~]({{ site.baseurl }}/thesis_proposals/2024/Latif-2024-Project-1.pdf)
@@ -34,7 +35,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Exploring Spatial Reasoning Abilities of Large Language Models]({{ site.baseurl }}/thesis_proposals/2024/Shengqiang-2024-Project-1.pdf)
 - [~~How Multilingual are Existing Multilingual Benchmark Datasets? A Systematic Investigation~~]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-1.pdf)
 - [~~Prioritized Training on Worth-Learning Samples with Your Pretrained Model~~]({{ site.baseurl }}/thesis_proposals/2024/Yihong-2024-Project-2.pdf)
-- [Improve The Robustness of Language Model To Prompts]({{ site.baseurl }}/thesis_proposals/2024/Yongkang-2024-Project-1.pdf)
+- [~~Improve The Robustness of Language Model To Prompts~~]({{ site.baseurl }}/thesis_proposals/2024/Yongkang-2024-Project-1.pdf)
 
 <!-- - [~~Task Label Aware Classification for Hate Speech and Harassment~~]({{ site.baseurl }}/thesis_proposals/Amir-2023-Project-1.pdf)
 - [~~Investigate temporal shift in hate speech detection~~]({{ site.baseurl }}/thesis_proposals/Antonis-2023-Project-1.pdf)
