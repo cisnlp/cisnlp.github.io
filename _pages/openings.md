@@ -26,7 +26,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Organize and Index Language Model Knowledge]({{ site.baseurl }}/thesis_proposals/2024/Ayyoob-2024-Project-1.pdf)
 - [Multilinguality of large-scale language models]({{ site.baseurl }}/thesis_proposals/2024/Chunlan-2024-Project-1.pdf)
 - [~~Deep Dive into Multilinguality Analysis and Evaluation of Open-Source Large Language Models through Neural Representations~~]({{ site.baseurl }}/thesis_proposals/2024/Ercong-2024-Project-1.pdf)
-- [~~Reinforcement Learning from Human Feedback in Story Generation~~]({{ site.baseurl }}/thesis_proposals/2024/Latif-2024-Project-1.pdf)
+- [Reinforcement Learning from Human Feedback in Story Generation]({{ site.baseurl }}/thesis_proposals/2024/Latif-2024-Project-1.pdf)
 - [~~Low resource language identification~~]({{ site.baseurl }}/thesis_proposals/2024/Molly-2024-Project-1.pdf)
 - [In-Context Learning for Natural Language Generation]({{ site.baseurl }}/thesis_proposals/2024/Peiqin-2024-Project-1.pdf)
 - [Normalization of Orthographic and Script Variances with the Help of Parallel Corpus]({{ site.baseurl }}/thesis_proposals/2024/Renhao-2024-Project-1.pdf)
