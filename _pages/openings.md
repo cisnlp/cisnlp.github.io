@@ -19,8 +19,8 @@ WICHTIGER HINWEIS FUER BSc/MSc AM CIS: Die Betreuung einer Abschlussarbeit wird 
 Presently we have open BSc/MSc thesis positions in the following areas. Kindly apply on [this form](https://tinyurl.com/y2otyv2b). You can also apply if you have a thesis topic of your own :
 
 - [Evaluating Faithfulness in Chain-of-Thought Reasoning]({{ site.baseurl }}/thesis_proposals/2024/Ali-2024-Project-1.pdf)
-- [Language Identification Challenges and Solutions]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-1.pdf)
-- [GlotSparse: Creating Corpora in Under-Resourced Languages]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-2.pdf)
+- [~~Language Identification Challenges and Solutions~~]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-1.pdf)
+- [~~GlotSparse: Creating Corpora in Under-Resourced Languages~~]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-2.pdf)
 - [Privacy-preserving federated learning]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-1.pdf)
 - [Hate speech detection data generation for a low-resource language]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-2.pdf)
 - [Organize and Index Language Model Knowledge]({{ site.baseurl }}/thesis_proposals/2024/Ayyoob-2024-Project-1.pdf)
