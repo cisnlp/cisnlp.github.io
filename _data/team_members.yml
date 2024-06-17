@@ -132,6 +132,15 @@
   education1: M.Sc. in Computer Engineering, Iran University of Science and Technology, Iran
   education2: B.Sc. in Electrical Engineering, University of Tehran, Iran
 
+- name: Ercong Nie
+  photo: ercong.jpeg
+  info: PhD Student, started October 2022.
+  webpage: https://ercong21.github.io/
+  email: nie@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. Computational Linguistics and Informatics, LMU Munich, China
+  education2: B.A. German Linguistics and Finance, Shanghai Jiao Tong University, China
+
 - name: Thomas Schäfer
   photo: male.jpeg 
   info: IT System administration
