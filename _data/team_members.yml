@@ -24,6 +24,15 @@
   email: sekr@cis.lmu.de
   number_educ: 0
 
+- name: Ahmad Dawar Hakimi
+  photo: dawar.jpg
+  info: PhD Student, started April 2024 
+  webpage: https://adhakimi.github.io/
+  email: adhakimi@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc., Computer Science, Leipzig University, Germany
+  education2: B.Sc., Computer Science, Leipzig University, Germany 
+
 - name: Valentin Hofmann
   photo: male.jpeg
   info: PhD Student, started  
@@ -182,15 +191,6 @@
   number_educ: 2
   education1: M.Sc. Robotics, Cognition, Intelligence, Technical University Munich, Germany
   education2: B.Sc. Vehicle Engineering, Tongji University, China
-
-- name: Leonie Weissweiler
-  photo: weissweiler.png
-  info: PhD Student, started September 2020
-  webpage : https://www.cis.uni-muenchen.de/~weissweiler
-  email: weissweiler@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc. Computational Linguistics, LMU Munich
-  education2: B.Sc. Computational Linguistics, LMU Munich
 
 - name: Philipp Wicke
   photo: philipp.png

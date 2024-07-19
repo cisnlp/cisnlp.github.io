@@ -95,6 +95,15 @@
   number_educ: 1
   education1: M.Sc. (TUM)
 
+- name: Leonie Weissweiler
+  photo: weissweiler.png
+  info: PhD Student, started September 2020
+  webpage : https://www.cis.uni-muenchen.de/~weissweiler
+  email: weissweiler@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. Computational Linguistics, LMU Munich
+  education2: B.Sc. Computational Linguistics, LMU Munich
+
 - name: Mengjie Zhao
   photo: mzhao.jpeg 
   info: Alumnus
