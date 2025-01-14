@@ -9,20 +9,21 @@
   education2: Professor of Computer Science (courtesy appointment) (Zweitmitglied) in <a href="https://www.uni-muenchen.de/einrichtungen/fakultaeten/v16_mathe/index.html"> Faculty 16 </a>
   education3: Phd in Computational Linguistics from Stanford University, 1995
 
-- name: Prof. Dr. Franz Guenthner
-  photo: guenthner.jpg
-  info: Professor of Computational Linguistics (retired)
-  email: gue@cis.uni-muenchen.de
-  phone: 
-  webpage: https://en.wikipedia.org/wiki/Franz_Guenthner
-  number_educ: 0
-
 - name: Peggy Hobmaier
   photo: peggy.jpeg 
   info: Secretary CIS, LMU
   webpage: https://www.cis.uni-muenchen.de/personen/sekretariat/hobmaier/index.html
   email: sekr@cis.lmu.de
   number_educ: 0
+
+- name: Sebastian Gerstner
+  photo: sebastian.JPG
+  info: PhD Student, started September 2024 
+  webpage:
+  email: sgerstner@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. in Mathematics, University of Zurich, Switzerland
+  education2: B.Sc. in Mathematics and Linguistics, University of Zurich, Switzerland
 
 - name: Ahmad Dawar Hakimi
   photo: dawar.jpg
@@ -33,33 +34,14 @@
   education1: M.Sc., Computer Science, Leipzig University, Germany
   education2: B.Sc., Computer Science, Leipzig University, Germany 
 
-- name: Valentin Hofmann
-  photo: male.jpeg
-  info: PhD Student, started  
-  webpage: https://valentinhofmann.github.io
-  email: valentin.hofmann@ling-phil.ox.ac.uk
+- name: Lea Hirlimann
+  photo: lea.jpg
+  info: PhD Student, started January 2025
+  webpage:
+  email: hirlimann@cis.lmu.de
   number_educ: 2
-  education1: MSt, University of Oxford, UK
-  education2: MSc, LMU Munich, Germany
-
-- name: Ayyoob Imani
-  photo: ayyoob.jpeg
-  info: PhD Student, started November 2020
-  webpage: https://ayyoobimani.github.io/
-  email: ayyoob@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc. in Computer Engineering, University of Tehran, Iran
-  education2: B.Sc. in Computer Engineering, Iran University of Science and Technology, Iran
-
-- name: Aikaterini-Lida (Katerina) Kalouli
-  photo: kalouli.jpeg
-  info: Akademische Rätin, started August 2021
-  webpage: https://cis.lmu.de/~kalouli/
-  email: kalouli@cis.lmu.de
-  number_educ: 3
-  education1: Dr. phil, University of Konstanz
-  education2: M.A. Speech and Language Processing, University of Konstanz
-  education3: University Diploma of Philology, Major in Linguistics, National University of Athens Kapodistriakon
+  education1: Msc in Computational Linguistics, LMU Munich
+  education2: Bsc in Computational Linguistics, LMU Munich 
 
 - name: Amir Hossein Kargaran
   photo: amir.jpg
@@ -106,14 +88,6 @@
   education1: M.Sc, Technical University of Munich, Germany
   education2: B.Eng, Southwest University, China
 
-- name: Yongkang Liu
-  photo: yongkang.jpg
-  info: PhD Student, started November 2022
-  webpage: https://misoknisky.github.io/
-  email: misonsky.lyk@gmail.com
-  number_educ: 1
-  education1: M.Sc, Northeastern University, China
-
 - name: Chunlan Ma
   photo: chunlan.JPG
   info: PhD Student, started December 2022
@@ -122,15 +96,6 @@
   number_educ: 2
   education1: M.Sc, LMU Munich, Germany
   education2: B.Art & B.Eco, Southwest University, China
-  
-- name: Antonis Maronikolakis 
-  photo: antonis.jpeg
-  info: PhD Student, started January 2020.
-  webpage: https://antmarakis.github.io
-  email: antmarakis@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc, Computer Science with Speech and Language Processing, University of Sheffield, UK
-  education2: B.Sc, University of Piraeus, Greece
 
 - name: Ali Modarressi
   photo: ali.jpg
@@ -165,23 +130,15 @@
   email: schmid@cis.uni-muenchen.de
   number_educ: 1
   education1: Dr. phil., IMS, University of Stuttgart, Germany
-  
-- name: Lütfi Kerem Şenel
-  photo: kerem.jpeg
-  info: PhD Student, started October 2019
-  webpage: https://scholar.google.ch/citations?user=w5ePE1oAAAAJ&hl=en
-  email: lksenel@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc. Bilkent University, Turkey
-  education2: B.Sc. Bilkent University, Turkey
 
-- name: Victor Steinborn
-  photo: vsteinborn.jpg
-  info: PhD student, started January 2021
-  webpage: https://vsteinborn.github.io
-  email: vsteinborn@cis.uni-muenchen.de
-  number_educ: 1
-  education1: MPhys Theoretical Physics, University of Edinburgh, UK
+- name: Leonor Veloso
+  photo: leonor.jpeg
+  info: PhD Student, started October 2024
+  webpage : https://leonorv.github.io/
+  email: lveloso@cis.lmu.de
+  number_educ: 2
+  education1: MSc in Computer Science and Engineering at Instituto Superior Técnico
+  education2: BSc in Computer Science and Engineering at Instituto Superior Técnico
 
 - name: Mingyang Wang
   photo: mingyang.jpg
@@ -192,7 +149,7 @@
   education1: M.Sc. Robotics, Cognition, Intelligence, Technical University Munich, Germany
   education2: B.Sc. Vehicle Engineering, Tongji University, China
 
-- name: Philipp Wicke
+- name: Dr. Philipp Wicke
   photo: philipp.png
   info: Akademischer Rat, started October 2021
   webpage: http://www.phil-wicke.com/
@@ -202,7 +159,7 @@
   education2: B.Sc. Cognitive Science, University of Osnabrück
   education3: Head of AI Applications at "AI for People"
 
-- name: Axel Wisiorek
+- name: Dr. Axel Wisiorek
   photo: aw.jpg
   info: Research Assistant
   webpage: https://www.cis.uni-muenchen.de/personen/mitarbeiter/wisiorek/index.html

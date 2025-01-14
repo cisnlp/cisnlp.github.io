@@ -5,6 +5,14 @@
 #   number_educ: 1
 #   education1: MSc. Computational Linguistics.
 
+- name: Prof. Dr. Franz Guenthner
+  photo: guenthner.jpg
+  info: Professor of Computational Linguistics (retired)
+  email: gue@cis.uni-muenchen.de
+  phone: 
+  webpage: https://en.wikipedia.org/wiki/Franz_Guenthner
+  number_educ: 0
+
 - name: Philipp Dufter
   photo: dufter.jpg
   info: Alumnus
@@ -34,6 +42,24 @@
   education3: M.A. Phonetics and Speech Processing, LMU Munich
   education4: B.A. French and Linguistics, University of Oxford
 
+- name: Valentin Hofmann
+  photo: male.jpeg
+  info: PhD Student, started  
+  webpage: https://valentinhofmann.github.io
+  email: valentin.hofmann@ling-phil.ox.ac.uk
+  number_educ: 2
+  education1: MSt, University of Oxford, UK
+  education2: MSc, LMU Munich, Germany
+
+- name: Ayyoob Imani
+  photo: ayyoob.jpeg
+  info: PhD Student, started November 2020
+  webpage: https://ayyoobimani.github.io/
+  email: ayyoob@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. in Computer Engineering, University of Tehran, Iran
+  education2: B.Sc. in Computer Engineering, Iran University of Science and Technology, Iran
+
 - name: Haris Jabbar
   photo: haris.jpeg
   info: Scientific Researcher at Technische Universität Darmstadt
@@ -51,6 +77,33 @@
   number_educ: 2
   education1: M.Sc. University of Tehran, Iran.
   education2: B.Sc. Iran University of Science and Technology (IUST), Iran.
+
+- name: Aikaterini-Lida (Katerina) Kalouli
+  photo: kalouli.jpeg
+  info: Akademische Rätin, started August 2021
+  webpage: https://cis.lmu.de/~kalouli/
+  email: kalouli@cis.lmu.de
+  number_educ: 3
+  education1: Dr. phil, University of Konstanz
+  education2: M.A. Speech and Language Processing, University of Konstanz
+  education3: University Diploma of Philology, Major in Linguistics, National University of Athens Kapodistriakon
+
+- name: Yongkang Liu
+  photo: yongkang.jpg
+  info: PhD Student, started November 2022
+  webpage: https://misoknisky.github.io/
+  email: misonsky.lyk@gmail.com
+  number_educ: 1
+  education1: M.Sc, Northeastern University, China
+
+- name: Antonis Maronikolakis 
+  photo: antonis.jpeg
+  info: PhD Student, started January 2020.
+  webpage: https://antmarakis.github.io
+  email: antmarakis@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc, Computer Science with Speech and Language Processing, University of Sheffield, UK
+  education2: B.Sc, University of Piraeus, Greece
 
 - name: Timo Schick
   photo: male.jpeg
@@ -86,6 +139,23 @@
   number_educ: 2
   education1: M.Sc. University of Pisa, Italy
   education2: B.Sc. University of Bologna, Italy
+
+- name: Lütfi Kerem Şenel
+  photo: kerem.jpeg
+  info: PhD Student, started October 2019
+  webpage: https://scholar.google.ch/citations?user=w5ePE1oAAAAJ&hl=en
+  email: lksenel@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. Bilkent University, Turkey
+  education2: B.Sc. Bilkent University, Turkey
+
+- name: Victor Steinborn
+  photo: vsteinborn.jpg
+  info: PhD student, started January 2021
+  webpage: https://vsteinborn.github.io
+  email: vsteinborn@cis.uni-muenchen.de
+  number_educ: 1
+  education1: MPhys Theoretical Physics, University of Edinburgh, UK
 
 - name: Dietrich Trautmann
   photo: trautmann.jpg
