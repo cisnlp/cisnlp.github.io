@@ -36,6 +36,8 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Are LLMs Robust to Typos Across Languages?]({{ site.baseurl }}/thesis_proposals/2025/Yihong-2025-Project-1.pdf)
 - [Language-Specific Concepts in LLMs]({{ site.baseurl }}/thesis_proposals/2025/Yihong-2025-Project-2.pdf)
 - [Investigating Temporal Bias in Pretrained Language Models]({{ site.baseurl }}/thesis_proposals/2025/Zeinab-2025-Project-1.pdf)
+
+
 <!-- - [~~Language Identification Challenges and Solutions~~]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-1.pdf)
 - [~~GlotSparse: Creating Corpora in Under-Resourced Languages~~]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-2.pdf)
 - [~~Privacy-preserving federated learning~~]({{ site.baseurl }}/thesis_proposals/2024/Axel-Haotian-2024-Project-1.pdf)
