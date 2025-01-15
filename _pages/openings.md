@@ -19,7 +19,7 @@ WICHTIGER HINWEIS FUER BSc/MSc AM CIS: Die Betreuung einer Abschlussarbeit wird 
 Presently we have open BSc/MSc thesis positions in the following areas. Kindly apply on [this form](https://tinyurl.com/y2otyv2b). You can also apply if you have a thesis topic of your own :
 
 - [Evaluating Faithfulness in Chain-of-Thought Reasoning]({{ site.baseurl }}/thesis_proposals/2024/Ali-2024-Project-1.pdf)
-- [Evaluating Poetic Meter Recognition in Large Language Models]({{ site.baseurl }}/thesis_proposals/2025/Amir-2024-Project-1.pdf)
+- [Evaluating Poetic Meter Recognition in Large Language Models]({{ site.baseurl }}/thesis_proposals/2025/Amir-2025-Project-1.pdf)
 - [Multilingual Synthetic data generation using LLM]({{ site.baseurl }}/thesis_proposals/2025/Chunlan-2025-Project-1.pdf)
 - [Survey on the Application of Agent Tools Using LLMs]({{ site.baseurl }}/thesis_proposals/2025/Chunlan-2025-Project-2.pdf)
 - [Multilingual Factual and Linguistic Knowledge Probing]({{ site.baseurl }}/thesis_proposals/2025/Dawar-2025-Project-1.pdf)
