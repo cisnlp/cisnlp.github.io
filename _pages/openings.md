@@ -14,7 +14,12 @@ You will have the chance to work at the cutting edge of research in computationa
 
 ### Current open thesis positions
 
-WICHTIGER HINWEIS FUER BSc/MSc AM CIS: Die Betreuung einer Abschlussarbeit wird nur in Betracht gezogen, wenn Sie sich mindestens zwei Wochen vor Beginn des einwoechigen Anmeldungszeitraums ueber dieses Portal beworben haben.
+WICHTIGER HINWEIS FUER BSc/MSc AM CIS: Die Betreuung einer Abschlussarbeit wird nur in Betracht gezogen, wenn Sie sich mindestens zwei Wochen vor Beginn des einwoechigen Anmeldungszeitraums ueber dieses Portal beworben haben.  
+
+REMINDER. If you are a CL student from CIS and want to do a BSc/MSc thesis in our lab, you must contact a supervisor (or through our application form) before the following dates:  
+  
+Feb 12 for MSc thesis  
+Feb 26 for BSc thesis  
 
 Presently we have open BSc/MSc thesis positions in the following areas. Kindly apply on [this form](https://tinyurl.com/y2otyv2b). You can also apply if you have a thesis topic of your own :
 
