@@ -31,6 +31,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Survey on Sparse Autoencoders: Techniques, Applications, and Future Directions]({{ site.baseurl }}/thesis_proposals/2025/Dawar-2025-Project-2.pdf)
 - [Leveraging conceptual language similarity for cross-lingual transfer learning]({{ site.baseurl }}/thesis_proposals/2025/Haotian-2025-Project-1.pdf)
 - [Customized federated learning]({{ site.baseurl }}/thesis_proposals/2025/Haotian-2025-Project-2.pdf)
+- [Hate speech detection in a low-resource setting]({{ site.baseurl }}/thesis_proposals/2025/Haotian-2025-Project-3.pdf)
 - [Analysis of unique language usage in german political discourse]({{ site.baseurl }}/thesis_proposals/2025/Lea-2025-Project-1.pdf)
 - [Analyzing the processing of idiomatic phrases in pretrained (and finetuned) trans- former models]({{ site.baseurl }}/thesis_proposals/2025/Lea-2025-Project-2.pdf)
 - [Developing a benchmark for multilingual gender-neutral generalization with neo- pronouns]({{ site.baseurl }}/thesis_proposals/2025/Leonor-2025-Project-1.pdf)
