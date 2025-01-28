@@ -42,7 +42,9 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Explore the Spatial-Temporal Reasoning Capability of Foundation Models in Vision-Language Navigation]({{ site.baseurl }}/thesis_proposals/2025/Shengqiang-2025-Project-1.pdf)
 - [Are LLMs Robust to Typos Across Languages?]({{ site.baseurl }}/thesis_proposals/2025/Yihong-2025-Project-1.pdf)
 - [Language-Specific Concepts in LLMs]({{ site.baseurl }}/thesis_proposals/2025/Yihong-2025-Project-2.pdf)
-- [Investigating Temporal Bias in Pretrained Language Models]({{ site.baseurl }}/thesis_proposals/2025/Zeinab-2025-Project-1.pdf)
+- [Analyzing the Impact of Date Formats on Temporal Reasoning in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Zeinab-2025-Project-1.pdf)
+- [Mitigating Temporal Bias in Pretrained Language Models via Fine-Tuning Strate- gies]({{ site.baseurl }}/thesis_proposals/2025/Zeinab-2025-Project-2.pdf)
+
 
 
 <!-- - [~~Language Identification Challenges and Solutions~~]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-1.pdf)
