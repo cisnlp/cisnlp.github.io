@@ -33,7 +33,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [~~Customized federated learning~~]({{ site.baseurl }}/thesis_proposals/2025/Haotian-2025-Project-2.pdf)
 - [Hate speech detection in a low-resource setting]({{ site.baseurl }}/thesis_proposals/2025/Haotian-2025-Project-3.pdf)
 - [Analysis of unique language usage in german political discourse]({{ site.baseurl }}/thesis_proposals/2025/Lea-2025-Project-1.pdf)
-- [Analyzing the processing of idiomatic phrases in pretrained (and finetuned) trans- former models]({{ site.baseurl }}/thesis_proposals/2025/Lea-2025-Project-2.pdf)
+- [~~Analyzing the processing of idiomatic phrases in pretrained (and finetuned) trans- former models~~]({{ site.baseurl }}/thesis_proposals/2025/Lea-2025-Project-2.pdf)
 - [Developing a benchmark for multilingual gender-neutral generalization with neo- pronouns]({{ site.baseurl }}/thesis_proposals/2025/Leonor-2025-Project-1.pdf)
 - [Morality-related directions in the activation space of multilingual models]({{ site.baseurl }}/thesis_proposals/2025/Leonor-2025-Project-2.pdf)
 - [Exploring Strategies to Defend Editing Attacks in Large Language Models]({{ site.baseurl }}/thesis_proposals/2025/Mingyang-2025-Project-1.pdf)
@@ -42,7 +42,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [Embedding arithmetic in Transformer embedding matrices?]({{ site.baseurl }}/thesis_proposals/2025/Sebastian-2025-Project-1.pdf)
 - [Explore the Spatial-Temporal Reasoning Capability of Foundation Models in Vision-Language Navigation]({{ site.baseurl }}/thesis_proposals/2025/Shengqiang-2025-Project-1.pdf)
 - [Are LLMs Robust to Typos Across Languages?]({{ site.baseurl }}/thesis_proposals/2025/Yihong-2025-Project-1.pdf)
-- [Language-Specific Concepts in LLMs]({{ site.baseurl }}/thesis_proposals/2025/Yihong-2025-Project-2.pdf)
+- [~~Language-Specific Concepts in LLMs~~]({{ site.baseurl }}/thesis_proposals/2025/Yihong-2025-Project-2.pdf)
 - [Analyzing the Impact of Date Formats on Temporal Reasoning in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Zeinab-2025-Project-1.pdf)
 - [Mitigating Temporal Bias in Pretrained Language Models via Fine-Tuning Strate- gies]({{ site.baseurl }}/thesis_proposals/2025/Zeinab-2025-Project-2.pdf)
 
