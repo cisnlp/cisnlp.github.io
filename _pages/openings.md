@@ -8,9 +8,7 @@ permalink: /vacancies/
 
 # Working at Schütze Lab
 
-We are always looking for new group members with passion, talent, and grit!
-
-You will have the chance to work at the cutting edge of research in computational linguistics and NLP. You may be exploring multilinguality on a Bible corpus of 1700+ languages, improving and enhancing latest transformer models or pushing the state of art on existing NLP tasks; you will be involved in asking the interesting questions, designing algorithms, conducting experiments and finally presenting your research in the best conferences around the world. 
+We are always looking for new group members with passion, talent, and grit! You will have the chance to work at the cutting edge of research in computational linguistics and NLP.  
 
 ### Current open thesis positions
 

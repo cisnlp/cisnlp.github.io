@@ -7,7 +7,11 @@ permalink: /about/
 ---
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/teampic/schuetze_citations.jpg){: style="width: 80%; float: center; margin: 20px"} -->
-# CV 
+# Hinrich Schütze CV 
+
+**Wikipedia**: [Link](https://de.wikipedia.org/wiki/Hinrich_Sch%C3%BCtze)
+
+**Google Scholar Profile**: [Link](https://scholar.google.com/citations?hl=en&user=qIL9dWUAAAAJ)
 
 **2021**
 Ellis [Fellow](https://ellis.eu/fellows)
@@ -49,17 +53,6 @@ Xerox Palo Alto Research Center
 
 **1995** PhD in Computational Linguistics, Stanford
 
-### Wikipedia article : [Hinrich Schütze](https://de.wikipedia.org/wiki/Hinrich_Sch%C3%BCtze)
-### Google Scholar Profile (as of 1 Sep 2022)
-
-[Profile link](https://scholar.google.com/citations?hl=en&user=qIL9dWUAAAAJ)
-
-Total Citations : 64,455
-
-h-index	        : 69	
-
-i10-index       : 249
-
-<figure align="center">
+<!-- <figure align="center">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/schuetze_citations_updated.jpg" width="65%" style="padding:16px">
-</figure>
+</figure> -->

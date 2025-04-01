@@ -11,8 +11,7 @@ permalink: /publications/
 
 <!-- ## Group selected -->
 
-(Full list is available on CIS [website](https://www.cis.uni-muenchen.de/publications/).)
-
+The full list of publications is available on the CIS [website](https://www.cis.uni-muenchen.de/publications/).
 
 <!-- {% for publi in site.data.publist %}
 
