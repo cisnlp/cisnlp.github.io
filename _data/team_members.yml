@@ -198,7 +198,7 @@
            
 - name: "This could be you !"
   photo: smile.png
-  info: See <a href="http://schuetze.cis.lmu.de/vacancies/">openings</a> for more info
+  info: See <a href="/vacancies">openings</a> for more info
   email: schuetze_lab@cis.lmu.de
   number_educ: 0
   education1:
