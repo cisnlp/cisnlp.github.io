@@ -23,10 +23,10 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 
 - [(MSc) Evaluating Faithfulness in Chain-of-Thought Reasoning]({{ site.baseurl }}/thesis_proposals/2024/Ali-2024-Project-1.pdf)
 - [~~(BSc) Evaluating Poetic Meter Recognition in Large Language Models~~]({{ site.baseurl }}/thesis_proposals/2025/Amir-2025-Project-1.pdf)
-- [(MSc) Multilingual Synthetic data generation using LLM]({{ site.baseurl }}/thesis_proposals/2025/Chunlan-2025-Project-1.pdf)
-- [(BSc/MSc) Survey on the Application of Agent Tools Using LLMs]({{ site.baseurl }}/thesis_proposals/2025/Chunlan-2025-Project-2.pdf)
+- [~~(MSc) Multilingual Synthetic data generation using LLM~~]({{ site.baseurl }}/thesis_proposals/2025/Chunlan-2025-Project-1.pdf)
+- [~~(BSc/MSc) Survey on the Application of Agent Tools Using LLMs~~]({{ site.baseurl }}/thesis_proposals/2025/Chunlan-2025-Project-2.pdf)
 - [(BSc/MSc) Multilingual Factual and Linguistic Knowledge Probing]({{ site.baseurl }}/thesis_proposals/2025/Dawar-2025-Project-1.pdf)
-- [(BSc/MSc) Survey on Sparse Autoencoders: Techniques, Applications, and Future Directions]({{ site.baseurl }}/thesis_proposals/2025/Dawar-2025-Project-2.pdf)
+- [~~(BSc/MSc) Survey on Sparse Autoencoders: Techniques, Applications, and Future Directions~~]({{ site.baseurl }}/thesis_proposals/2025/Dawar-2025-Project-2.pdf)
 - [~~(BSc) Leveraging conceptual language similarity for cross-lingual transfer learning~~]({{ site.baseurl }}/thesis_proposals/2025/Haotian-2025-Project-1.pdf)
 - [~~(MSc) Customized federated learning~~]({{ site.baseurl }}/thesis_proposals/2025/Haotian-2025-Project-2.pdf)
 - [~~(BSc/MSc) Hate speech detection in a low-resource setting~~]({{ site.baseurl }}/thesis_proposals/2025/Haotian-2025-Project-3.pdf)
@@ -41,8 +41,8 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [~~(BSc/MSc) Explore the Spatial-Temporal Reasoning Capability of Foundation Models in Vision-Language Navigation~~]({{ site.baseurl }}/thesis_proposals/2025/Shengqiang-2025-Project-1.pdf)
 - [~~(BSc/MSc) Are LLMs Robust to Typos Across Languages?~~]({{ site.baseurl }}/thesis_proposals/2025/Yihong-2025-Project-1.pdf)
 - [~~(MSc) Language-Specific Concepts in LLMs~~]({{ site.baseurl }}/thesis_proposals/2025/Yihong-2025-Project-2.pdf)
-- [(BSc) Analyzing the Impact of Date Formats on Temporal Reasoning in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Zeinab-2025-Project-1.pdf)
-- [(MSc) Mitigating Temporal Bias in Pretrained Language Models via Fine-Tuning Strategies]({{ site.baseurl }}/thesis_proposals/2025/Zeinab-2025-Project-2.pdf)
+- [~~(BSc) Analyzing the Impact of Date Formats on Temporal Reasoning in Language Models~~]({{ site.baseurl }}/thesis_proposals/2025/Zeinab-2025-Project-1.pdf)
+- [~~(MSc) Mitigating Temporal Bias in Pretrained Language Models via Fine-Tuning Strategies~~]({{ site.baseurl }}/thesis_proposals/2025/Zeinab-2025-Project-2.pdf)
 
 
 
