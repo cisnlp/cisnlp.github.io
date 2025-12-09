@@ -22,7 +22,6 @@ Feb 26 for BSc thesis
 Presently we have open BSc/MSc thesis positions in the following areas. Kindly apply on [this form](https://tinyurl.com/y2otyv2b). You can also apply if you have a thesis topic of your own :
 
 - [(MSc) Evaluating Faithfulness in Chain-of-Thought Reasoning]({{ site.baseurl }}/thesis_proposals/2024/Ali-2024-Project-1.pdf)
-- [(BSc/MSc) Multilingual Factual and Linguistic Knowledge Probing]({{ site.baseurl }}/thesis_proposals/2025/Dawar-2025-Project-1.pdf)
 - [(MSc) Morality-related directions in the activation space of multilingual models]({{ site.baseurl }}/thesis_proposals/2025/Leonor-2025-Project-2.pdf)
 - [(BSc) Investigating Media Bias in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-1.pdf)
 - [(MSc) Investigating Media Bias in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-2.pdf)
