@@ -22,9 +22,28 @@ Feb 26 for BSc thesis
 Presently we have open BSc/MSc thesis positions in the following areas. Kindly apply on [this form](https://tinyurl.com/y2otyv2b). You can also apply if you have a thesis topic of your own :
 
 - [(MSc) Evaluating Faithfulness in Chain-of-Thought Reasoning]({{ site.baseurl }}/thesis_proposals/2024/Ali-2024-Project-1.pdf)
+- [(MSc) Measuring and Exploiting Redundancy in Multi-Turn Reasoning Traces]({{ site.baseurl }}/thesis_proposals/2026/Ali-2026-Project-1.pdf)
+- [(MSc) Look Again: Prompt-Level Visual Repetition for Robust Reasoning in Vision–Language Models]({{ site.baseurl }}/thesis_proposals/2026/Ali-2026-Project-2.pdf)
+- [(BSc) Warm-Starting Active Learning with Synthetic Data for Imbalanced Hate Speech Classification]({{ site.baseurl }}/thesis_proposals/2026/Dawar-2026-Project-1.pdf)
+- [(MSc) Query-Level Uncertainty for Ability-Aware Routing and Triage in Active Learning]({{ site.baseurl }}/thesis_proposals/2026/Dawar-2026-Project-2.pdf)
+- [(BSc/MSc) Relations in the Wild: Collecting Contextual Instances of Relation Triples for the Detection of Latent Representations]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-1.pdf)
+- [(MSc) Visualizing Spatial Understanding of Textual Descriptions in Language Models]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-2.pdf)
+- [(BSc/MSc) Empowering Minority Voices in Text Generation: Creating a Contrastive Dataset for Activation Steering]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-3.pdf)
 - [(MSc) Morality-related directions in the activation space of multilingual models]({{ site.baseurl }}/thesis_proposals/2025/Leonor-2025-Project-2.pdf)
+- [(BSc/MSc) Exploring Archival of Queer Language across Time and Communities]({{ site.baseurl }}/thesis_proposals/2026/Leonor-2026-Project-1.pdf)
+- [(MSc) Effects of Pretraining on Bias in LLMs]({{ site.baseurl }}/thesis_proposals/2026/Leonor-2026-Project-2.pdf)
 - [(BSc) Investigating Media Bias in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-1.pdf)
 - [(MSc) Investigating Media Bias in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-2.pdf)
+- [(BSc) A Prompt Stress-Test Suite for LLM Media-Bias Judgments]({{ site.baseurl }}/thesis_proposals/2026/Molly-2026-Project-1.pdf)
+- [(MSc) Translation-Induced Framing Shifts in LLM Bias Evaluations]({{ site.baseurl }}/thesis_proposals/2026/Molly-2026-Project-2.pdf)
+- [(BSc) Bag-of-words based news recommender system]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-1.pdf)
+- [(MSc) Faithfulness / plausibility of logit lens across models]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-2.pdf)
+- [(BSc/MSc) Are Pixel-based Models More Robust Against Textual Perturbations?]({{ site.baseurl }}/thesis_proposals/2026/Yihong-2026-Project-1.pdf)
+- [(MSc) Identifying Relation Neurons with Synthetic Data]({{ site.baseurl }}/thesis_proposals/2026/Yihong-2026-Project-2.pdf)
+- [(BSc) Evaluating Faithfulness of Post-hoc Explanation Methods for Transformer-based
+Text Classification]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-1.pdf)
+- [(MSc) Aligning Natural Language Explanations with Token-level Attributions in
+Instruction-tuned Language Models]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-2.pdf)
 
 
 
