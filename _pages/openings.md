@@ -24,6 +24,8 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [(MSc) Evaluating Faithfulness in Chain-of-Thought Reasoning]({{ site.baseurl }}/thesis_proposals/2024/Ali-2024-Project-1.pdf)
 - [(MSc) Measuring and Exploiting Redundancy in Multi-Turn Reasoning Traces]({{ site.baseurl }}/thesis_proposals/2026/Ali-2026-Project-1.pdf)
 - [(MSc) Look Again: Prompt-Level Visual Repetition for Robust Reasoning in Vision–Language Models]({{ site.baseurl }}/thesis_proposals/2026/Ali-2026-Project-2.pdf)
+- [(BSc/MSc) Pragmatic categories in hate speech annotation]({{ site.baseurl }}/thesis_proposals/2026/Axel-2026-Project-1.pdf)
+- [(BSc/MSc) Structured Retrieval for Improved Named Entity Recognition with LLMs in historical corpora]({{ site.baseurl }}/thesis_proposals/2026/Axel-2026-Project-2.pdf)
 - [(BSc) Warm-Starting Active Learning with Synthetic Data for Imbalanced Hate Speech Classification]({{ site.baseurl }}/thesis_proposals/2026/Dawar-2026-Project-1.pdf)
 - [(MSc) Query-Level Uncertainty for Ability-Aware Routing and Triage in Active Learning]({{ site.baseurl }}/thesis_proposals/2026/Dawar-2026-Project-2.pdf)
 - [(BSc/MSc) Relations in the Wild: Collecting Contextual Instances of Relation Triples for the Detection of Latent Representations]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-1.pdf)
@@ -40,10 +42,8 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [(MSc) Faithfulness / plausibility of logit lens across models]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-2.pdf)
 - [(BSc/MSc) Are Pixel-based Models More Robust Against Textual Perturbations?]({{ site.baseurl }}/thesis_proposals/2026/Yihong-2026-Project-1.pdf)
 - [(MSc) Identifying Relation Neurons with Synthetic Data]({{ site.baseurl }}/thesis_proposals/2026/Yihong-2026-Project-2.pdf)
-- [(BSc) Evaluating Faithfulness of Post-hoc Explanation Methods for Transformer-based
-Text Classification]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-1.pdf)
-- [(MSc) Aligning Natural Language Explanations with Token-level Attributions in
-Instruction-tuned Language Models]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-2.pdf)
+- [(BSc) Evaluating Faithfulness of Post-hoc Explanation Methods for Transformer-based Text Classification]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-1.pdf)
+- [(MSc) Aligning Natural Language Explanations with Token-level Attributions in Instruction-tuned Language Models]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-2.pdf)
 
 
 
