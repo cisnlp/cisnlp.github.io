@@ -32,7 +32,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [(MSc) Visualizing Spatial Understanding of Textual Descriptions in Language Models]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-2.pdf)
 - [(BSc/MSc) Empowering Minority Voices in Text Generation: Creating a Contrastive Dataset for Activation Steering]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-3.pdf)
 - [(MSc) Morality-related directions in the activation space of multilingual models]({{ site.baseurl }}/thesis_proposals/2025/Leonor-2025-Project-2.pdf)
-- [(BSc/MSc) Exploring Archival of Queer Language across Time and Communities]({{ site.baseurl }}/thesis_proposals/2026/Leonor-2026-Project-1.pdf)
+- [~~(BSc/MSc) Exploring Archival of Queer Language across Time and Communities~~]({{ site.baseurl }}/thesis_proposals/2026/Leonor-2026-Project-1.pdf)
 - [(MSc) Effects of Pretraining on Bias in LLMs]({{ site.baseurl }}/thesis_proposals/2026/Leonor-2026-Project-2.pdf)
 - [(BSc) Investigating Media Bias in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-1.pdf)
 - [(MSc) Investigating Media Bias in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-2.pdf)
