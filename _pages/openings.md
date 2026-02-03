@@ -38,7 +38,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [(MSc) Investigating Media Bias in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-2.pdf)
 - [(BSc) A Prompt Stress-Test Suite for LLM Media-Bias Judgments]({{ site.baseurl }}/thesis_proposals/2026/Molly-2026-Project-1.pdf)
 - [(MSc) Translation-Induced Framing Shifts in LLM Bias Evaluations]({{ site.baseurl }}/thesis_proposals/2026/Molly-2026-Project-2.pdf)
-- [(BSc) Bag-of-words based news recommender system]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-1.pdf)
+- [~~(BSc) Bag-of-words based news recommender system~~]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-1.pdf)
 - [(MSc) Faithfulness / plausibility of logit lens across models]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-2.pdf)
 - [~~(BSc/MSc) Are Pixel-based Models More Robust Against Textual Perturbations?~~]({{ site.baseurl }}/thesis_proposals/2026/Yihong-2026-Project-1.pdf)
 - [(MSc) Identifying Relation Neurons with Synthetic Data]({{ site.baseurl }}/thesis_proposals/2026/Yihong-2026-Project-2.pdf)
