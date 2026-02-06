@@ -29,7 +29,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [(BSc) Warm-Starting Active Learning with Synthetic Data for Imbalanced Hate Speech Classification]({{ site.baseurl }}/thesis_proposals/2026/Dawar-2026-Project-1.pdf)
 - [(MSc) Query-Level Uncertainty for Ability-Aware Routing and Triage in Active Learning]({{ site.baseurl }}/thesis_proposals/2026/Dawar-2026-Project-2.pdf)
 - [(BSc/MSc) Relations in the Wild: Collecting Contextual Instances of Relation Triples for the Detection of Latent Representations]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-1.pdf)
-- [(MSc) Visualizing Spatial Understanding of Textual Descriptions in Language Models]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-2.pdf)
+- [~~(MSc) Visualizing Spatial Understanding of Textual Descriptions in Language Models~~]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-2.pdf)
 - [(BSc/MSc) Empowering Minority Voices in Text Generation: Creating a Contrastive Dataset for Activation Steering]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-3.pdf)
 - [(MSc) Morality-related directions in the activation space of multilingual models]({{ site.baseurl }}/thesis_proposals/2025/Leonor-2025-Project-2.pdf)
 - [~~(BSc/MSc) Exploring Archival of Queer Language across Time and Communities~~]({{ site.baseurl }}/thesis_proposals/2026/Leonor-2026-Project-1.pdf)
