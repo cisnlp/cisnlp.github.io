@@ -24,7 +24,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [(MSc) Evaluating Faithfulness in Chain-of-Thought Reasoning]({{ site.baseurl }}/thesis_proposals/2024/Ali-2024-Project-1.pdf)
 - [(MSc) Measuring and Exploiting Redundancy in Multi-Turn Reasoning Traces]({{ site.baseurl }}/thesis_proposals/2026/Ali-2026-Project-1.pdf)
 - [(MSc) Look Again: Prompt-Level Visual Repetition for Robust Reasoning in Vision–Language Models]({{ site.baseurl }}/thesis_proposals/2026/Ali-2026-Project-2.pdf)
-- [(BSc/MSc) Pragmatic categories in hate speech annotation]({{ site.baseurl }}/thesis_proposals/2026/Axel-2026-Project-1.pdf)
+- [~~(BSc/MSc) Pragmatic categories in hate speech annotation~~]({{ site.baseurl }}/thesis_proposals/2026/Axel-2026-Project-1.pdf)
 - [(BSc/MSc) Structured Retrieval for Improved Named Entity Recognition with LLMs in historical corpora]({{ site.baseurl }}/thesis_proposals/2026/Axel-2026-Project-2.pdf)
 - [(BSc) Warm-Starting Active Learning with Synthetic Data for Imbalanced Hate Speech Classification]({{ site.baseurl }}/thesis_proposals/2026/Dawar-2026-Project-1.pdf)
 - [(MSc) Query-Level Uncertainty for Ability-Aware Routing and Triage in Active Learning]({{ site.baseurl }}/thesis_proposals/2026/Dawar-2026-Project-2.pdf)
