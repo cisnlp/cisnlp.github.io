@@ -43,7 +43,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [~~(BSc/MSc) Are Pixel-based Models More Robust Against Textual Perturbations?~~]({{ site.baseurl }}/thesis_proposals/2026/Yihong-2026-Project-1.pdf)
 - [~~(MSc) Identifying Relation Neurons with Synthetic Data~~]({{ site.baseurl }}/thesis_proposals/2026/Yihong-2026-Project-2.pdf)
 - [(BSc) Evaluating Faithfulness of Post-hoc Explanation Methods for Transformer-based Text Classification]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-1.pdf)
-- [(MSc) Aligning Natural Language Explanations with Token-level Attributions in Instruction-tuned Language Models]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-2.pdf)
+- [~~(MSc) Aligning Natural Language Explanations with Token-level Attributions in Instruction-tuned Language Models~~]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-2.pdf)
 
 
 
