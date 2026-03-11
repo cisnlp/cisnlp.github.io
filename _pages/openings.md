@@ -34,15 +34,15 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [(MSc) Morality-related directions in the activation space of multilingual models]({{ site.baseurl }}/thesis_proposals/2025/Leonor-2025-Project-2.pdf)
 - [~~(BSc/MSc) Exploring Archival of Queer Language across Time and Communities~~]({{ site.baseurl }}/thesis_proposals/2026/Leonor-2026-Project-1.pdf)
 - [(MSc) Effects of Pretraining on Bias in LLMs]({{ site.baseurl }}/thesis_proposals/2026/Leonor-2026-Project-2.pdf)
-- [(BSc) Investigating Media Bias in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-1.pdf)
-- [(MSc) Investigating Media Bias in Language Models]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-2.pdf)
+- [~~(BSc) Investigating Media Bias in Language Models~~]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-1.pdf)
+- [~~(MSc) Investigating Media Bias in Language Models~~]({{ site.baseurl }}/thesis_proposals/2025/Molly-2025-Project-2.pdf)
 - [(BSc) A Prompt Stress-Test Suite for LLM Media-Bias Judgments]({{ site.baseurl }}/thesis_proposals/2026/Molly-2026-Project-1.pdf)
 - [(MSc) Translation-Induced Framing Shifts in LLM Bias Evaluations]({{ site.baseurl }}/thesis_proposals/2026/Molly-2026-Project-2.pdf)
 - [~~(BSc) Bag-of-words based news recommender system~~]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-1.pdf)
 - [(MSc) Faithfulness / plausibility of logit lens across models]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-2.pdf)
 - [~~(BSc/MSc) Are Pixel-based Models More Robust Against Textual Perturbations?~~]({{ site.baseurl }}/thesis_proposals/2026/Yihong-2026-Project-1.pdf)
 - [~~(MSc) Identifying Relation Neurons with Synthetic Data~~]({{ site.baseurl }}/thesis_proposals/2026/Yihong-2026-Project-2.pdf)
-- [(BSc) Evaluating Faithfulness of Post-hoc Explanation Methods for Transformer-based Text Classification]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-1.pdf)
+- [~~(BSc) Evaluating Faithfulness of Post-hoc Explanation Methods for Transformer-based Text Classification~~]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-1.pdf)
 - [~~(MSc) Aligning Natural Language Explanations with Token-level Attributions in Instruction-tuned Language Models~~]({{ site.baseurl }}/thesis_proposals/2026/Yuetian-2026-Project-2.pdf)
 
 
