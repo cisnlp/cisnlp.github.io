@@ -1,19 +1,30 @@
 # fetch_pubs.py
 import json
 from scholarly import scholarly, ProxyGenerator # version 1.4 of scholarly -> has to be this one for the proxies to work
+import time
 
 SCHOLAR_ID = "qIL9dWUAAAAJ"  # hinrich's google scholar id
-MAX_PUBS = 20
+MAX_PUBS = 15
 
-pg = ProxyGenerator()
-pg.FreeProxies()
-scholarly.use_proxy(pg)
+def format_authors(author_str):
+    if not author_str:
+        return ""
+    authors = [a.strip() for a in author_str.split(" and ")]
+    if len(authors) == 1:
+        return authors[0]
+    return ", ".join(authors[:-1]) + ", and " + authors[-1]
+
+# pg = ProxyGenerator()
+# success = pg.FreeProxies()
+# if not success:
+#     print("Proxy setup failed, retrying...")
+# scholarly.use_proxy(pg)
 
 
 author = scholarly.search_author_id(SCHOLAR_ID)
 scholarly.fill(author, sections=["publications"])
 
-# Sort by year descending, then take the most recent 20
+# Sort by year descending, then take the most recent 15
 sorted_pubs = sorted(
     author["publications"],
     key=lambda p: int(p.get("bib", {}).get("pub_year", 0) or 0),
@@ -22,6 +33,7 @@ sorted_pubs = sorted(
 
 pubs = []
 for pub in sorted_pubs:
+    time.sleep(2)  # wait 2 seconds between each fill
     if len(pubs) >= MAX_PUBS:
         break
     scholarly.fill(pub)
@@ -41,7 +53,7 @@ for pub in sorted_pubs:
 
     pubs.append({
         "title": bib.get("title", ""),
-        "authors": bib.get("author", ""),
+        "authors": format_authors(bib.get("author", "")),
         "year": bib.get("pub_year", ""),
         "proceedings": venue,
         "pdf": pub.get("eprint_url", ""),

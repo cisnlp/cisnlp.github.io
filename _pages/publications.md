@@ -8,6 +8,8 @@ permalink: /publications/
 
 # Publications
 
+---
+
 <div id="publications-container">
   {% assign sorted_pubs = site.data.publist | sort: 'year' | reverse %}
   {% for pub in sorted_pubs %}

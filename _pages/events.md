@@ -6,7 +6,9 @@ sitemap: false
 permalink: /events/
 ---
 
-## Events
+# Events
+
+---
 
 {% for event in site.data.events %}
 

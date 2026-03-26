@@ -9,6 +9,8 @@ permalink: /projects/
 
 # Projects
 
+---
+
 Our primary focus is linguistically-informed Neural Natural Language Processing. Towards that end, we are working on various funded projects, as described below. 
 
 <div markdown='0' class="topic-block">
