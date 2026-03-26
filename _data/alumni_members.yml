@@ -13,9 +13,70 @@
   webpage: https://en.wikipedia.org/wiki/Franz_Guenthner
   number_educ: 0
 
+- name: Dr. Philipp Wicke
+  photo: philipp.png
+  info: Lead AI Engineer at AURYAL 
+  webpage: http://www.phil-wicke.com/
+  email: pwicke@cis.lmu.de
+  number_educ: 4
+  education1: PhD, University College Dublin
+  education2: B.Sc. Cognitive Science, University of Osnabrück
+  education3: Head of AI Applications at "AI for People"
+  education4: Akademischer Rat, LMU Munich
+
+- name: Ercong Nie
+  photo: ercong.jpeg
+  info: PhD Student, started October 2022.
+  webpage: https://ercong21.github.io/
+  email: nie@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc. Computational Linguistics and Informatics, LMU Munich, Germany
+  education2: B.A. German Linguistics and Finance, Shanghai Jiao Tong University, China
+
+- name: Mingyang Wang
+  photo: mingyang.jpg
+  info: PhD Student, started September 2022
+  webpage : https://mingyang-wang26.github.io/
+  email: mingyang@cis.lmu.de
+  number_educ: 3
+  education1: Ph.D. CIS, LMU Munich
+  education2: M.Sc. Robotics, Cognition, Intelligence, Technical University Munich, Germany
+  education3: B.Sc. Vehicle Engineering, Tongji University, China
+
+- name: Peiqin Lin
+  photo: peiqin.jpg
+  info: Algorithm Engineer at Alibaba
+  webpage: https://lpq29743.github.io
+  email: linpq@cis.lmu.de
+  number_educ: 2
+  education1: Ph.D. CIS, LMU Munich
+  education2: M.Eng, Sun Yat-sen University, China
+  education3: B.Eng, South China Normal University, China
+
+- name: Haotian Ye
+  photo: haotian.JPG
+  info: Research Intern at NICT
+  webpage:
+  email: yehao@cis.lmu.de
+  number_educ: 3
+  education1: Ph.D. CIS, LMU Munich
+  education1: M.Sc. Computational Linguistics, LMU Munich
+  education2: B.Sc. Computational Linguistics, LMU Munich
+
+- name: Abdullatif Köksal
+  photo: latif.png
+  info: Research Scientist at Google DeepMind
+  webpage: https://akoksal.com/
+  email: akoksal@cis.lmu.de
+  number_educ: 3
+  education1: Ph.D. CIS, LMU Munich
+  education2: M.Sc. Boğaziçi University, Turkey
+  education3: B.Sc. Boğaziçi University, Turkey
+
+
 - name: Philipp Dufter
   photo: dufter.jpg
-  info: Alumnus
+  info: Machine Learning Engineer at Apple
   webpage: https://pdufter.github.io/
   email: philipp@cis.lmu.de
   number_educ: 3
@@ -25,7 +86,7 @@
 
 - name: Nora Kassner
   photo: nora.jpeg
-  info: Alumna
+  info: Research Scientist at Google DeepMind
   email: kassner@cis.lmu.de
   number_educ: 2
   education1: M.Sc. (Physics) LMU Munich
@@ -33,27 +94,29 @@
 
 - name: Nina Poerner
   photo: female.jpeg 
-  info: Apple Inc.
+  info: Machine Learning Engineer at Apple
   webpage: https://www.cis.uni-muenchen.de/~poerner
   email: poerner@cis.lmu.de
   number_educ: 4
-  education1: PhD, CIS, LMU Munich 
+  education1: PhD, CIS, LMU Munich (2017 - 2022)
   education2: M.Sc. Computational Linguistics, LMU Munich
   education3: M.A. Phonetics and Speech Processing, LMU Munich
   education4: B.A. French and Linguistics, University of Oxford
 
 - name: Valentin Hofmann
-  photo: male.jpeg
-  info: PhD Student, started  
+  photo: valentin.jpeg
+  info: Postdoc at the Allen Institute for AI and the University of Washington
   webpage: https://valentinhofmann.github.io
   email: valentin.hofmann@ling-phil.ox.ac.uk
-  number_educ: 2
-  education1: MSt, University of Oxford, UK
-  education2: MSc, LMU Munich, Germany
+  number_educ: 3
+  education1: DPhil (PhD) in Linguistics, University of Oxford
+  education2: MSc in Computational Linguistics, LMU Munich
+  education3: MSt in Linguistics, University of Oxford
+
 
 - name: Ayyoob Imani
   photo: ayyoob.jpeg
-  info: PhD Student, started November 2020
+  info: Applied Scientist at Microsoft
   webpage: https://ayyoobimani.github.io/
   email: ayyoob@cis.lmu.de
   number_educ: 2
@@ -62,7 +125,7 @@
 
 - name: Haris Jabbar
   photo: haris.jpeg
-  info: Scientific Researcher at Technische Universität Darmstadt
+  info: Founder at SuperPandas
   webpage: https://scholar.google.cl/citations?user=8H_RIcEAAAAJ&hl=en
   email: jabbar@cis.lmu.de
   number_educ: 3
@@ -72,7 +135,7 @@
 
 - name: Masoud Jalili Sabet
   photo: masoud.jpeg
-  info: Alumnus
+  info: Applied Scientist in the AI Innovation Team at Volkswagen
   email: jalili.masoud@cis.lmu.de
   number_educ: 2
   education1: M.Sc. University of Tehran, Iran.
@@ -80,8 +143,8 @@
 
 - name: Aikaterini-Lida (Katerina) Kalouli
   photo: kalouli.jpeg
-  info: Akademische Rätin, started August 2021
-  webpage: https://cis.lmu.de/~kalouli/
+  info: Data Scientist at Bundesdruckerei-Gruppe
+  webpage: https://ling.sprachwiss.uni-konstanz.de/pages/home/kalouli/research.html
   email: kalouli@cis.lmu.de
   number_educ: 3
   education1: Dr. phil, University of Konstanz
@@ -98,25 +161,27 @@
 
 - name: Antonis Maronikolakis 
   photo: antonis.jpeg
-  info: PhD Student, started January 2020.
+  info: AI/NLP Applied Scientist at Zalando
   webpage: https://antmarakis.github.io
   email: antmarakis@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc, Computer Science with Speech and Language Processing, University of Sheffield, UK
-  education2: B.Sc, University of Piraeus, Greece
+  number_educ: 3
+  education1: PhD, Computational Linguistics, LMU Munich
+  education2: M.Sc, Computer Science with Speech and Language Processing, University of Sheffield, UK
+  education3: B.Sc, University of Piraeus, Greece
 
 - name: Timo Schick
   photo: male.jpeg
-  info: Alumnus
+  info: Researcher at Microsoft AI
   webpage: http://www.timoschick.com
   email: schickt@cis.lmu.de
   number_educ: 2
-  education1: M.Sc. TU Dresden, Germany
-  education2: B.Sc. TU Dresden, Germany
+  education1: PhD, Computer Science, LMU Munich
+  education2: M.Sc. TU Dresden, Germany
+  education3: B.Sc. TU Dresden, Germany
 
 - name: Martin Schmitt
   photo: schmitt.jpg
-  info: Alumnus
+  info: Senior Data Scientist at celebrate
   email: martin@cis.lmu.de
   webpage: https://www.cis.uni-muenchen.de/~martin
   number_educ: 2
@@ -125,7 +190,7 @@
 
 - name: Marina Sedinkina
   photo: female.jpeg
-  info: Alumna
+  info: Senior ML Engineer at Springtime Technologies
   email: speranskaya@cis.lmu.de
   number_educ: 2
   education1: B.A. Computational Linguistics, University of Heidelberg
@@ -133,21 +198,23 @@
 
 - name: Silvia Severini
   photo: silvia.png
-  info: Alumna
+  info: AI Technical Coordinator at Leonardo S.p.A
   email: silvia@cis.lmu.de
   webpage: https://silviaseverini.github.io/
-  number_educ: 2
-  education1: M.Sc. University of Pisa, Italy
-  education2: B.Sc. University of Bologna, Italy
+  number_educ: 3
+  education1: PhD, Computer Science, LMU Munich
+  education2: M.Sc. University of Pisa, Italy
+  education3: B.Sc. University of Bologna, Italy
 
 - name: Lütfi Kerem Şenel
   photo: kerem.jpeg
-  info: PhD Student, started October 2019
+  info: Software Consultant at TNG Technology Consulting
   webpage: https://scholar.google.ch/citations?user=w5ePE1oAAAAJ&hl=en
   email: lksenel@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc. Bilkent University, Turkey
-  education2: B.Sc. Bilkent University, Turkey
+  number_educ: 3
+  education1: PhD, Computer Science, LMU Munich
+  education2: M.Sc. Bilkent University, Turkey
+  education3: B.Sc. Bilkent University, Turkey
 
 - name: Victor Steinborn
   photo: vsteinborn.jpg
@@ -167,17 +234,20 @@
 
 - name: Leonie Weissweiler
   photo: weissweiler.png
-  info: Alumna
-  webpage : https://www.cis.uni-muenchen.de/~weissweiler
+  info: Postdoc at Uppsala University
+  webpage : https://leonieweissweiler.github.io/
   email: weissweiler@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc. Computational Linguistics, LMU Munich
-  education2: B.Sc. Computational Linguistics, LMU Munich
+  number_educ: 3
+  education1: PhD, Computational Linguistics, LMU Munich
+  education2: M.Sc. Computational Linguistics, LMU Munich
+  education3: B.Sc. Computational Linguistics, LMU Munich
 
 - name: Mengjie Zhao
   photo: mzhao.jpeg 
-  info: Alumnus
+  info: Researcher at SB Intuitions of Softbank
+  webpage: https://joemzhao.github.io/about.html
   email: mengjie.zhao@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc. EPFL, Switzerland.
+  number_educ: 3
+  education1: PhD, Computer Science, LMU Munich
+  education2: M.Sc. EPFL, Switzerland.
   education2: B.Eng (Hons), ANU, Australia.

@@ -8,19 +8,29 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">Schütze Lab @ LMU Munich</a>
+    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
+		<span style="color: #6AA695;">Schütze</span>
+		<span style="color: #D99D55;">Lab</span>
+		<span style="color: #333;">@LMU</span>
+		</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">People</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li> -->
-		<li><a href="{{ site.url }}{{ site.baseurl }}/projects">Projects</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/vacancies">Open Positions</a></li>
-		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/blog">Blog</a></li> -->
-		<li><a href="{{ site.url }}{{ site.baseurl }}/about">About Lab Director</a></li>
-		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/pictures">(Pics)</a></li> -->
+		<li class="{% if page.url == '/' %}active{% endif %}">
+			<a href="{{ site.url }}{{ site.baseurl }}/">Home</a>
+		</li>
+		<li class="{% if page.url == '/events/' %}active{% endif %}">
+			<a href="{{ site.url }}{{ site.baseurl }}/events">Events</a>
+		</li>
+		<li class="{% if page.url == '/team/' %}active{% endif %}">
+			<a href="{{ site.url }}{{ site.baseurl }}/team">People</a>
+		</li>
+		<li class="{% if page.url == '/publications/' %}active{% endif %}">
+			<a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a>
+		</li>
+		<li class="{% if page.url == '/projects/' %}active{% endif %}" ><a href="{{ site.url }}{{ site.baseurl }}/projects">Projects</a></li>
+		<li  class="{% if page.url == '/vacancies/' %}active{% endif %}" ><a href="{{ site.url }}{{ site.baseurl }}/vacancies">Open Positions</a></li>
+		<li  class="{% if page.url == '/about/' %}active{% endif %}"><a href="{{ site.url }}{{ site.baseurl }}/about">About Lab Director</a></li>
 	  </ul>
 	</div>
   </div>

@@ -440,18 +440,14 @@ label {
 
 .progress {
   border: 1px solid $navbar-default-border;
-  @include box-shadow(inset 0 2px 0 rgba(0, 0, 0, 0.1));
 
-  &-bar {
-    @include box-shadow(inset 0 -4px 0 rgba(0, 0, 0, 0.15));
-  }
+
 }
 
 // Containers =================================================================
 
 .well {
-  border: 1px solid $navbar-default-border;
-  @include box-shadow(inset 0 2px 0 rgba(0, 0, 0, 0.05));
+  border: 2px dotted $navbar-default-border;
 }
 
 a.list-group-item {

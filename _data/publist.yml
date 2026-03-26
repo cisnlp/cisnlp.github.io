@@ -1,131 +1,2882 @@
-- authors: 'Philipp Dufter, Martin Schmitt, Hinrich Schütze.'
+# old
+- authors: Ivo de Souza Bueno Júnior, Haotian Ye, Axel Wisiorek, Hinrich Schütze.
+  title: Privacy-Preserving Federated Learning for Hate Speech Detection
+  proceedings: 'Proceedings of the 2025 Conference of the Nations of the Americas
+    Chapter of the Association for Computational Linguistics: Human Language Technologies
+    (Volume 4: Student Research Workshop)'
+  year: '2025'
+  pdf: https://aclanthology.org/2025.naacl-srw.13.pdf
+  bib: https://aclanthology.org/2025.naacl-srw.13.bib
   display: link
-  highlight: 1
-  proceedings: In Computational Linguistics, 1–31, June 2022.
-  title: "Position Information in Transformers: An Overview."
-  url: 'https://doi.org/10.1162/coli_a_00445'
-  year: '2022'
-
-- authors: 'Valentin Hofmann, Janet B. Pierrehumbert, Hinrich Schütze.'
+  highlight: 0
+- authors: Henrike Beyer, Diego Frassinelli.
+  title: 'Linguistic Features in German BERT: The Role of Morphology, Syntax, and
+    Semantics in Multi-Class Text Classification'
+  proceedings: 'Proceedings of the 2025 Conference of the Nations of the Americas
+    Chapter of the Association for Computational Linguistics: Human Language Technologies
+    (Volume 4: Student Research Workshop)'
+  year: '2025'
+  pdf: https://aclanthology.org/2025.naacl-srw.3.pdf
+  bib: https://aclanthology.org/2025.naacl-srw.3.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the Thirty-ninth International Conference on Machine Learning (ICML), July 2022.
-  title: "Unsupervised Detection of Contextualized Embedding Bias with Application to Ideology."
-  url: 'https://proceedings.mlr.press/v162/hofmann22a/hofmann22a.pdf'
-  year: '2022'
-
-- authors: 'Valentin Hofmann, Hinrich Schütze, Janet B. Pierrehumbert.'
+  highlight: 0
+- authors: Peiqin Lin, André Martins, Hinrich Schütze.
+  title: 'XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples'
+  proceedings: 'Proceedings of the 2025 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL): Findings'
+  year: '2025'
+  pdf: https://aclanthology.org/2025.findings-naacl.221.pdf
+  bib: https://aclanthology.org/2025.findings-naacl.221.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
-  title: "An Embarrassingly Simple Method to Mitigate Undesirable Properties of Pretrained Language Model Tokenizers."
-  url: 'https://aclanthology.org/2022.acl-short.43.pdf'
-  year: '2022'
-
-- authors: 'Valentin Hofmann, Xiaowen Dong, Janet B. Pierrehumbert, Hinrich Schütze.'
+  highlight: 0
+- authors: Ryan Soh-Eun Shim, Barbara Plank.
+  title: Dialetto, ma Quanto Dialetto? Transcribing and Evaluating Dialects on a Continuum
+  proceedings: 'Proceedings of the 2025 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL): Findings'
+  year: '2025'
+  pdf: https://aclanthology.org/2025.findings-naacl.48.pdf
+  bib: https://aclanthology.org/2025.findings-naacl.48.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Findings, July 2022.
-  title: "Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity."
-  url: 'https://aclanthology.org/2022.findings-naacl.41.pdf'
-  year: '2022'
-
-- authors: 'Ayyoob Imani, Lütfi Kerem Senel, Masoud Jalili Sabet, François Yvon, Hinrich Schütze.'
+  highlight: 0
+- authors: Peiqin Lin, André F. T. Martins, Hinrich Schütze.
+  title: A Recipe of Parallel Corpora Exploitation for Multilingual Large Language
+    Models
+  proceedings: 'Proceedings of the 2025 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL): Findings'
+  year: '2025'
+  pdf: https://aclanthology.org/2025.findings-naacl.225.pdf
+  bib: https://aclanthology.org/2025.findings-naacl.225.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL) Findings, May 2022.
-  title: "Graph Neural Networks for Multiparallel Word Alignment."
-  url: 'https://aclanthology.org/2022.findings-acl.108.pdf'
-  year: '2022'
-
-- authors: 'Sanjeev Kumar Karn, Ning Liu, Hinrich Schütze, Oladimeji Farri.'
+  highlight: 0
+- authors: Robert Litschko, Oliver Kraus, Verena Blaschke, Barbara Plank.
+  title: 'Cross-Dialect Information Retrieval: Information Access in Low-Resource
+    and High-Variance Languages'
+  proceedings: Proceedings of the 31st International Conference on Computational Linguistics
+    (COLING)
+  year: '2025'
+  pdf: https://www.aclweb.org/anthology/2025.coling-main.678.pdf
+  bib: https://www.aclweb.org/anthology/2025.coling-main.678.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
-  title: "Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization."
-  url: 'https://aclanthology.org/2022.acl-long.109.pdf'
-  year: '2022'
-
-- authors: 'Sheng Liang, Mengjie Zhao, Hinrich Schütze.'
+  highlight: 0
+- authors: Yihong Liu, Chunlan Ma, Haotian Ye, Hinrich Schütze.
+  title: 'TransMI: A Framework to Create Strong Baselines from Multilingual Pretrained
+    Language Models for Transliterated Data'
+  proceedings: Proceedings of the 31st International Conference on Computational Linguistics
+    (COLING)
+  year: '2025'
+  pdf: https://www.aclweb.org/anthology/2025.coling-main.32.pdf
+  bib: https://www.aclweb.org/anthology/2025.coling-main.32.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL) Findings, May 2022.
-  title: "Modular and Parameter-Efficient Multimodal Fusion with Prompting."
-  url: 'https://aclanthology.org/2022.findings-acl.234.pdf'
-  year: '2022'
-
-- authors: 'Yihong Liu, Haris Jabbar, Hinrich Schütze.'
+  highlight: 0
+- authors: Yihong Liu, Mingyang Wang, Amir Hossein Kargaran, Ayyoob ImaniGooghari,
+    Orgest Xhelili, Haotian Ye, Chunlan Ma, François Yvon, Hinrich Schütze.
+  title: How Transliterations Improve Crosslingual Alignment
+  proceedings: Proceedings of the 31st International Conference on Computational Linguistics
+    (COLING)
+  year: '2025'
+  pdf: https://www.aclweb.org/anthology/2025.coling-main.165.pdf
+  bib: https://www.aclweb.org/anthology/2025.coling-main.165.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
-  title: "Flow-Adapter Architecture for Unsupervised Machine Translation."
-  url: 'https://aclanthology.org/2022.acl-long.89.pdf'
-  year: '2022'
-
-- authors: 'Antonis Maronikolakis, Axel Wisiorek, Leah Nann, Haris Jabbar, Sahana Udupa, Hinrich Schütze.'
+  highlight: 0
+- authors: Alberto Muñoz-Ortiz, Verena Blaschke, Barbara Plank.
+  title: Evaluating Pixel Language Models on Non-Standardized Languages
+  proceedings: Proceedings of the 31st International Conference on Computational Linguistics
+    (COLING)
+  year: '2025'
+  pdf: https://www.aclweb.org/anthology/2025.coling-main.427.pdf
+  bib: https://www.aclweb.org/anthology/2025.coling-main.427.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL) Findings, May 2022.
-  title: "Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments."
-  url: 'https://aclanthology.org/2022.findings-acl.87.pdf'
-  year: '2022'
-
-- authors: 'Lütfi Kerem Senel, Timo Schick, Hinrich Schütze.'
+  highlight: 0
+- authors: Ekaterina Artemova, Verena Blaschke, Barbara Plank.
+  title: Exploring the Robustness of Task-oriented Dialogue Systems for Colloquial
+    German Varieties
+  proceedings: The 18th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.eacl-long.28.pdf
+  bib: https://aclanthology.org/2024.eacl-long.28.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
-  title: "CoDA21: Evaluating Language Understanding Capabilities of NLP Models With Context-Definition Alignment."
-  url: 'https://aclanthology.org/2022.acl-short.92.pdf'
-  year: '2022'
-
-- authors: 'Victor Steinborn, Philipp Dufter, Haris Jabbar, Hinrich Schütze.'
+  highlight: 0
+- authors: Joris Baan, Raquel Fernández, Barbara Plank, Wilker Aziz.
+  title: 'Interpreting Predictive Probabilities: Model Confidence or Human Label Variation?'
+  proceedings: The 18th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.eacl-short.24.pdf
+  bib: https://aclanthology.org/2024.eacl-short.24.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Findings, July 2022.
-  title: "An Information-Theoretic Approach and Dataset for Probing Gender Stereotypes in Multilingual Masked Language Models."
-  url: 'https://aclanthology.org/2022.findings-naacl.69.pdf'
-  year: '2022'
-
-- authors: 'Leonie Weissweiler, Valentin Hofmann, Masoud Jalili Sabet, Hinrich Schütze.'
+  highlight: 0
+- authors: Elisa Bassignana, Viggo Unmack Gascou, Frida Nøhr Laustsen, Gustav Kristensen,
+    Marie Haahr Petersen, Rob van der Goot, Barbara Plank.
+  title: How to Encode Domain Information in Relation Classification
+  proceedings: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.lrec-main.728.pdf
+  bib: https://aclanthology.org/2024.lrec-main.728.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
-  title: "CaMEL: Case Marker Extraction without Labels."
-  url: 'https://aclanthology.org/2022.acl-long.377.pdf'
-  year: '2022'
-
-- authors: 'Mengjie Zhao, Fei Mi, Yasheng Wang, Minglei Li, Xin Jiang, Qun Liu, Hinrich Schütze.'
+  highlight: 0
+- authors: Verena Blaschke, Barbara Kovačić, Siyao Peng, Hinrich Schütze, Barbara
+    Plank.
+  title: 'MaiBaam: A Multi-Dialectal Bavarian Universal Dependency Treebank'
+  proceedings: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.lrec-main.953.pdf
+  bib: https://aclanthology.org/2024.lrec-main.953.bib
   display: link
-  highlight: 1
-  proceedings: In Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) Findings, July 2022.
-  title: "LMTurk: Few-Shot Learners as Crowdsourcing Workers in a Language-Model-as-a-Service Framework."
-  url: 'https://aclanthology.org/2022.findings-naacl.51.pdf'
+  highlight: 0
+- authors: Verena Blaschke, Christoph Purschke, Hinrich Schütze, Barbara Plank.
+  title: What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology
+    for German Dialects
+  proceedings: Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Beiduo Chen, Xinpeng Wang, Siyao Peng, Robert Litschko, Anna Korhonen,
+    Barbara Plank.
+  title: '“Seeing the Big through the Small”: Can LLMs Approximate Human Judgment
+    Distributions on NLI from a Few Explanations?'
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.findings-emnlp.842.pdf
+  bib: https://www.aclweb.org/anthology/2024.findings-emnlp.842.bib
+  display: link
+  highlight: 0
+- authors: Katharina Hämmerl, Jindřich Libovický, Alexander Fraser.
+  title: Understanding Cross-Lingual Alignment -- A Survey
+  proceedings: 'Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Valentin Hofmann, Goran Glavaš, Nikola Ljubešić, Janet B. Pierrehumbert,
+    Hinrich Schütze.
+  title: Geographic Adaptation of Pretrained Language Models
+  proceedings: Transactions of the Association for Computational Linguistics (TACL)
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Amir Hossein Kargaran, François Yvon, Hinrich Schütze.
+  title: 'GlotScript: A Resource and Tool for Low Resource Writing System Identification'
+  proceedings: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.lrec-main.687.pdf
+  bib: https://aclanthology.org/2024.lrec-main.687.bib
+  display: link
+  highlight: 0
+- authors: Amir Hossein Kargaran, François Yvon, Hinrich Schütze.
+  title: 'MaskLID: Code-Switching Language Identification through Iterative Masking'
+  proceedings: Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Abdullatif Köksal, Timo Schick, Anna Korhonen, Hinrich Schuetze.
+  title: 'LongForm: Effective Instruction Tuning with Reverse Instructions'
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.findings-emnlp.414.pdf
+  bib: https://www.aclweb.org/anthology/2024.findings-emnlp.414.bib
+  display: link
+  highlight: 0
+- authors: Abdullatif Koksal, Silvia Severini, Hinrich Schütze.
+  title: 'SilverAlign: MT-Based Silver Data Algorithm for Evaluating Word Alignment'
+  proceedings: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.lrec-main.1290.pdf
+  bib: https://aclanthology.org/2024.lrec-main.1290.bib
+  display: link
+  highlight: 0
+- authors: Bolei Ma, Xinpeng Wang, Tiancheng Hu, Anna-Carolina Haensch, Michael A.
+    Hedderich, Barbara Plank, Frauke Kreuter.
+  title: The Potential and Challenges of Evaluating Attitudes, Opinions, and Values
+    in Large Language Models
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.findings-emnlp.513.pdf
+  bib: https://www.aclweb.org/anthology/2024.findings-emnlp.513.bib
+  display: link
+  highlight: 0
+- authors: Peiqin Lin, Chengzhi Hu, Zheyu Zhang, Andre Martins, Hinrich Schuetze.
+  title: 'mPLM-Sim: Better Cross-Lingual Similarity and Transfer in Multilingual Pretrained
+    Language Models'
+  proceedings: 'The 18th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL): Findings'
+  year: '2024'
+  pdf: https://aclanthology.org/2024.findings-eacl.20.pdf
+  bib: https://aclanthology.org/2024.findings-eacl.20.bib
+  display: link
+  highlight: 0
+- authors: Yihong Liu, Peiqin Lin, Mingyang Wang, Hinrich Schuetze.
+  title: 'OFA: A Framework of Initializing Unseen Subword Embeddings for Efficient
+    Large-scale Multilingual Continued Pretraining'
+  proceedings: Proceedings of the 2024 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.findings-naacl.68.pdf
+  bib: https://aclanthology.org/2024.findings-naacl.68.bib
+  display: link
+  highlight: 0
+- authors: Yihong Liu, Chunlan Ma, Haotian Ye, Hinrich Schütze.
+  title: 'TransliCo: A Contrastive Learning Framework to Address the Script Barrier
+    in Multilingual Pretrained Language Models'
+  proceedings: Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: YongKang Liu, Yiqun Zhang, Qian Li, Tong Liu, Shi Feng, Daling Wang, Yifei
+    Zhang, Hinrich Schuetze.
+  title: 'HiFT: A Hierarchical Full Parameter Fine-Tuning Strategy'
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.emnlp-main.1015.pdf
+  bib: https://www.aclweb.org/anthology/2024.emnlp-main.1015.bib
+  display: link
+  highlight: 0
+- authors: Bolei Ma, Ercong Nie, Shuzhou Yuan, Helmut Schmid, Michael Färber, Frauke
+    Kreuter, Hinrich Schuetze.
+  title: 'ToPro: Token-Level Prompt Decomposition for Cross-Lingual Sequence Labeling
+    Tasks'
+  proceedings: The 18th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.eacl-long.164.pdf
+  bib: https://aclanthology.org/2024.eacl-long.164.bib
+  display: link
+  highlight: 0
+- authors: Stephen Mayhew, Terra Blevins, Shuheng Liu, Marek Suppa, Hila Gonen, Joseph
+    Marvin Imperial, Börje Karlsson, Peiqin Lin, Nikola Ljubešić, Lester James Miranda,
+    Barbara Plank, Arij Riabi, Yuval Pinter.
+  title: 'Universal NER: A Gold-Standard Multilingual Named Entity Recognition Benchmark'
+  proceedings: Proceedings of the 2024 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.naacl-long.243.pdf
+  bib: https://aclanthology.org/2024.naacl-long.243.bib
+  display: link
+  highlight: 0
+- authors: Christin Müller, Barbara Plank.
+  title: 'IndirectQA: Understanding Indirect Answers to Implicit Polar Questions in
+    French and Spanish'
+  proceedings: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.lrec-main.791.pdf
+  bib: https://aclanthology.org/2024.lrec-main.791.bib
+  display: link
+  highlight: 0
+- authors: Ali Modarressi, Abdullatif Köksal, Hinrich Schuetze.
+  title: Consistent Document-level Relation Extraction via Counterfactuals
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.findings-emnlp.672.pdf
+  bib: https://www.aclweb.org/anthology/2024.findings-emnlp.672.bib
+  display: link
+  highlight: 0
+- authors: Philipp Mondorf, Barbara Plank.
+  title: Comparing Inferential Strategies of Humans and Large Language Models in Deductive
+    Reasoning
+  proceedings: Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Philipp Mondorf, Barbara Plank.
+  title: 'Liar, Liar, Logical Mire: A Benchmark for Suppositional Reasoning in Large
+    Language Models'
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.emnlp-main.404.pdf
+  bib: https://www.aclweb.org/anthology/2024.emnlp-main.404.bib
+  display: link
+  highlight: 0
+- authors: David R. Mortensen, Valentina Izrailevitch, Yunze Xiao, Hinrich Schütze,
+    Leonie Weissweiler.
+  title: 'Verbing Weirds Language (Models): Evaluation of English Zero-Derivation
+    in Five LLMs'
+  proceedings: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.lrec-main.1508.pdf
+  bib: https://aclanthology.org/2024.lrec-main.1508.bib
+  display: link
+  highlight: 0
+- authors: Siyao Peng, Zihang Sun, Huangyan Shan, Marie Kolm, Verena Blaschke, Ekaterina
+    Artemova, Barbara Plank.
+  title: Sebastian, Basti, Wastl?! Recognizing Named Entities in Bavarian Dialectal
+    Data
+  proceedings: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.lrec-main.1262.pdf
+  bib: https://aclanthology.org/2024.lrec-main.1262.bib
+  display: link
+  highlight: 0
+- authors: Paul Röttger, Valentin Hofmann, Valentina Pyatkin, Musashi Hinck, Hannah
+    Rose Kirk, Hinrich Schütze, Dirk Hovy.
+  title: Political Compass or Spinning Arrow? Towards More Meaningful Evaluations
+    for Values and Opinions in Large Language Models
+  proceedings: Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Anastasiia Sedova, Robert Litschko, Diego Frassinelli, Benjamin Roth, Barbara
+    Plank.
+  title: To Know or Not To Know? Analyzing Self-Consistency of Large Language Models
+    under Ambiguity
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.findings-emnlp.1003.pdf
+  bib: https://www.aclweb.org/anthology/2024.findings-emnlp.1003.bib
+  display: link
+  highlight: 0
+- authors: Lütfi Kerem Senel, Benedikt Ebing, Konul Baghirova, Hinrich Schuetze, Goran
+    Glavaš.
+  title: 'Kardeş-NLU: Transfer to Low-Resource Languages with Big Brother’s Help –
+    A Benchmark and Evaluation for Turkic Languages'
+  proceedings: The 18th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.eacl-long.100.pdf
+  bib: https://aclanthology.org/2024.eacl-long.100.bib
+  display: link
+  highlight: 0
+- authors: Lütfi Kerem Senel, Besnik Fetahu, Davis Yoshida, Zhiyu Chen, Giuseppe Castellucci,
+    Nikhita Vedula, Jason Choi, Shervin Malmasi.
+  title: 'Generative Explore-Exploit: Training-free Optimization of Generative Recommender
+    Systems using LLM Optimizers'
+  proceedings: Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Mingyang Wang, Heike Adel, Lukas Lange, Jannik Strötgen, Hinrich Schuetze.
+  title: Rehearsal-Free Modular and Compositional Continual Learning for Language
+    Models
+  proceedings: Proceedings of the 2024 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.naacl-short.39.pdf
+  bib: https://aclanthology.org/2024.naacl-short.39.bib
+  display: link
+  highlight: 0
+- authors: Mingyang Wang, Lukas Lange, Heike Adel, Jannik Strötgen, Hinrich Schuetze.
+  title: 'Better Call SAUL: Fluent and Consistent Language Model Editing with Generation
+    Regularization'
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.findings-emnlp.469.pdf
+  bib: https://www.aclweb.org/anthology/2024.findings-emnlp.469.bib
+  display: link
+  highlight: 0
+- authors: Xinpeng Wang, Bolei Ma, Chengzhi Hu, Leon Weber-Genzel, Paul Röttger, Frauke
+    Kreuter, Dirk Hovy, Barbara Plank.
+  title: '"My Answer is C": First-Token Probabilities Do Not Match Text Answers in
+    Instruction-Tuned Language Models'
+  proceedings: 'Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Leon Weber-Genzel, Siyao Peng, Marie-Catherine de Marneffe, Barbara Plank.
+  title: 'VariErr NLI: Separating Annotation Error from Human Label Variation'
+  proceedings: Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Leonie Weissweiler, Nina Böbel, Kirian Guiller, Santiago Herrera, Wesley
+    Samuel Scivetti, Arthur Lorenzi, Nurit Melnik, Archna Bhatia, Hinrich Schütze,
+    Lori Levin, Amir Zeldes, Joakim Nivre, William Croft, Nathan Schneider.
+  title: 'UCxn: Typologically-Informed Annotation of Constructions Atop Universal
+    Dependencies'
+  proceedings: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.lrec-main.1471.pdf
+  bib: https://aclanthology.org/2024.lrec-main.1471.bib
+  display: link
+  highlight: 0
+- authors: Philipp Wicke, Lennart Wachowiak.
+  title: Exploring Spatial Schema Intuitions in Large Language and Vision Models
+  proceedings: 'Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Miriam Winkler, Virginija Juozapaityte, Rob van der Goot, Barbara Plank.
+  title: 'Slot and Intent Detection Resources for Bavarian and Lithuanian: Assessing
+    Translations vs Natural Queries to Digital Assistants'
+  proceedings: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.lrec-main.1297.pdf
+  bib: https://aclanthology.org/2024.lrec-main.1297.bib
+  display: link
+  highlight: 0
+- authors: Orgest Xhelili, Yihong Liu, Hinrich Schuetze.
+  title: Breaking the Script Barrier in Multilingual Pre-Trained Language Models with
+    Transliteration-Based Post-Training Alignment
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.findings-emnlp.659.pdf
+  bib: https://www.aclweb.org/anthology/2024.findings-emnlp.659.bib
+  display: link
+  highlight: 0
+- authors: Shanshan Xu, T.Y.S.S Santosh, Oana Ichim, Barbara Plank, Matthias Grabmair.
+  title: 'Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration
+    in Legal Case Outcome Classification'
+  proceedings: Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Shuzhou Yuan, Ercong Nie, Michael Färber, Helmut Schmid, Hinrich Schütze.
+  title: 'GNNavi: Navigating the Information Flow in Large Language Models by Graph
+    Neural Network'
+  proceedings: 'Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Arda Yüksel, Abdullatif Köksal, Lütfi Kerem Senel, Anna Korhonen, Hinrich
+    Schuetze.
+  title: 'TurkishMMLU: Measuring Massive Multitask Language Understanding in Turkish'
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.findings-emnlp.413.pdf
+  bib: https://www.aclweb.org/anthology/2024.findings-emnlp.413.bib
+  display: link
+  highlight: 0
+- authors: Miaoran Zhang, Vagrant Gautam, Mingyang Wang, Jesujoba O. Alabi, Xiaoyu
+    Shen, Dietrich Klakow, Marius Mosbach.
+  title: 'The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional
+    Analysis'
+  proceedings: 'Proceedings of the 62th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2024'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Mike Zhang, Rob Goot, Min-Yen Kan, Barbara Plank.
+  title: 'NNOSE: Nearest Neighbor Occupational Skill Extraction'
+  proceedings: The 18th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.eacl-long.35.pdf
+  bib: https://aclanthology.org/2024.eacl-long.35.bib
+  display: link
+  highlight: 0
+- authors: Mike Zhang, Rob Goot, Barbara Plank.
+  title: Entity Linking in the Job Market Domain
+  proceedings: 'The 18th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL): Findings'
+  year: '2024'
+  pdf: https://aclanthology.org/2024.findings-eacl.28.pdf
+  bib: https://aclanthology.org/2024.findings-eacl.28.bib
+  display: link
+  highlight: 0
+- authors: Raoyuan Zhao, Abdullatif Köksal, Yihong Liu, Leonie Weissweiler, Anna Korhonen,
+    Hinrich Schuetze.
+  title: 'SynthEval: Hybrid Behavioral Testing of NLP Models with Synthetic Evaluation'
+  proceedings: Proceedings of the 2024 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2024'
+  pdf: https://www.aclweb.org/anthology/2024.findings-emnlp.412.pdf
+  bib: https://www.aclweb.org/anthology/2024.findings-emnlp.412.bib
+  display: link
+  highlight: 0
+- authors: Shijia Zhou, Leonie Weissweiler, Taiqi He, Hinrich Schütze, David R. Mortensen,
+    Lori Levin.
+  title: Constructions Are So Difficult That Even Large Language Models Get Them Right
+    for the Wrong Reasons
+  proceedings: Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+  year: '2024'
+  pdf: https://aclanthology.org/2024.lrec-main.336.pdf
+  bib: https://aclanthology.org/2024.lrec-main.336.bib
+  display: link
+  highlight: 0
+- authors: Alexandra Chronopoulou, Matthew Peters, Alexander Fraser, Jesse Dodge.
+  title: 'AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language
+    Models'
+  proceedings: 'The 17th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL): Findings'
+  year: '2023'
+  pdf: https://aclanthology.org/2023.findings-eacl.153.pdf
+  bib: https://aclanthology.org/2023.findings-eacl.153.bib
+  display: link
+  highlight: 0
+- authors: Elisa Bassignana, Filip Ginter, Sampo Pyysalo, Rob van der Goot, Barbara
+    Plank.
+  title: Silver Syntax Pre-training for Cross-Domain Relation Extraction
+  proceedings: 'Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2023'
+  pdf: https://aclanthology.org/2023.findings-acl.436.pdf
+  bib: https://aclanthology.org/2023.findings-acl.436.bib
+  display: link
+  highlight: 0
+- authors: Mario Giulianelli, Joris Baan, Wilker Aziz, Raquel Fernández, Barbara Plank.
+  title: What Comes Next? Evaluating Uncertainty in Neural Text Generators Against
+    Human Production Variability
+  proceedings: Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Sophie Henning, William Beluch, Alexander Fraser, Annemarie Friedrich.
+  title: A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based
+    Natural Language Processing
+  proceedings: The 17th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL)
+  year: '2023'
+  pdf: https://aclanthology.org/2023.eacl-main.38.pdf
+  bib: https://aclanthology.org/2023.eacl-main.38.bib
+  display: link
+  highlight: 0
+- authors: Katharina Hämmerl, Björn Deiseroth, Patrick Schramowski, Jindřich Libovický,
+    Constantin A. Rothkopf, Alexander Fraser, Kristian Kersting.
+  title: Speaking Multiple Languages Affects the Moral Bias of Language Models
+  proceedings: 'Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2023'
+  pdf: https://aclanthology.org/2023.findings-acl.134.pdf
+  bib: https://aclanthology.org/2023.findings-acl.134.bib
+  display: link
+  highlight: 0
+- authors: Katharina Hämmerl, Alina Fastowski, Jindřich Libovický, Alexander Fraser.
+  title: Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual
+    Semantic Sentence Similarity
+  proceedings: 'Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2023'
+  pdf: https://aclanthology.org/2023.findings-acl.439.pdf
+  bib: https://aclanthology.org/2023.findings-acl.439.bib
+  display: link
+  highlight: 0
+- authors: Zhen Han, Ruotong Liao, Jindong Gu, Yao Zhang, Zifeng Ding, Yujia Gu, Heinz
+    Köppl, Hinrich Schütze, Volker Tresp.
+  title: 'ECOLA: Enhanced Temporal Knowledge Embeddings with Contextualized Language
+    Representations'
+  proceedings: 'Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2023'
+  pdf: https://aclanthology.org/2023.findings-acl.335.pdf
+  bib: https://aclanthology.org/2023.findings-acl.335.bib
+  display: link
+  highlight: 0
+- authors: Ayyoob Imani, Peiqin Lin, Amir Hossein Kargaran, Silvia Severini, Masoud
+    Jalili Sabet, Nora Kassner, Chunlan Ma, Helmut Schmid, André F. T. Martins, François
+    Yvon, Hinrich Schütze.
+  title: 'Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages'
+  proceedings: Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2023'
+  pdf: https://aclanthology.org/2023.acl-long.61.pdf
+  bib: https://aclanthology.org/2023.acl-long.61.bib
+  display: link
+  highlight: 0
+- authors: Amir Hossein Kargaran, Ayyoob Imani, François Yvon, Hinrich Schütze.
+  title: 'GlotLID: Language Identification for Low-Resource Languages'
+  proceedings: 'Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Abdullatif Köksal, Timo Schick, Hinrich Schütze.
+  title: 'MEAL: Stable and Active Learning for Few-Shot Prompting'
+  proceedings: 'Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Abdullatif Köksal, Omer Faruk Yalcin, Ahmet Akbiyik, M. Tahir Kilavuz,
+    Anna Korhonen, Hinrich Schütze.
+  title: Language-Agnostic Bias Detection in Language Models with Bias Probing
+  proceedings: 'Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Wen Lai, Alexandra Chronopoulou, Alexander Fraser.
+  title: Mitigating Data Imbalance and Representation Degeneration in Multilingual
+    Machine Translation
+  proceedings: 'Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Robert Litschko, Ekaterina Artemova, Barbara Plank.
+  title: Boosting Zero-shot Cross-lingual Retrieval by Training on Artificially Code-Switched
+    Data
+  proceedings: 'Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2023'
+  pdf: https://aclanthology.org/2023.findings-acl.193.pdf
+  bib: https://aclanthology.org/2023.findings-acl.193.bib
+  display: link
+  highlight: 0
+- authors: Robert Litschko, Max Müller-Eberstein, Rob van der Goot, Leon Weber, Barbara
+    Plank.
+  title: 'Establishing Trustworthiness: Rethinking Tasks and Model Evaluation'
+  proceedings: Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Yihong Liu, Haotian Ye, Leonie Weissweiler, Renhao Pei, Hinrich Schütze.
+  title: Crosslingual Transfer Learning for Low-Resource Languages Based on Multilingual
+    Colexification Graphs
+  proceedings: 'Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Yihong Liu, Haotian Ye, Leonie Weissweiler, Philipp Wicke, Renhao Pei,
+    Robert Zangenfeind, Hinrich Schütze.
+  title: A Crosslingual Investigation of Conceptualization in 1335 Languages
+  proceedings: Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2023'
+  pdf: https://aclanthology.org/2023.acl-long.726.pdf
+  bib: https://aclanthology.org/2023.acl-long.726.bib
+  display: link
+  highlight: 0
+- authors: Yongkang Liu, Shi Feng, Daling Wang, Yifei Zhang, Hinrich Schütze.
+  title: 'PVGRU: Generating Diverse and Relevant Dialogue Responses via Pseudo-Variational
+    Mechanism'
+  proceedings: Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2023'
+  pdf: https://aclanthology.org/2023.acl-long.185.pdf
+  bib: https://aclanthology.org/2023.acl-long.185.bib
+  display: link
+  highlight: 0
+- authors: Marion Di Marco, Kathy Hämmerl, Alexander Fraser.
+  title: A Study on Accessing Linguistic Information in Pre-Trained Language Models
+    by Using Prompts
+  proceedings: Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Ali Modarressi, Mohsen Fayyaz, Ehsan Aghazadeh, Yadollah Yaghoobzadeh,
+    Mohammad Taher Pilehvar.
+  title: 'DecompX: Explaining Transformers Decisions by Propagating Token Decomposition'
+  proceedings: Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2023'
+  pdf: https://aclanthology.org/2023.acl-long.149.pdf
+  bib: https://aclanthology.org/2023.acl-long.149.bib
+  display: link
+  highlight: 0
+- authors: Max Müller-Eberstein, Rob van der Goot, Barbara Plank, Ivan Titov.
+  title: 'Subspace Chronicles: How Linguistic Information Emerges, Shifts and Interacts
+    during Language Model Training'
+  proceedings: 'Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Ercong Nie, Sheng Liang, Helmut Schmid, Hinrich Schütze.
+  title: Cross-Lingual Retrieval Augmented Prompt for Low-Resource Languages
+  proceedings: 'Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2023'
+  pdf: https://aclanthology.org/2023.findings-acl.528.pdf
+  bib: https://aclanthology.org/2023.findings-acl.528.bib
+  display: link
+  highlight: 0
+- authors: Ercong Nie, Helmut Schmid, Hinrich Schütze.
+  title: 'Unleashing the Multilingual Encoder Potential: Boosting Zero-Shot Performance
+    via Probability Calibration'
+  proceedings: 'Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Mingyang Wang, Heike Adel, Lukas Lange, Jannik Strötgen, Hinrich Schütze.
+  title: 'GradSim: Gradient-Based Language Grouping for Effective Multilingual Training'
+  proceedings: Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Xinpeng Wang, Barbara Plank.
+  title: 'ACTOR: Active Learning with Annotator-specific Classification Heads to Embrace
+    Human Label Variation'
+  proceedings: Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Xinpeng Wang, Leonie Weissweiler, Hinrich Schütze, Barbara Plank.
+  title: 'How to Distill your BERT: An Empirical Study on the Impact of Weight Initialisation
+    and Distillation Objectives'
+  proceedings: Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2023'
+  pdf: https://aclanthology.org/2023.acl-short.157.pdf
+  bib: https://aclanthology.org/2023.acl-short.157.bib
+  display: link
+  highlight: 0
+- authors: Leon Weber, Barbara Plank.
+  title: 'ActiveAED: A Human in the Loop Improves Annotation Error Detection'
+  proceedings: 'Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2023'
+  pdf: https://aclanthology.org/2023.findings-acl.562.pdf
+  bib: https://aclanthology.org/2023.findings-acl.562.bib
+  display: link
+  highlight: 0
+- authors: Leonie Weissweiler, Valentin Hofmann, Anjali Kantharuban, Anna Cai, Ritam
+    Dutt, Amey Hengle, Anubha Kabra, Atharva Kulkarni, Abhishek Vijayakumar, Haofei
+    Yu, Hinrich Schütze, Kemal Oflazer, David R. Mortensen.
+  title: 'Counting the Bugs in ChatGPT''s Wugs: A Multilingual Investigation into
+    the Morphological Capabilities of a Large Language Model'
+  proceedings: Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Philipp Wicke.
+  title: 'LMs stand their Ground: Investigating the Effect of Embodiment in Figurative
+    Language Interpretation by Language Models'
+  proceedings: 'Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2023'
+  pdf: https://aclanthology.org/2023.findings-acl.302.pdf
+  bib: https://aclanthology.org/2023.findings-acl.302.bib
+  display: link
+  highlight: 0
+- authors: Shanshan Xu, T.Y.S.S Santosh, Oana Ichim, Isabella Risini, Barbara Plank,
+    Matthias Grabmair.
+  title: 'From Dissonance to Insights: Dissecting Disagreements in Rationale Construction
+    for Case Outcome Classification'
+  proceedings: Proceedings of the 2023 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2023'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Mike Zhang, Rob van der Goot, Barbara Plank.
+  title: 'ESCOXLM-R: Multilingual Taxonomy-driven Pre-training for the Job Market
+    Domain'
+  proceedings: Proceedings of the 61th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2023'
+  pdf: https://aclanthology.org/2023.acl-long.662.pdf
+  bib: https://aclanthology.org/2023.acl-long.662.bib
+  display: link
+  highlight: 0
+- authors: Joris Baan, Wilker Aziz, Barbara Plank, Raquel Fernández.
+  title: Stop Measuring Calibration When Humans Disagree
+  proceedings: Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
   year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.emnlp-main.124.pdf
+  bib: https://www.aclweb.org/anthology/2022.emnlp-main.124.bib
+  display: link
+  highlight: 0
+- authors: Elisa Bassignana, Max Müller-Eberstein, Mike Zhang, Barbara Plank.
+  title: 'Evidence > Intuition: Transferability Estimation for Encoder Selection'
+  proceedings: Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.emnlp-main.283.pdf
+  bib: https://www.aclweb.org/anthology/2022.emnlp-main.283.bib
+  display: link
+  highlight: 0
+- authors: Elisa Bassignana, Barbara Plank.
+  title: 'CrossRE: A Cross-Domain Dataset for Relation Extraction'
+  proceedings: 'Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.findings-emnlp.263.pdf
+  bib: https://www.aclweb.org/anthology/2022.findings-emnlp.263.bib
+  display: link
+  highlight: 0
+- authors: Yatin Chaudhary, Pranav Rai, Matthias Schubert, Hinrich Schütze, Pankaj
+    Gupta.
+  title: Federated Continual Learning for Text Classification via Selective Inter-client
+    Transfer
+  proceedings: 'Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.findings-emnlp.353.pdf
+  bib: https://www.aclweb.org/anthology/2022.findings-emnlp.353.bib
+  display: link
+  highlight: 0
+- authors: Philipp Dufter, Martin Schmitt, Hinrich Schütze.
+  title: 'Position Information in Transformers: An Overview'
+  proceedings: Computational Linguistics
+  year: '2022'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Tobias Englmeier, Florian Fink, Uwe Springmann and Klaus U. Schulz.
+  title: Optimizing the Training of Models for Automated Post-Correction of Arbitrary
+    OCR-ed Historical Texts
+  proceedings: Journal for Language Technology and Computational Linguistics (JLCL)
+  year: '2022'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Rob van der Goot, Max Müller-Eberstein and Barbara Plank.
+  title: 'Frustratingly Easy Performance Improvements for Cross-lingual Transfer:
+    A Tale on BERT and Segment Embeddings'
+  proceedings: Proceedings of the 13th Conference on Language Resources and Evaluation
+    (LREC)
+  year: '2022'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Katharina Hämmerl, Jindřich Libovický, Alexander Fraser.
+  title: Combining Static and Contextualised Multilingual Embeddings
+  proceedings: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2022'
+  pdf: https://aclanthology.org/2022.findings-acl.182.pdf
+  bib: https://aclanthology.org/2022.findings-acl.182.bib
+  display: link
+  highlight: 0
+- authors: Viktor Hangya, Hossain Shaikh Saadi and Alexander Fraser
+  title: Improving Low-Resource Languages in Pre-Trained Multilingual Language Models
+  proceedings: Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.emnlp-main.822.pdf
+  bib: https://www.aclweb.org/anthology/2022.emnlp-main.822.bib
+  display: link
+  highlight: 0
+- authors: Valentin Hofmann, Janet B. Pierrehumbert, Hinrich Schütze.
+  title: Unsupervised Detection of Contextualized Embedding Bias with Application
+    to Ideology
+  proceedings: Proceedings of the Thirty-ninth International Conference on Machine
+    Learning (ICML)
+  year: '2022'
+  pdf: https://proceedings.mlr.press/v162/hofmann22a/hofmann22a.pdf
+  bib: null
+  display: link
+  highlight: 0
+- authors: Valentin Hofmann, Hinrich Schütze, Janet B. Pierrehumbert.
+  title: An Embarrassingly Simple Method to Mitigate Undesirable Properties of Pretrained
+    Language Model Tokenizers
+  proceedings: Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2022'
+  pdf: https://aclanthology.org/2022.acl-short.43.pdf
+  bib: https://aclanthology.org/2022.acl-short.43.bib
+  display: link
+  highlight: 0
+- authors: Valentin Hofmann, Hinrich Schütze, Janet B. Pierrehumbert.
+  title: 'The Reddit Politosphere: A Large-Scale Text and Network Resource of Online
+    Political Discourse'
+  proceedings: Proceedings of the Sixteenth International AAAI Conference on Web and
+    Social Media (ICWSM)
+  year: '2022'
+  pdf: https://ojs.aaai.org/index.php/ICWSM/article/view/19377
+  bib: null
+  display: link
+  highlight: 0
+- authors: Valentin Hofmann, Xiaowen Dong, Janet B. Pierrehumbert, Hinrich Schütze.
+  title: Modeling Ideological Salience and Framing in Polarized Online Groups with
+    Graph Neural Networks and Structured Sparsity
+  proceedings: 'Proceedings of the 2022 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL): Findings'
+  year: '2022'
+  pdf: https://aclanthology.org/2022.findings-naacl.41.pdf
+  bib: https://aclanthology.org/2022.findings-naacl.41.bib
+  display: link
+  highlight: 0
+- authors: Ayyoob Imani, Lütfi Kerem Senel, Masoud Jalili Sabet, François Yvon, Hinrich
+    Schütze.
+  title: Graph Neural Networks for Multiparallel Word Alignment
+  proceedings: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2022'
+  pdf: https://aclanthology.org/2022.findings-acl.108.pdf
+  bib: https://aclanthology.org/2022.findings-acl.108.bib
+  display: link
+  highlight: 0
+- authors: Ayyoob Imani, Silvia Severini, Masoud Jalili Sabet, François Yvon, Hinrich
+    Schütze.
+  title: Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech
+    Tagging
+  proceedings: Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.emnlp-main.102.pdf
+  bib: https://www.aclweb.org/anthology/2022.emnlp-main.102.bib
+  display: link
+  highlight: 0
+- authors: Kristian Nørgaard Jensen and Barbara Plank.
+  title: 'Fine-tuning vs From Scratch: Do Vision and Language Models Have Similar
+    Capabilities on Out-of-Distribution Visual Question Answering?'
+  proceedings: Proceedings of the 13th Conference on Language Resources and Evaluation
+    (LREC)
+  year: '2022'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Sanjeev Kumar Karn, Ning Liu, Hinrich Schütze, Oladimeji Farri.
+  title: Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization
+  proceedings: Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2022'
+  pdf: https://aclanthology.org/2022.acl-long.109.pdf
+  bib: https://aclanthology.org/2022.acl-long.109.bib
+  display: link
+  highlight: 0
+- authors: Wen Lai, Alexandra Chronopoulou, Alexander Fraser.
+  title: 'm4Adapter: Multilingual Multi-Domain Adaptation for Machine Translation
+    with a Meta-Adapter'
+  proceedings: 'Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.findings-emnlp.315.pdf
+  bib: https://www.aclweb.org/anthology/2022.findings-emnlp.315.bib
+  display: link
+  highlight: 0
+- authors: Wen Lai, Jindřich Libovický, Alexander Fraser.
+  title: Improving Both Domain Robustness and Domain Adaptability in Machine Translation
+  proceedings: Proceedings of the 29th International Conference on Computational Linguistics
+    (COLING)
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.coling-1.461.pdf
+  bib: https://www.aclweb.org/anthology/2022.coling-1.461.bib
+  display: link
+  highlight: 0
+- authors: Sheng Liang, Mengjie Zhao, Hinrich Schütze.
+  title: Modular and Parameter-Efficient Multimodal Fusion with Prompting
+  proceedings: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2022'
+  pdf: https://aclanthology.org/2022.findings-acl.234.pdf
+  bib: https://aclanthology.org/2022.findings-acl.234.bib
+  display: link
+  highlight: 0
+- authors: Jindřich Libovický, Helmut Schmid, Alexander Fraser.
+  title: Why don’t people use character-level machine translation
+  proceedings: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2022'
+  pdf: https://aclanthology.org/2022.findings-acl.194.pdf
+  bib: https://aclanthology.org/2022.findings-acl.194.bib
+  display: link
+  highlight: 0
+- authors: Yihong Liu, Haris Jabbar, Hinrich Schütze.
+  title: Flow-Adapter Architecture for Unsupervised Machine Translation
+  proceedings: Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2022'
+  pdf: https://aclanthology.org/2022.acl-long.89.pdf
+  bib: https://aclanthology.org/2022.acl-long.89.bib
+  display: link
+  highlight: 0
+- authors: Antonis Maronikolakis, Axel Wisiorek, Leah Nann, Haris Jabbar, Sahana Udupa,
+    Hinrich Schütze.
+  title: 'Listening to Affected Communities to Define Extreme Speech: Dataset and
+    Experiments'
+  proceedings: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL): Findings'
+  year: '2022'
+  pdf: https://aclanthology.org/2022.findings-acl.87.pdf
+  bib: https://aclanthology.org/2022.findings-acl.87.bib
+  display: link
+  highlight: 0
+- authors: Sajad Mirzababaei, Amir Hossein Kargaran, Hinrich Schütze, Ehsaneddin Asgari
+  title: 'Hengam: An Adversarially Trained Transformer for Persian Temporal Tagging'
+  proceedings: Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the
+    Association for Computational Linguistics (AACL)
+  year: '2022'
+  pdf: https://aclanthology.org/2022.aacl-main.74.pdf
+  bib: https://aclanthology.org/2022.aacl-main.74.bib
+  display: link
+  highlight: 0
+- authors: Max Müller-Eberstein, Rob van der Goot, Barbara Plank.
+  title: Probing for Labeled Dependency Trees
+  proceedings: Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2022'
+  pdf: https://aclanthology.org/2022.acl-long.532.pdf
+  bib: https://aclanthology.org/2022.acl-long.532.bib
+  display: link
+  highlight: 0
+- authors: Max Müller-Eberstein, Rob van der Goot, Barbara Plank.
+  title: Spectral Probing
+  proceedings: Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.emnlp-main.527.pdf
+  bib: https://www.aclweb.org/anthology/2022.emnlp-main.527.bib
+  display: link
+  highlight: 0
+- authors: Max Müller-Eberstein, Rob van der Goot, Barbara Plank.
+  title: 'Sort by Structure: Language Model Ranking as Dependency Probing'
+  proceedings: Proceedings of the 2022 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL)
+  year: '2022'
+  pdf: https://aclanthology.org/2022.naacl-main.93.pdf
+  bib: https://aclanthology.org/2022.naacl-main.93.bib
+  display: link
+  highlight: 0
+- authors: Barbara Plank.
+  title: 'The “Problem” of Human Label Variation: On Ground Truth in Data, Modeling
+    and Evaluation'
+  proceedings: Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.emnlp-main.731.pdf
+  bib: https://www.aclweb.org/anthology/2022.emnlp-main.731.bib
+  display: link
+  highlight: 0
+- authors: Timo Schick, Hinrich Schütze.
+  title: True Few-Shot Learning With Prompts – A Real-World Perspective
+  proceedings: Transactions of the Association for Computational Linguistics (TACL)
+  year: '2022'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Lütfi Kerem Senel, Furkan Şahinuç, Veysel Yücesoy, Hinrich Schütze, Tolga
+    Çukur, Aykut Koç.
+  title: Learning Interpretable Word Embeddings via Bidirectional Alignment of Dimensions
+    with Semantic Concepts
+  proceedings: Information Processing & Management
+  year: '2022'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Lütfi Kerem Senel, Timo Schick, Hinrich Schütze.
+  title: 'CoDA21: Evaluating Language Understanding Capabilities of NLP Models With
+    Context-Definition Alignment'
+  proceedings: Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2022'
+  pdf: https://aclanthology.org/2022.acl-short.92.pdf
+  bib: https://aclanthology.org/2022.acl-short.92.bib
+  display: link
+  highlight: 0
+- authors: Silvia Severini, Ayyoob ImaniGooghari, Philipp Dufter and Hinrich Schütze.
+  title: 'Towards a Broad Coverage Named Entity Resource: A Data-Efficient Approach
+    for Many Diverse Languages'
+  proceedings: Proceedings of the 13th Conference on Language Resources and Evaluation
+    (LREC)
+  year: '2022'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Sahand Sharifzadeh, Sina Moayed Baharlou, Martin Schmitt, Hinrich Schütze
+    and Volker Tresp.
+  title: Improving Scene Graph Classification by Exploiting Knowledge from Texts
+  proceedings: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
+  year: '2022'
+  pdf: https://ojs.aaai.org/index.php/AAAI/article/view/20116
+  bib: null
+  display: link
+  highlight: 0
+- authors: Victor Steinborn, Philipp Dufter, Haris Jabbar, Hinrich Schütze.
+  title: An Information-Theoretic Approach and Dataset for Probing Gender Stereotypes
+    in Multilingual Masked Language Models
+  proceedings: 'Proceedings of the 2022 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL): Findings'
+  year: '2022'
+  pdf: https://aclanthology.org/2022.findings-naacl.69.pdf
+  bib: https://aclanthology.org/2022.findings-naacl.69.bib
+  display: link
+  highlight: 0
+- authors: Dennis Ulmer, Elisa Bassignana, Max Müller-Eberstein, Daniel Varab, Mike
+    Zhang, Rob van der Goot, Christian Hardmeier, Barbara Plank.
+  title: Experimental Standards for Deep Learning in Natural Language Processing Research
+  proceedings: 'Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.findings-emnlp.196.pdf
+  bib: https://www.aclweb.org/anthology/2022.findings-emnlp.196.bib
+  display: link
+  highlight: 0
+- authors: Leonie Weissweiler, Valentin Hofmann, Abdullatif Köksal, Hinrich Schütze.
+  title: The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language
+    Models for the English Comparative Correlative
+  proceedings: Proceedings of the 2022 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2022'
+  pdf: https://www.aclweb.org/anthology/2022.emnlp-main.746.pdf
+  bib: https://www.aclweb.org/anthology/2022.emnlp-main.746.bib
+  display: link
+  highlight: 0
+- authors: Leonie Weissweiler, Valentin Hofmann, Masoud Jalili Sabet, Hinrich Schütze.
+  title: 'CaMEL: Case Marker Extraction without Labels'
+  proceedings: Proceedings of the 60th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2022'
+  pdf: https://aclanthology.org/2022.acl-long.377.pdf
+  bib: https://aclanthology.org/2022.acl-long.377.bib
+  display: link
+  highlight: 0
+- authors: Mengjie Zhao, Fei Mi, Yasheng Wang, Minglei Li, Xin Jiang, Qun Liu, Hinrich
+    Schütze.
+  title: 'LMTurk: Few-Shot Learners as Crowdsourcing Workers in a Language-Model-as-a-Service
+    Framework'
+  proceedings: 'Proceedings of the 2022 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL): Findings'
+  year: '2022'
+  pdf: https://aclanthology.org/2022.findings-naacl.51.pdf
+  bib: https://aclanthology.org/2022.findings-naacl.51.bib
+  display: link
+  highlight: 0
+- authors: Mike Zhang, Kristian Nørgaard Jensen and Barbara Plank.
+  title: 'Kompetencer: Fine-grained Skill Classification in Danish Job Postings via
+    Distant Supervision and Transfer Learning'
+  proceedings: Proceedings of the 13th Conference on Language Resources and Evaluation
+    (LREC)
+  year: '2022'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Mike Zhang, Kristian Nørgaard Jensen, Sif Dam Sonniks, Barbara Plank.
+  title: 'SkillSpan: Hard and Soft Skill Extraction from English Job Postings'
+  proceedings: Proceedings of the 2022 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL)
+  year: '2022'
+  pdf: https://aclanthology.org/2022.naacl-main.366.pdf
+  bib: https://aclanthology.org/2022.naacl-main.366.bib
+  display: link
+  highlight: 0
+- authors: Alexandra Chronopoulou, Dario Stojanovski and Alexander Fraser.
+  title: Improving the Lexical Ability of Pretrained Language Models for Unsupervised
+    Neural Machine Translation
+  proceedings: Proceedings of the 2021 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.naacl-main.16.pdf
+  bib: https://aclanthology.org/2021.naacl-main.16.bib
+  display: link
+  highlight: 0
+- authors: Philipp Dufter, Nora Kassner and Hinrich Schütze.
+  title: Static Embeddings as Efficient Knowledge Bases?
+  proceedings: Proceedings of the 2021 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.naacl-main.186.pdf
+  bib: https://aclanthology.org/2021.naacl-main.186.bib
+  display: link
+  highlight: 0
+- authors: Tobias Eder, Viktor Hangya and Alexander Fraser.
+  title: Anchor-based Bilingual Word Embeddings for Low-Resource Languages
+  proceedings: Proceedings of the 59th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.acl-short.30.pdf
+  bib: https://aclanthology.org/2021.acl-short.30.bib
+  display: link
+  highlight: 0
+- authors: Yanai Elazar, Nora Kassner, Shauli Ravfogel, Abhilasha Ravichander, Eduard
+    Hovy, Hinrich Schütze, Yoav Goldberg.
+  title: Measuring and Improving Consistency in Pretrained Language Models
+  proceedings: Transactions of the Association for Computational Linguistics (TACL)
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Pankaj Gupta, Yatin Chaudhary and Hinrich Schütze.
+  title: Multi-source Neural Topic Modeling in Multi-view Embedding Spaces
+  proceedings: Proceedings of the 2021 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.naacl-main.332.pdf
+  bib: https://aclanthology.org/2021.naacl-main.332.bib
+  display: link
+  highlight: 0
+- authors: Valentin Hofmann, Janet Pierrehumbert and Hinrich Schütze.
+  title: Dynamic Contextualized Word Embeddings
+  proceedings: Proceedings of the 59th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.acl-long.542.pdf
+  bib: https://aclanthology.org/2021.acl-long.542.bib
+  display: link
+  highlight: 0
+- authors: Valentin Hofmann, Janet Pierrehumbert and Hinrich Schütze.
+  title: 'Superbizarre Is Not Superb: Derivational Morphology Improves BERT’s Interpretation
+    of Complex Words'
+  proceedings: Proceedings of the 59th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.acl-long.279.pdf
+  bib: https://aclanthology.org/2021.acl-long.279.bib
+  display: link
+  highlight: 0
+- authors: Ayyoob ImaniGooghari, Masoud Jalili Sabet, Philipp Dufter, Michael Cysou
+    and Hinrich Schütze.
+  title: 'ParCourE: A Parallel Corpus Explorer for a Massively Multilingual Corpus'
+  proceedings: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+    Linguistics (ACL): System Demonstrations'
+  year: '2021'
+  pdf: https://aclanthology.org/2021.acl-demo.8.pdf
+  bib: https://aclanthology.org/2021.acl-demo.8.bib
+  display: link
+  highlight: 0
+- authors: Ayyoob ImaniGooghari, Masoud Jalili Sabet, Lutfi Kerem Senel, Philipp Dufter,
+    François Yvon and Hinrich Schütze.
+  title: Graph Algorithms for Multiparallel Word Alignment
+  proceedings: Proceedings of the 2021 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Nora Kassner, Philipp Dufter and Hinrich Schütze.
+  title: 'Multilingual LAMA: Investigating Knowledge in Multilingual Pretrained Language
+    Models'
+  proceedings: The 16th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.eacl-main.284.pdf
+  bib: https://aclanthology.org/2021.eacl-main.284.bib
+  display: link
+  highlight: 0
+- authors: Nora Kassner, Oyvind Tafjord, Hinrich Schütze and Peter Clark.
+  title: 'BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic
+    Notion of Belief'
+  proceedings: Proceedings of the 2021 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Lutfi Kerem Senel and Hinrich Schütze.
+  title: Does She Wink or Does She Nod? A Challenging Benchmark for Evaluating Word
+    Understanding of Language Models
+  proceedings: The 16th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.eacl-main.42.pdf
+  bib: https://aclanthology.org/2021.eacl-main.42.bib
+  display: link
+  highlight: 0
+- authors: Sanjeev Kumar Karn, Francine Chen, Yan-Ying Chen, Ulli Waltinger and Hinrich
+    Schütze.
+  title: Few-Shot Learning of an Interleaved Text Summarization Model by Pretraining
+    with Synthetic Data
+  proceedings: Proceedings of the Second Workshop on Domain Adaptation for NLP (adaptNLP)
+  year: '2021'
+  pdf: https://www.aclweb.org/anthology/2021.adaptnlp-1.24.pdf
+  bib: https://www.aclweb.org/anthology/2021.adaptnlp-1.24.bib
+  display: link
+  highlight: 0
+- authors: Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze.
+  title: Wine is not v i n. On the Compatibility of Tokenizations across Languages
+  proceedings: 'Proceedings of the 2021 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Luisa März, Stefan Schweter, Nina Poerner, Benjamin Roth, Hinrich Schütze
+  title: Data Centric Domain Adaptation for Historical Text with OCR Errors
+  proceedings: International Conference on Document Analysis and Recognition (ICDAR)
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Denis Peskov, Viktor Hangya, Jordan Boyd-Graber and Alexander Fraser.
+  title: Adapting Entities across Languages and Cultures
+  proceedings: 'Proceedings of the 2021 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Timo Schick and Hinrich Schütze.
+  title: Few-Shot Text Generation with Natural Language Instructions
+  proceedings: Proceedings of the 2021 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Timo Schick and Hinrich Schütze.
+  title: Generating Datasets with Pretrained Language Models
+  proceedings: Proceedings of the 2021 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Timo Schick and Hinrich Schütze.
+  title: 'It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot
+    Learners'
+  proceedings: Proceedings of the 2021 Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics (NAACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.naacl-main.185.pdf
+  bib: https://aclanthology.org/2021.naacl-main.185.bib
+  display: link
+  highlight: 0
+- authors: Timo Schick and Hinrich Schütze.
+  title: Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language
+    Inference
+  proceedings: The 16th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.eacl-main.20.pdf
+  bib: https://aclanthology.org/2021.eacl-main.20.bib
+  display: link
+  highlight: 0
+- authors: Timo Schick, Sahana Udupa, Hinrich Schütze.
+  title: 'Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based
+    Bias in NLP'
+  proceedings: Transactions of the Association for Computational Linguistics (TACL)
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Martin Schmitt and Hinrich Schütze.
+  title: Continuous Entailment Patterns for Lexical Inference in Context
+  proceedings: Proceedings of the 2021 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Martin Schmitt and Hinrich Schütze.
+  title: Language Models for Lexical Inference in Context
+  proceedings: The 16th Conference of the European Chapter of the Association for
+    Computational Linguistics (EACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.eacl-main.108.pdf
+  bib: https://aclanthology.org/2021.eacl-main.108.bib
+  display: link
+  highlight: 0
+- authors: Mengjie Zhao and Hinrich Schütze.
+  title: Discrete and Soft Prompting for Multilingual Models
+  proceedings: Proceedings of the 2021 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2021'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Mengjie Zhao, Yi Zhu, Ehsan Shareghi, Ivan Vulić, Roi Reichart, Anna Korhonen
+    and Hinrich Schütze.
+  title: 'A Closer Look at Few-Shot Crosslingual Transfer: The Choice of Shots Matters'
+  proceedings: Proceedings of the 59th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2021'
+  pdf: https://aclanthology.org/2021.acl-long.447.pdf
+  bib: https://aclanthology.org/2021.acl-long.447.bib
+  display: link
+  highlight: 0
+- authors: Yatin Chaudhary, Pankaj Gupta and Hinrich Schütze.
+  title: Explainable and Discourse Topic-aware Neural Language Understanding
+  proceedings: Proceedings of the Thirty-seventh International Conference on Machine
+    Learning (ICML)
+  year: '2020'
+  pdf: http://proceedings.mlr.press/v119/chaudhary20a/chaudhary20a.pdf
+  bib: null
+  display: link
+  highlight: 0
+- authors: Yatin Chaudhary, Pankaj Gupta, Khushbu Saxena, Vivek Kulkarni, Thomas Runkler
+    and Hinrich Schütze.
+  title: TopicBERT for Energy Efficient Document Classfication
+  proceedings: 'Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.findings-emnlp.152.pdf
+  bib: https://www.aclweb.org/anthology/2020.findings-emnlp.152.bib
+  display: link
+  highlight: 0
+- authors: Alexandra Chronopoulou, Dario Stojanovski and Alexander Fraser.
+  title: Reusing a Pretrained Language Model on Languages with Limited Corpora for
+    Unsupervised NMT
+  proceedings: Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf
+  bib: https://www.aclweb.org/anthology/2020.emnlp-main.214.bib
+  display: link
+  highlight: 0
+- authors: Philipp Dufter and Hinrich Schütze.
+  title: Identifying Elements Essential for BERT's Multilinguality
+  proceedings: Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.emnlp-main.358.pdf
+  bib: https://www.aclweb.org/anthology/2020.emnlp-main.358.bib
+  display: link
+  highlight: 0
+- authors: Philipp Dufter, Martin Schmitt and Hinrich Schütze.
+  title: Increasing Learning Efficiency of Self-Attention Networks through Direct
+    Position Interactions, Learnable Temperature, and Convoluted Attention
+  proceedings: Proceedings of the 28th International Conference on Computational Linguistics
+    (COLING)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.coling-main.324.pdf
+  bib: https://www.aclweb.org/anthology/2020.coling-main.324.bib
+  display: link
+  highlight: 0
+- authors: Pankaj Gupta, Yatin Chaudhary, Thomas Runkler and Hinrich Schütze.
+  title: Neural Topic Modeling with Continual Lifelong Learning
+  proceedings: Proceedings of the Thirty-seventh International Conference on Machine
+    Learning (ICML)
+  year: '2020'
+  pdf: http://proceedings.mlr.press/v119/gupta20a/gupta20a.pdf
+  bib: null
+  display: link
+  highlight: 0
+- authors: Viktor Hangya and Alexander Fraser.
+  title: Towards Handling Compositionality in Low-Resource Bilingual Word Induction
+  proceedings: Proceedings of the 14th Conference of the Association for Machine Translation
+    in the Americas (AMTA)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.amta-research.8.pdf
+  bib: https://www.aclweb.org/anthology/2020.amta-research.8.bib
+  display: link
+  highlight: 0
+- authors: Valentin Hofmann, Hinrich Schütze and Janet Pierrehumbert.
+  title: A Graph Auto-encoder Model of Derivational Morphology
+  proceedings: Proceedings of the 58th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.acl-main.106.pdf
+  bib: https://www.aclweb.org/anthology/2020.acl-main.106.bib
+  display: link
+  highlight: 0
+- authors: Valentin Hofmann, Janet Pierrehumbert and Hinrich Schütze.
+  title: Predicting the Growth of Morphological Families from Social and Linguistic
+    Factors
+  proceedings: Proceedings of the 58th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.acl-main.649.pdf
+  bib: https://www.aclweb.org/anthology/2020.acl-main.649.bib
+  display: link
+  highlight: 0
+- authors: Valentin Hofmann, Janet Pierrehumbert and Hinrich Schütze.
+  title: 'DagoBERT: Generating Derivational Morphology with a Pretrained Language
+    Model'
+  proceedings: Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.emnlp-main.316.pdf
+  bib: https://www.aclweb.org/anthology/2020.emnlp-main.316.bib
+  display: link
+  highlight: 0
+- authors: Masoud Jalili Sabet, Philipp Dufter, François Yvon and Hinrich Schütze.
+  title: 'SimAlign: High Quality Word Alignments without Parallel Training Data using
+    Static and Contextualized Embeddings'
+  proceedings: 'Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.findings-emnlp.147.pdf
+  bib: https://www.aclweb.org/anthology/2020.findings-emnlp.147.bib
+  display: link
+  highlight: 0
+- authors: Nora Kassner, Benno Krojer and Hinrich Schütze.
+  title: Are Pretrained Language Models Symbolic Reasoners Over Knowledge?
+  proceedings: Proceedings of the 24th Conference on Computational Natural Language
+    Learning (CoNLL)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.conll-1.45.pdf
+  bib: https://www.aclweb.org/anthology/2020.conll-1.45.bib
+  display: link
+  highlight: 0
+- authors: Nora Kassner and Hinrich Schütze.
+  title: 'BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for
+    Better QA'
+  proceedings: 'Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.findings-emnlp.307.pdf
+  bib: https://www.aclweb.org/anthology/2020.findings-emnlp.307.bib
+  display: link
+  highlight: 0
+- authors: Nora Kassner and Hinrich Schütze.
+  title: 'Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk,
+    But Cannot Fly'
+  proceedings: Proceedings of the 58th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.acl-main.698.pdf
+  bib: https://www.aclweb.org/anthology/2020.acl-main.698.bib
+  display: link
+  highlight: 0
+- authors: Michel Leah, Viktor Hangya and Alexander Fraser.
+  title: Exploring Bilingual Word Embeddings for Hiligaynon, a Low-Resource Language
+  proceedings: Proceedings of The 12th Language Resources and Evaluation Conference
+    (LREC)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.lrec-1.313.pdf
+  bib: https://www.aclweb.org/anthology/2020.lrec-1.313.bib
+  display: link
+  highlight: 0
+- authors: Sheng Liang, Philipp Dufter and Hinrich Schütze.
+  title: Monolingual and Multilingual Reduction of Gender Bias in Contextualized Representations
+  proceedings: Proceedings of the 28th International Conference on Computational Linguistics
+    (COLING)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.coling-main.446.pdf
+  bib: https://www.aclweb.org/anthology/2020.coling-main.446.bib
+  display: link
+  highlight: 0
+- authors: Jindřich Libovický and Alexander Fraser.
+  title: Towards Reasonably-Sized Character-Level Transformer NMT by Finetuning Subword
+    Systems
+  proceedings: Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.emnlp-main.203.pdf
+  bib: https://www.aclweb.org/anthology/2020.emnlp-main.203.bib
+  display: link
+  highlight: 0
+- authors: Jindřich Libovický, Rudolf Rosa and Alexander Fraser.
+  title: On the Language Neutrality of Pre-trained Multilingual Representations
+  proceedings: 'Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.findings-emnlp.150.pdf
+  bib: https://www.aclweb.org/anthology/2020.findings-emnlp.150.bib
+  display: link
+  highlight: 0
+- authors: Marion Weller-Di Marco and Alexander Fraser.
+  title: Modeling Word Formation in English–German Neural Machine Translation
+  proceedings: Proceedings of the 58th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.acl-main.389.pdf
+  bib: https://www.aclweb.org/anthology/2020.acl-main.389.bib
+  display: link
+  highlight: 0
+- authors: Antonios Maronikolakis, Danae Sánchez Villegas, Daniel Preotiuc-Pietro
+    and Nikolaos Aletras.
+  title: Analyzing Political Parody in Social Media
+  proceedings: Proceedings of the 58th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.acl-main.403.pdf
+  bib: https://www.aclweb.org/anthology/2020.acl-main.403.bib
+  display: link
+  highlight: 0
+- authors: James L. McClelland, Felix Hill, Maja Rudolph, Jason Baldridge and Hinrich
+    Schütze.
+  title: 'Placing language in an integrated understanding system: Next steps toward
+    human-level performance in neural language models'
+  proceedings: Proceedings of the National Academy of Sciences (PNAS)
+  year: '2020'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Alena Moiseeva and Hinrich Schütze.
+  title: 'TRENDNERT: A Benchmark for Trend and Downtrend Detection in a Scientific
+    Domain'
+  proceedings: Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence
+  year: '2020'
+  pdf: https://www.aaai.org/Papers/AAAI/2020GB/AAAI-MoiseevaA.5598.pdf
+  bib: null
+  display: link
+  highlight: 0
+- authors: Nina Poerner, Ulli Waltinger and Hinrich Schütze.
+  title: 'E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT'
+  proceedings: 'Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.findings-emnlp.71.pdf
+  bib: https://www.aclweb.org/anthology/2020.findings-emnlp.71.bib
+  display: link
+  highlight: 0
+- authors: Nina Poerner, Ulli Waltinger and Hinrich Schütze.
+  title: 'Inexpensive Domain Adaptation of Pretrained Language Models: Case Studies
+    on Biomedical NER and Covid-19 QA'
+  proceedings: 'Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.findings-emnlp.134.pdf
+  bib: https://www.aclweb.org/anthology/2020.findings-emnlp.134.bib
+  display: link
+  highlight: 0
+- authors: Nina Poerner, Ulli Waltinger and Hinrich Schütze.
+  title: Sentence Meta-Embeddings for Unsupervised Semantic Textual Similarity
+  proceedings: Proceedings of the 58th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.acl-main.628.pdf
+  bib: https://www.aclweb.org/anthology/2020.acl-main.628.bib
+  display: link
+  highlight: 0
+- authors: Timo Schick, Helmut Schmid and Hinrich Schütze.
+  title: Automatically Identifying Words That Can Serve as Labels for Few-Shot Text
+    Classification
+  proceedings: Proceedings of the 28th International Conference on Computational Linguistics
+    (COLING)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.coling-main.488.pdf
+  bib: https://www.aclweb.org/anthology/2020.coling-main.488.bib
+  display: link
+  highlight: 0
+- authors: Timo Schick and Hinrich Schütze.
+  title: 'BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model
+    Performance'
+  proceedings: Proceedings of the 58th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.acl-main.368.pdf
+  bib: https://www.aclweb.org/anthology/2020.acl-main.368.bib
+  display: link
+  highlight: 0
+- authors: Timo Schick and Hinrich Schütze.
+  title: 'Rare Words: A Major Problem for Contextualized Embeddings And How to Fix
+    it by Attentive Mimicking'
+  proceedings: Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence
+  year: '2020'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Silvia Severini, Viktor Hangya, Alexander Fraser and Hinrich Schütze.
+  title: Combining Word Embeddings with Bilingual Orthography Embeddings for Bilingual
+    Dictionary Induction
+  proceedings: Proceedings of the 28th International Conference on Computational Linguistics
+    (COLING)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.coling-main.531.pdf
+  bib: https://www.aclweb.org/anthology/2020.coling-main.531.bib
+  display: link
+  highlight: 0
+- authors: Martin Schmitt, Sahand Sharifzadeh, Volker Tresp and Hinrich Schütze.
+  title: An Unsupervised Joint System for Text Generation from Knowledge Graphs and
+    Semantic Parsing
+  proceedings: Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.emnlp-main.577.pdf
+  bib: https://www.aclweb.org/anthology/2020.emnlp-main.577.bib
+  display: link
+  highlight: 0
+- authors: Dario Stojanovski, Benno Krojer, Denis Peskov and Alexander Fraser.
+  title: 'ContraCAT: Contrastive Coreference Analytical Templates for Machine Translation'
+  proceedings: Proceedings of the 28th International Conference on Computational Linguistics
+    (COLING)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.coling-main.417.pdf
+  bib: https://www.aclweb.org/anthology/2020.coling-main.417.bib
+  display: link
+  highlight: 0
+- authors: Dietrich Trautmann, Johannes Daxenberger, Christian Stab, Hinrich Schütze
+    and Iryna Gurevych.
+  title: Fine-Grained Argument Unit Recognition and Classification
+  proceedings: Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence
+  year: '2020'
+  pdf: https://www.aaai.org/Papers/AAAI/2020GB/AAAI-TrautmannD.7498.pdf
+  bib: null
+  display: link
+  highlight: 0
+- authors: Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi and Hinrich Schütze.
+  title: Masking as an Efficient Alternative to Finetuning for Pretrained Language
+    Models
+  proceedings: Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.emnlp-main.174.pdf
+  bib: https://www.aclweb.org/anthology/2020.emnlp-main.174.bib
+  display: link
+  highlight: 0
+- authors: Mengjie Zhao, Philipp Dufter, Yadollah Yaghoobzadeh and Hinrich Schütze.
+  title: Quantifying the Contextualization of Word Representations with Semantic Class
+    Probing
+  proceedings: 'Proceedings of the 2020 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP): Findings'
+  year: '2020'
+  pdf: https://www.aclweb.org/anthology/2020.findings-emnlp.109.pdf
+  bib: https://www.aclweb.org/anthology/2020.findings-emnlp.109.bib
+  display: link
+  highlight: 0
+- authors: Heike Adel and Hinrich Schütze.
+  title: Type-aware Convolutional Neural Networks for Slot Filling
+  proceedings: The Journal of Artificial Intelligence Research (JAIR)
+  year: '2019'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Philipp Dufter and Hinrich Schütze.
+  title: Analytical Methods for Interpretable Ultradense Word Embeddings
+  proceedings: Proceedings of the 2019 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/D19-1111.pdf
+  bib: https://www.aclweb.org/anthology/D19-1111.bib
+  display: link
+  highlight: 0
+- authors: Pankaj Gupta, Yatin Chaudhary, Florian Buettner and Hinrich Schütze.
+  title: Document Informed Neural Autoregressive Topic Models with Distributional
+    Prior
+  proceedings: Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence
+  year: '2019'
+  pdf: https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4616/4494
+  bib: https://dblp.uni-trier.de/rec/bib2/conf/aaai/GuptaCBS19.bib
+  display: link
+  highlight: 0
+- authors: Pankaj Gupta, Yatin Chaudhary, Florian Buettner and Hinrich Schütze.
+  title: 'textTOvec: DEEP CONTEXTUALIZED NEURAL AUTOREGRESSIVE TOPIC MODELS OF LANGUAGE
+    WITH DISTRIBUTED COMPOSITIONAL PRIOR'
+  proceedings: Proceedings of the Seventh International Conference on Learning Representations
+    (ICLR)
+  year: '2019'
+  pdf: https://openreview.net/pdf?id=rkgoyn09KQ
+  bib: https://dblp.uni-trier.de/rec/bib2/conf/iclr/GuptaCBS19.bib
+  display: link
+  highlight: 0
+- authors: Pankaj Gupta, Hinrich Schütze, Subburam Rajaram and Thomas A. Runkler.
+  title: Neural Relation Extraction Within and Across Sentence Boundaries
+  proceedings: Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence
+  year: '2019'
+  pdf: https://www.aaai.org/ojs/index.php/AAAI/article/download/4617/4495
+  bib: https://dblp.uni-trier.de/rec/bib2/conf/aaai/GuptaRSR19.bib
+  display: link
+  highlight: 0
+- authors: Viktor Hangya and Alexander Fraser.
+  title: Unsupervised Parallel Sentence Extraction with Parallel Segment Detection
+    Helps Machine Translation
+  proceedings: Proceedings of the 57th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/P19-1118.pdf
+  bib: https://www.aclweb.org/anthology/P19-1118.bib
+  display: link
+  highlight: 0
+- authors: Matthias Huck, Viktor Hangya and Alexander Fraser.
+  title: Better OOV Translation with Bilingual Terminology Mining
+  proceedings: Proceedings of the 57th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/P19-1581.pdf
+  bib: https://www.aclweb.org/anthology/P19-1581.bib
+  display: link
+  highlight: 0
+- authors: Apostolos Kemos, Heike Adel and Hinrich Schütze.
+  title: Neural Semi-Markov Conditional Random Fields for Robust Character-Based Part-of-Speech
+    Tagging
+  proceedings: Proceedings of the 2019 Conference of the North American Chapter of
+    the Association for Computational Linguistics (NAACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/N19-1280.pdf
+  bib: https://www.aclweb.org/anthology/N19-1280.bib
+  display: link
+  highlight: 0
+- authors: Sanjeev Kumar Karn, Mark Buckley, Ulli Waltinger and Hinrich Schütze.
+  title: News Article Teaser Tweets and How to Generate Them
+  proceedings: Proceedings of the 2019 Conference of the North American Chapter of
+    the Association for Computational Linguistics (NAACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/N19-1398.pdf
+  bib: https://www.aclweb.org/anthology/N19-1398.bib
+  display: link
+  highlight: 0
+- authors: Luisa März, Dietrich Trautmann and Benjamin Roth.
+  title: Domain adaptation for part-of-speech tagging of noisy user-generated text
+  proceedings: Proceedings of the 2019 Conference of the North American Chapter of
+    the Association for Computational Linguistics (NAACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/N19-1345.pdf
+  bib: https://www.aclweb.org/anthology/N19-1345.bib
+  display: link
+  highlight: 0
+- authors: Stoyan Mihov and Klaus Ulrich Schulz.
+  title: 'Finite-state Techniques: Automata, Transducers and Bimachines'
+  proceedings: Volume 60 of Cambridge Tracts in Theoretical Computer Science
+  year: '2019'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Nina Poerner and Hinrich Schütze.
+  title: Multi-View Domain Adapted Sentence Embeddings for Low-Resource Unsupervised
+    Duplicate Question Detection
+  proceedings: Proceedings of the 2019 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/D19-1173.pdf
+  bib: https://www.aclweb.org/anthology/N19-1173.bib
+  display: link
+  highlight: 0
+- authors: Timo Schick and Hinrich Schütze.
+  title: 'Attentive Mimicking: Better Word Embeddings by Attending to Informative
+    Contexts'
+  proceedings: Proceedings of the 2019 Conference of the North American Chapter of
+    the Association for Computational Linguistics (NAACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/N19-1048.pdf
+  bib: https://www.aclweb.org/anthology/N19-1048.bib
+  display: link
+  highlight: 0
+- authors: Timo Schick and Hinrich Schütze.
+  title: 'Learning Semantic Representations for Novel Words: Leveraging Both Form
+    and Context'
+  proceedings: Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence
+  year: '2019'
+  pdf: https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4675/4553
+  bib: https://epub.ub.uni-muenchen.de/cgi/export/61859/BibTeX/epub-eprint-61859.bib
+  display: link
+  highlight: 0
+- authors: Martin Schmitt and Hinrich Schütze.
+  title: 'SherLIiC: A Typed Event-Focused Lexical Inference Benchmark for Evaluating
+    Natural Language Inference'
+  proceedings: Proceedings of the 57th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/P19-1086.pdf
+  bib: https://www.aclweb.org/anthology/P19-1086.bib
+  display: link
+  highlight: 0
+- authors: Marina Sedinkina, Nikolas Breitkopf and Hinrich Schütze.
+  title: Automatic Domain Adaptation Outperforms Manual Domain Adaptation for Predicting
+    Financial Outcomes
+  proceedings: Proceedings of the 57th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/P19-1034.pdf
+  bib: https://www.aclweb.org/anthology/P19-1034.bib
+  display: link
+  highlight: 0
+- authors: Alona Sydorova, Nina Poerner and Benjamin Roth.
+  title: Interpretable Question Answering on Knowledge Bases and Text
+  proceedings: Proceedings of the 57th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/P19-1488.pdf
+  bib: https://www.aclweb.org/anthology/P19-1488.bib
+  display: link
+  highlight: 0
+- authors: Yadollah Yaghoobzadeh, Katharina Kann, T. J. Hazen, Eneko Agirre and Hinrich
+    Schütze.
+  title: 'Probing for Semantic Classes: Diagnosing the Meaning Content of Word Embeddings'
+  proceedings: Proceedings of the 57th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/P19-1574.pdf
+  bib: https://www.aclweb.org/anthology/P19-1574.bib
+  display: link
+  highlight: 0
+- authors: Mengjie Zhao and Hinrich Schütze.
+  title: A Multilingual BPE Embedding Space for Universal Sentiment Lexicon Induction
+  proceedings: Proceedings of the 57th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2019'
+  pdf: https://www.aclweb.org/anthology/P19-1341.pdf
+  bib: https://www.aclweb.org/anthology/P19-1341.bib
+  display: link
+  highlight: 0
+- authors: Fabienne Braune, Tobias Eder, Viktor Hangya and Alexander Fraser.
+  title: Evaluating Bilingual Word Embeddings on The Long Tail
+  proceedings: "Proceedings of the 2018\n      Conference of the North American Chapter\
+    \ of the Association for Computational\n      Linguistics (NAACL)"
+  year: '2018'
+  pdf: http://www.aclweb.org/anthology/N18-2030.pdf
+  bib: http://www.aclweb.org/anthology/N18-2030.bib
+  display: link
+  highlight: 0
+- authors: Marco Cornolti, Paolo Ferragina, Massimiliano Ciaramita, Stefan Rüd and
+    Hinrich Schütze.
+  title: 'SMAPH: A Piggyback Approach for Entity-Linking in Web Queries'
+  proceedings: ACM Transactions on Information Systems (TOIS)
+  year: '2018'
+  pdf: https://arpi.unipi.it/retrieve/handle/11568/938449/357899/smaph-piggyback-approach%20%28final%29.pdf
+  bib: https://dl.acm.org/citation.cfm?id=3284102
+  display: link
+  highlight: 0
+- authors: Philipp Dufter, Mengjie Zhao, Martin Schmitt, Alexander Fraser and Hinrich
+    Schütze.
+  title: Embedding Learning Through Multilingual Concept Induction
+  proceedings: Proceedings of the 56th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2018'
+  pdf: http://www.aclweb.org/anthology/P18-1141.pdf
+  bib: http://www.aclweb.org/anthology/P18-1141.bib
+  display: link
+  highlight: 0
+- authors: Pankaj Gupta, Benjamin Roth and Hinrich Schütze.
+  title: Joint Bootstrapping Machines for High Confidence Relation Extraction
+  proceedings: "Proceedings of the 2018\n      Conference of the North American Chapter\
+    \ of the Association for Computational\n      Linguistics (NAACL)"
+  year: '2018'
+  pdf: http://www.aclweb.org/anthology/N18-1003.pdf
+  bib: http://www.aclweb.org/anthology/N18-1003.bib
+  display: link
+  highlight: 0
+- authors: Pankaj Gupta, Subburam Rajaram, Bernt Andrassy and Hinrich Schütze.
+  title: Deep Temporal-Recurrent-Replicated-Softmax for Topical Trends over Time
+  proceedings: "Proceedings of the 2018\n      Conference of the North American Chapter\
+    \ of the Association for Computational\n      Linguistics (NAACL)"
+  year: '2018'
+  pdf: http://www.aclweb.org/anthology/N18-1098.pdf
+  bib: http://www.aclweb.org/anthology/N18-1098.bib
+  display: link
+  highlight: 0
+- authors: Viktor Hangya, Fabienne Braune, Alexander Fraser and Hinrich Schütze.
+  title: 'Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple
+    and Broadly Applicable'
+  proceedings: Proceedings of the 56th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2018'
+  pdf: http://www.aclweb.org/anthology/P18-1075.pdf
+  bib: http://www.aclweb.org/anthology/P18-1075.bib
+  display: link
+  highlight: 0
+- authors: Katharina Kann, Jesus Manuel Mager Hois, Ivan Vladimir Meza Ruiz and Hinrich
+    Schütze.
+  title: Fortification of Neural Morphological Segmentation Models for Polysynthetic
+    Minimal-Resource Languages
+  proceedings: "Proceedings of the 2018\n      Conference of the North American Chapter\
+    \ of the Association for Computational\n      Linguistics (NAACL)"
+  year: '2018'
+  pdf: http://www.aclweb.org/anthology/N18-1005.pdf
+  bib: http://www.aclweb.org/anthology/N18-1005.bib
+  display: link
+  highlight: 0
+- authors: Katharina Kann and Hinrich Schütze.
+  title: 'Neural Transductive Learning and Beyond: Morphological Generation in the
+    Minimal-Resource Setting'
+  proceedings: Proceedings of the 2018 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2018'
+  pdf: http://aclweb.org/anthology/D18-1363.pdf
+  bib: http://aclweb.org/anthology/D18-1363.bib
+  display: link
+  highlight: 0
+- authors: Nina Poerner, Hinrich Schütze and Benjamin Roth.
+  title: Evaluating neural network explanation methods using hybrid documents and
+    morphosyntactic agreement
+  proceedings: Proceedings of the 56th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2018'
+  pdf: http://www.aclweb.org/anthology/P18-1032.pdf
+  bib: http://www.aclweb.org/anthology/P18-1032.bib
+  display: link
+  highlight: 0
+- authors: Benjamin Roth, Costanza Conforti, Nina Poerner, Sanjeev Karn and Hinrich
+    Schütze.
+  title: Neural Architectures for Open-Type Relation Argument Extraction
+  proceedings: Journal of Natural Language Engineering
+  year: '2018'
+  pdf: null
+  bib: http://dx.doi.org/10.1017/S1351324918000451
+  display: link
+  highlight: 0
+- authors: Martin Schmitt, Simon Steinheber, Konrad Schreiber and Benjamin Roth.
+  title: Joint Aspect and Polarity Classification for Aspect-based Sentiment Analysis
+    with End-to-End Neural Networks
+  proceedings: Proceedings of the 2018 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2018'
+  pdf: http://aclweb.org/anthology/D18-1139.pdf
+  bib: http://aclweb.org/anthology/D18-1139.bib
+  display: link
+  highlight: 0
+- authors: Yadollah Yaghoobzadeh, Heike Adel and Hinrich Schütze.
+  title: Corpus-Level Fine-Grained Entity Typing
+  proceedings: Journal of Artificial Intelligence Research
+  year: '2018'
+  pdf: https://www.jair.org/index.php/jair/article/view/11191/26400
+  bib: bib/18Yaghoubzadeh.txt
+  display: link
+  highlight: 0
+- authors: Yadollah Yaghoobzadeh and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2018 Conference on Empirical Methods in Natural
+    Language Processing (EMNLP)
+  year: '2018'
+  pdf: http://aclweb.org/anthology/D18-1343.pdf
+  bib: http://aclweb.org/anthology/D18-1343.bib
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin, Dan Roth and Hinrich Schütze.
+  title: End-Task Oriented Textual Entailment via Deep Exploring Inter-Sentence Interactions
+  proceedings: Proceedings of the 56th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2018'
+  pdf: https://www.aclweb.org/anthology/P18-2086.pdf
+  bib: https://www.aclweb.org/anthology/P18-2086.bib
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin and Hinrich Schütze.
+  title: 'Attentive Convolution: Equipping CNNs with RNN-style Attention Mechanisms'
+  proceedings: Transactions of the Association for Computational Linguistics (TACL)
+  year: '2018'
+  pdf: https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00249
+  bib: null
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin, Yadollah Yaghoobzadeh and Hinrich Schütze.
+  title: Recurrent One-Hop Predictions for Reasoning over Knowledge Graphs
+  proceedings: Proceedings of the 27th International Conference on Computational Linguistics
+    (COLING)
+  year: '2018'
+  pdf: https://www.aclweb.org/anthology/C18-1200.pdf
+  bib: https://www.aclweb.org/anthology/C18-1200.bib
+  display: link
+  highlight: 0
+- authors: Heike Adel and Hinrich Schütze.
+  title: Exploring Different Dimensions of Attention for Uncertainty Detection
+  proceedings: "Proceedings of the 2017\n      Conference of the European Chapter\
+    \ of the Association for Computational\n      Linguistics (EACL)"
+  year: '2017'
+  pdf: http://aclweb.org/anthology/E/E17/E17-1003.pdf
+  bib: http://aclweb.org/anthology/E/E17/E17-1003.bib
+  display: link
+  highlight: 0
+- authors: Heike Adel, Francine Chen and Yan-Ying Chen.
+  title: ''
+  proceedings: "Proceedings of the 2017\n      Conference of the European Chapter\
+    \ of the Association for Computational\n      Linguistics (EACL, Short Paper)"
+  year: '2017'
+  pdf: http://aclweb.org/anthology/E/E17/E17-2094.pdf
+  bib: http://aclweb.org/anthology/E/E17/E17-2094.bib
+  display: link
+  highlight: 0
+- authors: Heike Adel and Hinrich Schütze.
+  title: ''
+  proceedings: "Proceedings of the 2017\n      Conference on Empirical Methods in\
+    \ Natural Language Processing\n    (EMNLP, Short Paper)"
+  year: '2017'
+  pdf: http://www.aclweb.org/anthology/D17-1181.pdf
+  bib: http://www.aclweb.org/anthology/D17-1181.bib
+  display: link
+  highlight: 0
+- authors: Ehsaneddin Asgari and Hinrich Schütze.
+  title: ''
+  proceedings: "Proceedings of the 2017\n      Conference on Empirical Methods in\
+    \ Natural Language Processing\n    (EMNLP)"
+  year: '2017'
+  pdf: http://www.aclweb.org/anthology/D17-1011.pdf
+  bib: http://www.aclweb.org/anthology/D17-1011.bib
+  display: link
+  highlight: 0
+- authors: Juan Miguel Cejuela, Aleksandar Bojchevski, Carsten Uhlig, Rustem
+  title: ''
+  proceedings: Bioinformatics
+  year: '2017'
+  pdf: null
+  bib: null
+  display: link
+  highlight: 0
+- authors: Ryan Cotterell and Hinrich Schütze.
+  title: ''
+  proceedings: Transactions of the Association for Computational Linguistics (TACL)
+  year: '2017'
+  pdf: http://www.aclweb.org/anthology/Q18-1003.pdf
+  bib: http://www.aclweb.org/anthology/Q18-1003.bib
+  display: link
+  highlight: 0
+- authors: Florian Fink, Klaus U. Schulz and Uwe Springmann.
+  title: ''
+  proceedings: "Proceedings of the 2nd Digital Access to Textual Cultural\n    Heritage\
+    \ Conference (DATech 2017)"
+  year: '2017'
+  pdf: http://springmann.net/papers/2017-DATeCH-Fink.pdf
+  bib: null
+  display: link
+  highlight: 0
+- authors: Annemarie Friedrich and Damyana Gateva.
+  title: ''
+  proceedings: "Proceedings of the 2017\n      Conference on Empirical Methods in\
+    \ Natural Language Processing\n    (EMNLP, Short Paper)"
+  year: '2017'
+  pdf: http://www.aclweb.org/anthology/D17-1271.pdf
+  bib: http://www.aclweb.org/anthology/D17-1271.bib
+  display: link
+  highlight: 0
+- authors: Matthias Huck, Aleš Tamchyna, Ondřej Bojar and Alexander
+  title: ''
+  proceedings: "Proceedings of the 2017\n      Conference of the European Chapter\
+    \ of the Association for Computational\n      Linguistics (EACL, Short Paper)"
+  year: '2017'
+  pdf: http://aclweb.org/anthology/E/E17/E17-2059.pdf
+  bib: http://aclweb.org/anthology/E/E17/E17-2059.bib
+  display: link
+  highlight: 0
+- authors: Katharina Kann, Ryan Cotterell and Hinrich Schütze.
+  title: ''
+  proceedings: "Proceedings of the 2017\n      Conference of the European Chapter\
+    \ of the Association for Computational\n      Linguistics (EACL)"
+  year: '2017'
+  pdf: http://aclweb.org/anthology/E/E17/E17-1049.pdf
+  bib: http://aclweb.org/anthology/E/E17/E17-1049.bib
+  display: link
+  highlight: 0
+- authors: Katharina Kann, Ryan Cotterell and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 55th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2017'
+  pdf: http://www.aclweb.org/anthology/P17-1182.pdf
+  bib: http://www.aclweb.org/anthology/P17-1182.bib
+  display: link
+  highlight: 0
+- authors: Sanjeev Karn, Ulli Waltinger and Hinrich Schütze.
+  title: ''
+  proceedings: "Proceedings of the 2017\n      Conference of the European Chapter\
+    \ of the Association for Computational\n      Linguistics (EACL, Short Paper)"
+  year: '2017'
+  pdf: http://aclweb.org/anthology/E/E17/E17-2119.pdf
+  bib: http://aclweb.org/anthology/E/E17/E17-2119.bib
+  display: link
+  highlight: 0
+- authors: Sascha Rothe and Hinrich Schütze.
+  title: ''
+  proceedings: Computational Linguistics
+  year: '2017'
+  pdf: http://www.aclweb.org/anthology/J/J17/J17-3004.pdf
+  bib: https://epub.ub.uni-muenchen.de/cgi/export/53301/BibTeX/epub-eprint-53301.bib
+  display: link
+  highlight: 0
+- authors: Hinrich Schütze.
+  title: ''
+  proceedings: "Proceedings of the 2017 Conference of the European Chapter of the\
+    \ Association for Computational\n      Linguistics (EACL)"
+  year: '2017'
+  pdf: http://aclweb.org/anthology/E/E17/E17-1074.pdf
+  bib: http://aclweb.org/anthology/E/E17/E17-1074.bib
+  display: link
+  highlight: 0
+- authors: Marion Weller-Di Marco, Alexander Fraser and Sabine Schulte im
+  title: ''
+  proceedings: "Proceedings of the 2017 Conference of the European Chapter of the\
+    \ Association for Computational\n      Linguistics (EACL, Short Paper)"
+  year: '2017'
+  pdf: http://aclweb.org/anthology/E/E17/E17-2099.pdf
+  bib: https://aclweb.org/anthology/E/E17/E17-2099.bib
+  display: link
+  highlight: 0
+- authors: Yadollah Yaghoobzadeh*, Heike Adel* and Hinrich Schütze.
+  title: ''
+  proceedings: "Proceedings of the\n      2017 Conference of the European Chapter\
+    \ of the Association for Computational\n      Linguistics (EACL)"
+  year: '2017'
+  pdf: http://aclweb.org/anthology/E/E17/E17-1111.pdf
+  bib: http://aclweb.org/anthology/E/E17/E17-1111.bib
+  display: link
+  highlight: 0
+- authors: Yadollah Yaghoobzadeh and Hinrich Schütze.
+  title: ''
+  proceedings: "Proceedings of the\n      2017 Conference of the European Chapter\
+    \ of the Association for\n      Computational Linguistics (EACL)"
+  year: '2017'
+  pdf: http://aclweb.org/anthology/E/E17/E17-1055.pdf
+  bib: http://aclweb.org/anthology/E/E17/E17-1055.bib
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin and Hinrich Schütze.
+  title: ''
+  proceedings: "Proceedings of the 2017 Conference of the European Chapter of the\n\
+    \    Association for Computational Linguistics (EACL)"
+  year: '2017'
+  pdf: http://aclweb.org/anthology/E/E17/E17-1066.pdf
+  bib: http://aclweb.org/anthology/E/E17/E17-1066.bib
+  display: link
+  highlight: 0
+- authors: Mo Yu, Wenpeng Yin, Kazi Saidul Hasan, Cicero dos Santos, Bing Xiang and
+  title: ''
+  proceedings: Proceedings of the 55th Annual Meeting of the Association for Computational
+    Linguistics (ACL)
+  year: '2017'
+  pdf: https://www.aclweb.org/anthology/P/P17/P17-1053.pdf
+  bib: https://www.aclweb.org/anthology/P/P17/P17-1053.bib
+  display: link
+  highlight: 0
+- authors: Heike Adel, Benjamin Roth and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 15th Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Fabienne Braune, Alexander Fraser, Hal Daumé III and Aleš Tamchyna.
+  title: ''
+  proceedings: Proceedings of the First Conference on Machine Translation (WMT)
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Marco Cornolti, Paolo Ferragina, Massimiliano Ciaramita, Hinrich Schütze
+    and Stefan Rüd.
+  title: ''
+  proceedings: Proceedings of the 25th International Conference on World Wide Web
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Ryan Cotterell, Jason Eisner and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 54th Annual Meeting of the Association for Computational
+    Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Ryan Cotterell, Arun Kumar and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2016 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Ryan Cotterell, Tim Vieira and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 15th Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Sebastian Ebert, Thomas Müller and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2016 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Pankaj Gupta, Hinrich Schütze and Bernt Andrassy.
+  title: ''
+  proceedings: Proceedings of the 26th International Conference on Computational Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Katharina Kann, Ryan Cotterell and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2016 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Katharina Kann and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 54th Annual Meeting of the Association for Computational
+    Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Anita Ramm and Alexander Fraser.
+  title: ''
+  proceedings: Proceedings of the First Conference on Machine Translation (WMT)
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Sascha Rothe and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 54th Annual Meeting of the Association for Computational
+    Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Sascha Rothe, Sebastian Ebert and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 15th Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Hassan Sajjad, Alexander Fraser, Helmut Schmid, Hinrich
+  title: ''
+  proceedings: Computational Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Uwe Springmann, Helmut Schmid, Dietmar Najock.
+  title: ''
+  proceedings: Open Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Aleš Tamchyna, Alexander Fraser and Ondřej Bojar.
+  title: ''
+  proceedings: Proceedings of the 54th Annual Meeting of the Association for Computational
+    Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Patrick Verga, David Belanger, Emma Strubell, Benjamin Roth and Andrew
+    McCallum.
+  title: ''
+  proceedings: Proceedings of the 15th Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Tim Vieira, Ryan Cotterell and Jason Eisner.
+  title: ''
+  proceedings: Proceedings of the 2016 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Ngoc Thang Vu, Heike Adel, Pankaj Gupta and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 15th Annual Conference of the North American Chapter
+    of the Association for Computational Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Marion Weller-Di Marco, Alexander Fraser and Sabine Schulte im Walde.
+  title: ''
+  proceedings: Proceedings of the First Conference on Machine Translation (WMT)
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Yadollah Yaghoobzadeh and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 54th Annual Meeting of the Association for Computational
+    Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin, Hinrich Schütze, Bing Xiang, Bowen Zhou.
+  title: ''
+  proceedings: Transactions of the Association for Computational Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 54th Annual Meeting of the Association for Computational
+    Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin, Mo Yu, Bin Xiang, Bowen Zhou, Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 26th International Conference on Computational Linguistics
+  year: '2016'
+  pdf: https://arxiv.org/pdf/1606.03391v1.pdf
+  bib: bib/16YinYuXiangZhou.txt
+  display: link
+  highlight: 0
+- authors: Fabienne Braune, Nina Seemann and Alexander Fraser.
+  title: ''
+  proceedings: Proceedings of the 2015 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Ryan Cotterell, Thomas Müller, Alexander Fraser and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 19th Conference on Computational Natural Language
+    Learning
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Ryan Cotterell and Hinrich Schütze.
+  title: ''
+  proceedings: 'Proceedings of the 2015 Conference of the North American Chapter of
+    the Association for Computational Linguistics: Human Language Technologies'
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Nadir Durrani, Helmut Schmid, Alexander Fraser, Philipp Koehn, and Hinrich
+    Schütze.
+  title: ''
+  proceedings: Computational Linguistics
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Thomas Müller, Ryan Cotterell, Alexander Fraser and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2015 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Thomas Müller and Hinrich Schütze.
+  title: ''
+  proceedings: 'Proceedings of the 2015 Conference of the North American Chapter of
+    the Association for Computational Linguistics: Human Language Technologies'
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Sascha Rothe and Hinrich Schütze.
+  title: ''
+  proceedings: 'Proceedings of the 53rd Annual Meeting of the Association for Computational
+    Linguistics (Volume 1: Long Papers)'
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Katrin Schweitzer, Michael Walsh, Sasha Calhoun, Hinrich Schütze, Bernd
+    Möbius, Antje Schweitzer, and Grzegorz Dogil.
+  title: ''
+  proceedings: Speech Communication
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Irina Sergienya and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2015 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Zhiang Wu, Jie Cao, Guixiang Zhu, Wenpeng Yin, Alfredo Cuzzocrea, and Jin
+    Shi.
+  title: ''
+  proceedings: World Wide Web
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Yadollah Yaghoobzadeh and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2015 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Min Yang, Wenting Tu, Wenpeng Yin,  Ziyu Lu.
+  title: ''
+  proceedings: Proceedings of the 53rd Annual Meeting of the Association for Computational
+    Linguistics
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Min Yang, Wenting Tu, Ziyu Lu, Wenpeng Yin, and Kam-Pui Chow.
+  title: ''
+  proceedings: 'Proceedings of the 2015 Conference of the North American Chapter of
+    the Association for Computational Linguistics: Human Language Technologies'
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin and Yulong Pei.
+  title: ''
+  proceedings: Proceedings of the 24th International Joint Conference on Artificial
+    Intelligence
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin, Tobias Schnabel and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2015 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin and Hinrich Schütze.
+  title: ''
+  proceedings: 'Proceedings of the 2015 Conference of the North American Chapter of
+    the Association for Computational Linguistics: Human Language Technologies'
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin and Hinrich Schütze.
+  title: ''
+  proceedings: 'Proceedings of the 2015 Conference of the North American Chapter of
+    the Association for Computational Linguistics: Human Language Technologies'
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 19th Conference on Computational Natural Language
+    Learning
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Wenpeng Yin and Hinrich Schütze.
+  title: ''
+  proceedings: 'Proceedings of the 53rd Annual Meeting of the Association for Computational
+    Linguistics (Volume 1: Long Papers)'
+  year: '2015'
+  pdf: http://www.aclweb.org/anthology/P/P15/P15-1007.pdf
+  bib: http://www.aclweb.org/anthology/P/P15/P15-1007.bib
+  display: link
+  highlight: 0
+- authors: Heike Adel and Hinrich Schütze.
+  title: ''
+  proceedings: 'Proceedings of the 2014 Conference
 
+    on Empirical Methods in Natural Language Processing'
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Sören Brügmann, Nadjet Bouayad-Agha, Alicia Burga, Serguei Carrascosa,
+    Alberto Ciaramella, Marco Ciaramella, Joan Codina-Filba, Enric Escorsa, Alex Judea,
+    Simon Mille, Andreas Müller, Horacio Saggion, Patrick Ziering, Hinrich Schütze,
+    and Leo Wanner.
+  title: ''
+  proceedings: World Patent Information
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Apostolos Antonacopoulos and Klaus U. Schulz, editors.
+  title: ''
+  proceedings: Proceedings of the 2014 Conference of the European Chapter of the Association
+    for Computational Linguistics
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Fabienne Cap, Alexander Fraser, Marion Weller, and Aoife Cahill.
+  title: ''
+  proceedings: Proceedings of the 2014 Conference of the European Chapter of the Association
+    for Computational Linguistics
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Nadir Durrani, Philipp Koehn, Helmut Schmid, and Alexander Fraser.
+  title: ''
+  proceedings: Proceedings of COLING 2014
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Sebastian Ebert and Hinrich Schütze.
+  title: ''
+  proceedings: 'Proceedings of the 2014 Conference
 
+    on Empirical Methods in Natural Language Processing'
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Charles Jochim and Hinrich Schütze.
+  title: ''
+  proceedings: 'Proceedings of the 52nd Annual Meeting of the Association for Computational
+    Linguistics (Volume 2: Short Papers)'
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Alex Judea, Hinrich Schütze, and Sören Brügmann.
+  title: ''
+  proceedings: Proceedings of COLING 2014
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Thomas Müller, Richárd Farkas, Alex Judea, Helmut Schmid, and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2014 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Sascha Rothe and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 52nd Annual Meeting of the Association for Computational
+    Linguistics
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Christian Scheible and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2014 Conference of the European Chapter of the Association
+    for Computational Linguistics (short papers)
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Christian Scheible and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of COLING 2014
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Tobias Schnabel and Hinrich Schütze.
+  title: ''
+  proceedings: 'Transactions of the Association
 
-
-
-
-
-# - authors: 'Timo Schick, Hinrich Schütze'
-#   description: 'Using much smaller models and a cloze based reformulation of NLP tasks, the paper achieves achieves performance comparable to GPT-3 models.'
-#   display: link
-#   image: fewshot.png
-#   highlight: 1
-#   news: ''
-#   # proceedings: Proceedings of the National Academy of Sciences of the United States of America
-#   title: "It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners"
-#   url: 'https://arxiv.org/abs/2009.07118'
-#   year: '2020'
-
-# - authors: 'James L. McClelland, Felix Hill, Maja Rudolph, Jason Baldridge, and Hinrich Schütze'
-#   description: 'The article takes a fresh look at the contemporary NLP systems from the standpoint of cognitive neuroscience; sketching a new framework for future research.'
-#   display: link
-#   image: pnas.png
-#   highlight: 1
-#   news: ''
-#   proceedings: Proceedings of the National Academy of Sciences of the United States of America
-#   title: "Placing language in an integrated understanding system: Next steps toward human-level performance in neural language models"
-#   url: 'https://www.pnas.org/content/117/42/25966'
-#   year: '2020'
+    for Computational Linguistics (TACL)'
+  year: '2014'
+  pdf: http://www.aclweb.org/anthology/Q/Q14/Q14-1002.pdf
+  bib: bib/14schnabel.txt
+  display: link
+  highlight: 0
+- authors: Jimmy Dubuisson, Jean-Pierre Eckmann, Christian Scheible, and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2013 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Nadir Durrani, Alexander Fraser, and Helmut Schmid.
+  title: ''
+  proceedings: 'Proceedings of the 2013 Conference of the North American Chapter of
+    the Association for Computational Linguistics: Human Language Technologies'
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Nadir Durrani, Alexander Fraser, Helmut Schmid, Hieu Hoang, and Philipp
+    Koehn.
+  title: ''
+  proceedings: 'Proceedings of the 51st Annual Meeting of the Association for Computational
+    Linguistics (Volume 2: Short Papers)'
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Alexander Fraser, Helmut Schmid, Richárd Farkas, Renjing Wang, and Hinrich
+    Schütze.
+  title: ''
+  proceedings: Computational Linguistics
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Thomas Müller, Helmut Schmid, and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the 2013 Conference on Empirical Methods in Natural
+    Language Processing
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Ulrich Reffle and Christoph Ringlstetter.
+  title: ''
+  proceedings: Pattern Recognition
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Christian Scheible and Hinrich Schütze.
+  title: ''
+  proceedings: 'Proceedings of the 51st Annual Meeting of the Association for Computational
+    Linguistics (Volume 1: Long Papers)'
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Tobias Schnabel, and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the Sixth International Joint Conference on Natural
+    Language Processing
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Marion Weller, Alexander Fraser, and Sabine Schulte im Walde.
+  title: ''
+  proceedings: 'Proceedings of the 51st Annual Meeting of the Association for Computational
+    Linguistics (Volume 1: Long Papers)'
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Patrick Ziering, Lonneke van der Plas, and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the Sixth International Joint Conference on Natural
+    Language Processing
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Patrick Ziering, Lonneke van der Plas, and Hinrich Schütze.
+  title: ''
+  proceedings: Proceedings of the Sixth International Joint Conference on Natural
+    Language Processing
+  year: '2013'
+  pdf: http://aclweb.org/anthology/I/I13/I13-1188.pdf
+  bib: http://aclweb.org/anthology/I/I13/I13-1188.bib
+  display: link
+  highlight: 0
+- authors: Christopher D. Manning, Prabhakar Raghavan, and Hinrich
+  title: ''
+  proceedings: ''
+  year: '2008'
+  pdf: introduction-to-information-retrieval.html
+  bib: bib/iir.bib
+  display: link
+  highlight: 0

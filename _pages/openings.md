@@ -8,7 +8,11 @@ permalink: /vacancies/
 
 # Working at Schütze Lab
 
-We are always looking for new group members with passion, talent, and grit! You will have the chance to work at the cutting edge of research in computational linguistics and NLP.  
+---
+
+### Applications for PhD and Postdoc positions
+If you are interested in working with us as a PhD student or postdoc, please send us an [email](mailto:jobs@cis.lmu.de). State briefly why you are interested and attach a CV, including information about your academic profile. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+
 
 ### Current open thesis positions
 
@@ -115,8 +119,6 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 More topics will be added, so check back again.
 <!-- It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf). -->
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send us an [email](mailto:jobs@cis.lmu.de). State briefly why you are interested and attach a CV, including information about your academic profile. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
 
 ### Masters/Bachelors Thesis and Internships

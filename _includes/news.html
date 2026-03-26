@@ -1,12 +1,8 @@
+<div style="display: grid; grid-template-columns: max-content 2fr; gap: 1rem 3rem;">
+  {% for article in site.data.news limit:6 %}
+    <span style=" white-space: nowrap;"> • {{ article.date }}</span>
+    <span>{{ article.headline }}</span>
+  {% endfor %}
+</div>
 
-<div class="well">
-<h4>News</h4>
-
-{% for article in site.data.news limit:6 %}
-{{ article.date }}
-<p>{{ article.headline }}</p>
-{% endfor %}
-
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
-
-    </div>
+<p><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all</a></p>

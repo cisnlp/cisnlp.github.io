@@ -6,58 +6,83 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
-<!-- ## Group selected -->
+---
 
-The full list of publications is available on the CIS [website](https://www.cis.uni-muenchen.de/publications/).
-
-<!-- {% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
-  <p><em>{{ publi.authors }}</em></p>
-  <p>{{ publi.description }}</p>
-  <p><strong>{{ publi.proceedings }}</strong></p>
-  <p><a href="{{ publi.url }}">{{ publi.display }}</a></p>
-  <p class="text-danger"><strong> {{ publi.news }}</strong></p>
-   <p> {{ publi.news }}</p>
- </div>
+<div id="publications-container">
+  {% assign sorted_pubs = site.data.publist | sort: 'year' | reverse %}
+  {% for pub in sorted_pubs %}
+  <div markdown='0' class="pub-box" data-index="{{ forloop.index0 }}" onclick="openPdf('{{ pub.url }}')">
+    <p><strong>{{ pub.authors }}</strong></p>
+    <p><em>{{ pub.title }}</em></p>
+    {% if pub.proceedings %}
+    <p>{{ pub.proceedings }}</p>
+    {% endif %}
+    <p>
+      {% if pub.url %}<a href="{{ pub.url }}" target="_blank" onclick="event.stopPropagation()">[PDF]</a>{% endif %}
+      <!-- {% if pub.bib %}<a href="{{ pub.bib }}" target="_blank" onclick="event.stopPropagation()">[BibTeX]</a>{% endif %} -->
+    </p>
+  </div>
+  {% endfor %}
 </div>
 
+<button id="show-more-btn" onclick="showAllPubs()">Show All</button>
 
-{% assign number_printed = number_printed | plus: 1 %}
+<style>
+#publications-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+.pub-box {
+  border: 1px solid #6AA695;
+  padding: 1em;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s;
+}
 
-{% endfor %}
+.pub-box:hover {
+  background: #f9f9f9;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+#show-more-btn {
+  margin-top: 1em;
+  padding: 0.5em 1em;
+  border: none;
+  background: #007ACC;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
 
-<p> &nbsp; </p>
- -->
+#show-more-btn:hover {
+  background: #005A99;
+}
+</style>
 
-<!-- ## Full List
+<script>
+const maxVisible = 20;
 
-{% for publi in site.data.pubs_new %}
+document.addEventListener("DOMContentLoaded", () => {
+  const pubs = document.querySelectorAll(".pub-box");
+  pubs.forEach((pub, i) => {
+    if (i >= maxVisible) pub.style.display = "none";
+  });
+  if (pubs.length <= maxVisible) {
+    document.getElementById("show-more-btn").style.display = "none";
+  }
+});
 
-  {{ publi.title }} <br />
-  <strong>{{ publi.authors }} </strong><br />
-  in <em>{{ publi.proceedings }} </em><br />
-  <a href="{{ publi.url }}">{{ publi.display }}</a>
+function showAllPubs() {
+  document.querySelectorAll(".pub-box").forEach(pub => pub.style.display = "block");
+  document.getElementById("show-more-btn").style.display = "none";
+}
 
-{% endfor %} -->
+function openPdf(url) {
+  window.open(url, "_blank");
+}
+</script>
