@@ -8,6 +8,8 @@
   education1: Director, <a href="https://www.cis.uni-muenchen.de/">Center for Information and Language Processing</a>
   education2: Professor of Computer Science (courtesy appointment) (Zweitmitglied) in <a href="https://www.uni-muenchen.de/einrichtungen/fakultaeten/v16_mathe/index.html"> Faculty 16 </a>
   education3: Phd in Computational Linguistics from Stanford University, 1995
+  role: lab_director
+  bio: hinrich is very nice
 
 - name: Peggy Hobmaier
   photo: peggy.jpeg 
@@ -15,6 +17,15 @@
   webpage: https://www.cis.uni-muenchen.de/personen/sekretariat/hobmaier/index.html
   email: sekr@cis.lmu.de
   number_educ: 0
+
+- name: Yuetian Lu
+  photo: yuetian.JPG
+  info: PhD Student, started November 2025
+  webpage:
+  email: yuetianlu@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc., Electrical Engineering and Information Technology, Technical University of Munich, Germany
+  education2: B.Sc., Microelectronics Science and Engineering, Nankai University, China
 
 - name: Sebastian Gerstner
   photo: sebastian.JPG
@@ -52,15 +63,6 @@
   education1: M.Sc. Computer Engineering, Sharif University of Technology, Iran
   education2: B.Sc. Electrical and Computer Engineering, Isfahan University of Technology, Iran
 
-- name: Abdullatif Köksal
-  photo: latif.png
-  info: PhD Student
-  webpage: https://akoksal.com/
-  email: akoksal@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc. Boğaziçi University, Turkey
-  education2: B.Sc. Boğaziçi University, Turkey
-
 - name: Sheng Liang
   photo: sheng.jpg
   info: PhD Student, started January 2020
@@ -69,15 +71,6 @@
   number_educ: 2
   education1: B.Sc. Applied Mathematics, Tongji University, China
   education2: M.Sc. Computer Science with Speech and Language Processing, University of Sheffield, UK
-
-- name: Peiqin Lin
-  photo: peiqin.jpg
-  info: PhD Student, started October 2021
-  webpage: https://lpq29743.github.io
-  email: linpq@cis.lmu.de
-  number_educ: 2
-  education1: M.Eng, Sun Yat-sen University, China
-  education2: B.Eng, South China Normal University, China
 
 - name: Yihong Liu
   photo: yihong.jpeg
@@ -106,15 +99,6 @@
   education1: M.Sc. in Computer Engineering, Iran University of Science and Technology, Iran
   education2: B.Sc. in Electrical Engineering, University of Tehran, Iran
 
-- name: Ercong Nie
-  photo: ercong.jpeg
-  info: PhD Student, started October 2022.
-  webpage: https://ercong21.github.io/
-  email: nie@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc. Computational Linguistics and Informatics, LMU Munich, Germany
-  education2: B.A. German Linguistics and Finance, Shanghai Jiao Tong University, China
-
 - name: Thomas Schäfer
   photo: male.jpeg 
   info: IT System administration
@@ -140,25 +124,6 @@
   education1: MSc in Computer Science and Engineering at Instituto Superior Técnico
   education2: BSc in Computer Science and Engineering at Instituto Superior Técnico
 
-- name: Mingyang Wang
-  photo: mingyang.jpg
-  info: PhD Student, started September 2022
-  webpage : https://mingyang-wang26.github.io/
-  email: mingyang@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc. Robotics, Cognition, Intelligence, Technical University Munich, Germany
-  education2: B.Sc. Vehicle Engineering, Tongji University, China
-
-- name: Dr. Philipp Wicke
-  photo: philipp.png
-  info: Akademischer Rat, started October 2021
-  webpage: http://www.phil-wicke.com/
-  email: pwicke@cis.lmu.de
-  number_educ: 3
-  education1: PhD, University College Dublin
-  education2: B.Sc. Cognitive Science, University of Osnabrück
-  education3: Head of AI Applications at "AI for People"
-
 - name: Dr. Axel Wisiorek
   photo: aw.jpg
   info: Research Assistant
@@ -168,15 +133,6 @@
   education1: M.A. Philosophy and Logic, LMU Munich
   education2: B.A. Linguistics, LMU Munich
   education3: B.Sc. Computational Linguistics, LMU Munich
-
-- name: Haotian Ye
-  photo: haotian.JPG
-  info: PhD Student, started December 2022
-  webpage:
-  email: yehao@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc. Computational Linguistics, LMU Munich
-  education2: B.Sc. Computational Linguistics, LMU Munich
 
 - name: Shengqiang Zhang
   photo: shengqiang.png 

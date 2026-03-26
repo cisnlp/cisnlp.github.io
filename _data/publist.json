@@ -1,0 +1,182 @@
+[
+  {
+    "title": "A comprehensive evaluation of multilingual chain-of-thought reasoning: Performance, consistency, and faithfulness across languages",
+    "authors": "Raoyuan Zhao and Yihong Liu and Hinrich Sch\u00fctze and Michael A Hedderich",
+    "year": 2026,
+    "proceedings": "Findings of the Association for Computational Linguistics: EACL 2026",
+    "pdf": "",
+    "url": "https://aclanthology.org/2026.findings-eacl.276/",
+    "bib": ""
+  },
+  {
+    "title": "Persistent Personas? Role-Playing, Instruction Following, and Safety in Extended Interactions",
+    "authors": "Pedro Henrique Luz De Araujo and Michael A Hedderich and Ali Modarressi and Hinrich Sch\u00fctze and Benjamin Roth",
+    "year": 2026,
+    "proceedings": "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "pdf": "",
+    "url": "https://aclanthology.org/2026.eacl-long.246/",
+    "bib": ""
+  },
+  {
+    "title": "Lost in multilinguality: Dissecting cross-lingual factual inconsistency in transformer language models",
+    "authors": "Mingyang Wang and Heike Adel and Lukas Lange and Yihong Liu and Ercong Nie and Jannik Str\u00f6tgen and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.acl-long.253/",
+    "bib": ""
+  },
+  {
+    "title": "Derivational morphology reveals analogical generalization in large language models",
+    "authors": "Valentin Hofmann and Leonie Weissweiler and David R Mortensen and Hinrich Sch\u00fctze and Janet B Pierrehumbert",
+    "year": 2025,
+    "proceedings": "Proceedings of the National Academy of Sciences",
+    "pdf": "",
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2423232122",
+    "bib": ""
+  },
+  {
+    "title": "Craft your dataset: Task-specific synthetic dataset generation through corpus retrieval and augmentation",
+    "authors": "Ingo Ziegler and Abdullatif K\u00f6ksal and Desmond Elliott and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Transactions of the Association for Computational Linguistics",
+    "pdf": "",
+    "url": "https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.56/134309",
+    "bib": ""
+  },
+  {
+    "title": "Mexa: Multilingual evaluation of english-centric llms via cross-lingual alignment",
+    "authors": "Amir Hossein Kargaran and Ali Modarressi and Nafiseh Nikeghbal and Jana Diesner and Fran\u00e7ois Yvon and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.findings-acl.1385/",
+    "bib": ""
+  },
+  {
+    "title": "Decomposed Prompting: Probing Multilingual Linguistic Structure Knowledge in Large Language Models",
+    "authors": "Ercong Nie and Shuzhou Yuan and Bolei Ma and Helmut Schmid and Michael F\u00e4rber and Frauke Kreuter and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.findings-ijcnlp.38/",
+    "bib": ""
+  },
+  {
+    "title": "Bmike-53: Investigating cross-lingual knowledge editing with in-context learning",
+    "authors": "Ercong Nie and Bo Shao and Mingyang Wang and Zifeng Ding and Helmut Schmid and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.acl-long.798/",
+    "bib": ""
+  },
+  {
+    "title": "Bring your own knowledge: a survey of methods for LLM knowledge expansion",
+    "authors": "Mingyang Wang and Alisa Stoll and Lukas Lange and Heike Adel and Hinrich Sch\u00fctze and Jannik Str\u00f6tgen",
+    "year": 2025,
+    "proceedings": "Proceedings of the First Workshop on Large Language Model Memorization (L2M2)",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.l2m2-1.12/",
+    "bib": ""
+  },
+  {
+    "title": "Collapse of dense retrievers: Short, early, and literal biases outranking factual evidence",
+    "authors": "Mohsen Fayyaz and Ali Modarressi and Hinrich Schuetze and Nanyun Peng",
+    "year": 2025,
+    "proceedings": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.acl-long.447/",
+    "bib": ""
+  },
+  {
+    "title": "Problem Solving Through Human\u2013AI Preference-based Cooperation",
+    "authors": "Subhabrata Dutta and Timo Kaufmann and Goran Glava\u0161 and Ivan Habernal and Kristian Kersting and Frauke Kreuter and Mira Mezini and Iryna Gurevych and Eyke H\u00fcllermeier and Hinrich Schuetze",
+    "year": 2025,
+    "proceedings": "Computational Linguistics",
+    "pdf": "",
+    "url": "https://direct.mit.edu/coli/article-pdf/51/4/1337/2539252/coli.a.19.pdf",
+    "bib": ""
+  },
+  {
+    "title": "Language mixing in reasoning language models: Patterns, impact, and internal causes",
+    "authors": "Mingyang Wang and Lukas Lange and Heike Adel and Yunpu Ma and Jannik Str\u00f6tgen and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.emnlp-main.132/",
+    "bib": ""
+  },
+  {
+    "title": "Understanding in-context machine translation for low-resource languages: A case study on Manchu",
+    "authors": "Renhao Pei and Yihong Liu and Peiqin Lin and Fran\u00e7ois Yvon and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.acl-long.429/",
+    "bib": ""
+  },
+  {
+    "title": "A recipe of parallel corpora exploitation for multilingual large language models",
+    "authors": "Peiqin Lin and Andr\u00e9 FT Martins and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Findings of the Association for Computational Linguistics: NAACL 2025",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.findings-naacl.225/",
+    "bib": ""
+  },
+  {
+    "title": "How transliterations improve crosslingual alignment",
+    "authors": "Yihong Liu and Mingyang Wang and Amir Hossein Kargaran and Ayyoob ImaniGooghari and Orgest Xhelili and Haotian Ye and Chunlan Ma and Fran\u00e7ois Yvon and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Proceedings of the 31st International Conference on Computational Linguistics",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.coling-main.165/",
+    "bib": ""
+  },
+  {
+    "title": "Transmi: A framework to create strong baselines from multilingual pretrained language models for transliterated data",
+    "authors": "Yihong Liu and Chunlan Ma and Haotian Ye and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Proceedings of the 31st International Conference on Computational Linguistics",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.coling-main.32/",
+    "bib": ""
+  },
+  {
+    "title": "Llm in the loop: Creating the paradehate dataset for hate speech detoxification",
+    "authors": "Shuzhou Yuan and Ercong Nie and Lukas Kouba and Helmut Schmid and Hinrich Sch\u00fctze and Michael F\u00e4rber",
+    "year": 2025,
+    "proceedings": "Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.findings-ijcnlp.59/",
+    "bib": ""
+  },
+  {
+    "title": "Xampler: Learning to retrieve cross-lingual in-context examples",
+    "authors": "Peiqin Lin and Andr\u00e9 FT Martins and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Findings of the Association for Computational Linguistics: NAACL 2025",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.findings-naacl.221/",
+    "bib": ""
+  },
+  {
+    "title": "On relation-specific neurons in large language models",
+    "authors": "Yihong Liu and Runsheng Chen and Lea Hirlimann and Ahmad Dawar Hakimi and Mingyang Wang and Amir Hossein Kargaran and Sascha Rothe and Fran\u00e7ois Yvon and Hinrich Sch\u00fctze",
+    "year": 2025,
+    "proceedings": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.emnlp-main.52/",
+    "bib": ""
+  },
+  {
+    "title": "Xcomps: A multilingual benchmark of conceptual minimal pairs",
+    "authors": "Linyang He and Ercong Nie and Sukru Samet Dindar and Arsalan Firoozi and Van Nguyen and Corentin Puffay and Riki Shimizu and Haotian Ye and Jonathan Brennan and Helmut Schmid and Hinrich Sch\u00fctze and Nima Mesgarani",
+    "year": 2025,
+    "proceedings": "Proceedings of the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP",
+    "pdf": "",
+    "url": "https://aclanthology.org/2025.sigtyp-1.9/",
+    "bib": ""
+  }
+]

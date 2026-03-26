@@ -1,0 +1,95 @@
+- speaker: Dr. Bernhard Waltl & Dr. Andreas Stephan
+  photo: lda.jpeg
+  round_photo: false
+  date: 28 January, 2026; 10:15 - 11:45
+  location: Oettingenstraße 67, A 213
+  title: Talk
+  abstract: "This talk provides an introduction to Retrieval-Augmented
+    Generation (RAG), a technique for connecting Large Language
+    Models with external knowledge sources to reduce
+    hallucinations and ground responses in factual information
+    in the context of legal information. In the first part,
+    students learn about different retrieval paradigms, from
+    traditional keyword-based methods to modern neural
+    approaches, as well as techniques for reranking and answer
+    generation. In the second part, Dr. Bernhard Waltl will give
+    an introduction to legal applications."
+
+  bio: "Legal Data Analytics (LDA) is a legal
+    tech company that leverages AI and NLP methods to analyze
+    and use legal documents to develop data-driven solutions for
+    the legal market. Dr. Bernhard Waltl holds a PhD in Computer
+    Science from TU Munich, is a Research Fellow at Stanford Law
+    School, and serves as Co-CEO of the Liquid Legal Institute
+    and as CTO at LDA. Dr. Andreas Stephan holds a Master's
+    degree in Mathematics in Data Science from TU Munich,
+    completed his PhD in NLP at the University of Vienna, and
+    works as a Tech Lead at LDA."
+
+- speaker: Benno Krojer (Mila/McGill)
+  photo: benno_krojer.jpeg
+  date: 16 December, 2025; 12:00 - 13:00
+  location: Oettingenstraße 67, Room 067
+  title: The Surprising Interpretability of Vision Tokens in LLMs
+  abstract: "Most recent interpretability progress so far has focused on text-only LLMs.
+    Understanding multimodal models, however, poses new challenges that require
+    bridging the symbolic world of language with the continuous perceptual
+    world of vision. In multimodal LLMs, linguistic and perceptual concepts are
+    first encoded separately but must eventually converge. This raises
+    fundamental questions: which concepts remain modality-specific, and which
+    become shared across vision and language as representations evolve through
+    the model’s layers? To address these, we must first ask whether
+    interpretability theories and tools from text-only LLMs generalize to
+    multimodal models. The talk will begin with an overview of what we currently know about how
+    multimodal LLMs process and represent multimodal inputs. Next, I will
+    present ongoing work on interpreting visual soft prompts in multi-modal
+    LLMs. Specifically, we ask: how can a (frozen) LLM make sense of visual
+    soft-prompt tokens? These prefix embeddings differ fundamentally from
+    discrete text tokens, but remarkably a frozen LLM can easily adapt to them.
+
+    In our study, we train several vision encoders to align with different
+    LLMs. Surprisingly, even at the input layer, many visual soft prompts are
+    interpretable through their nearest neighbors in the LLM vocabulary. For
+    later layers, we develop a new interpretability tool, V-Lens, which reveals
+    that across all models, visual embeddings already behave like interpretable
+    words within the LLM as early as layers 1–4."
+
+  bio: "Benno Krojer is a final-year PhD student at Mila Quebec and McGill
+    University in Montreal. He is broadly interested in the rich interplay
+    between perception and language in AI systems and his work spans
+    vision-and-language reasoning, interpretability, diagnostic benchmarking
+    and cognitive science-inspired approaches. In the past he has interned in
+    the JEPA team at FAIR (Meta) and is a recipient of the Vanier Canada
+    Graduate Scholarship. He earned his B.Sc. in Computational Linguistics from
+    LMU Munich. Outside of research, Benno shapes the Mila community e.g. as a
+    Tea Talk organizer and founder of the Language Grounding reading group. He
+    also hosts the Behind the Research of AI podcast with his labmate Tomas and
+    has played Ultimate Frisbee on an international level (but now returning to
+    his childhood love of soccer)."
+
+
+- speaker: Denis Peskoff (UC Berkeley)
+  photo: denis_peskoff.jpg
+  date: 11 December, 2025; 14:30 - 15:45
+  location: Oettingenstraße 67, Room U139
+  title: Evaluation is a choice
+  abstract: "We are on a collision course between technical
+    research in large language models and the rest of society.
+    Promises for LLMs are both optimistic and pessimistic, but
+    evaluating the reality remains a technical question.  I will
+    discuss one of the earliest evaluations of ChatGPT, Credible
+    Without Credit, an early application of LLMs for social
+    science annotation, GPT Deciphering Fedspeak, and an
+    assessment of the impact of GenAI, The Rise of AI Generated
+    Content in Wikipedia.  I will discuss two brand new
+    benchmarks for evaluating agents, Remote Labor Index, and
+    \"deep research\" outputs, RESEARCHRUBRICS."
+  bio: "Dr. Denis Peskoff is a Bellwether Postdoctoral Scholar
+    at UC Berkeley with Professor Diag Davenport. Academically
+    he has done NLP research at Northwestern, Princeton, and the
+    University of Maryland, and professionally has worked for
+    Scale AI, Amazon AI, and 3M Healthcare. His research
+    interest is leveraging domain experts to create meaningful
+    and accurate datasets for computational social science."
+  
+  
