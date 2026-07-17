@@ -18,10 +18,10 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 <!-- WICHTIGER HINWEIS FUER BSc/MSc AM CIS: Die Betreuung einer Abschlussarbeit wird nur in Betracht gezogen, wenn Sie sich mindestens zwei Wochen vor Beginn des einwoechigen Anmeldungszeitraums ueber dieses Portal beworben haben.   -->
 
-REMINDER. If you are a CL student from CIS and want to do a BSc/MSc thesis in our lab, you must contact a supervisor (or through our application form) before the following dates:
+REMINDER. If you are a CL student from CIS and want to do a BSc/MSc thesis in our lab, you must contact a supervisor (through our application form) at least two weeks before the faculty-wide registration period:
   
-Feb 12 2025 for MSc thesis
-Feb 26 2025 for BSc thesis
+- Feb 12 2025 for MSc thesis
+- Feb 26 2025 for BSc thesis
 
 Presently we have open BSc/MSc thesis positions in the following areas. Kindly apply on [this form](https://tinyurl.com/y2otyv2b). You can also apply if you have a thesis topic of your own :
 
@@ -37,7 +37,7 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [(MSc) Translation-Induced Framing Shifts in LLM Bias Evaluations]({{ site.baseurl }}/thesis_proposals/2026/Molly-2026-Project-2.pdf)
 - [(MSc) Faithfulness / plausibility of logit lens across models]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-2.pdf)
 
-We would also like to point out the opportunity to do a [Master thesis or research project at Media Bias Group in Tokyo]({{ site.baseurl }}/thesis_proposals/msc,media,bias.pdf). If you are interested, please contact them first, and then ask us to officially supervise you on this project.
+We would also like to point out the opportunity to do a [Master thesis or research project at Media Bias Group in Tokyo]({{ site.baseurl }}/thesis_proposals/msc,media,bias.pdf). If you are interested, please contact them first (enough in advance!), and then ask us to officially supervise you on this project.
 
 
 
