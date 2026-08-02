@@ -26,12 +26,13 @@
 
 - name: Ercong Nie
   photo: ercong.jpeg
-  info: PhD Student, started October 2022.
+  info: Assistant Professor at Shanghai Jiao Tong University
   webpage: https://ercong21.github.io/
   email: nie@cis.lmu.de
   number_educ: 2
-  education1: M.Sc. Computational Linguistics and Informatics, LMU Munich, Germany
-  education2: B.A. German Linguistics and Finance, Shanghai Jiao Tong University, China
+  education1: Ph.D. CIS, LMU Munich
+  education2: M.Sc. Computational Linguistics and Informatics, LMU Munich, Germany
+  education3: B.A. German Linguistics and Finance, Shanghai Jiao Tong University, China
 
 - name: Mingyang Wang
   photo: mingyang.jpg
