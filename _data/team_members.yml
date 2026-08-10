@@ -63,6 +63,14 @@
   education1: M.Sc. Computer Engineering, Sharif University of Technology, Iran
   education2: B.Sc. Electrical and Computer Engineering, Isfahan University of Technology, Iran
 
+- name: Kaiwei Lei
+  photo: kaiwei.jpg
+  info: PhD Student, started August 2026
+  email: kaiwei@cis.lmu.de
+  number_educ: 2
+  education1: B.Sc. Computational Linguistics, LMU Munich
+  education2: M.Sc. Computational Linguistics, LMU Munich
+  
 - name: Sheng Liang
   photo: sheng.jpg
   info: PhD Student, started January 2020
