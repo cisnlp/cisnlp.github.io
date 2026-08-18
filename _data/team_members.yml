@@ -66,10 +66,11 @@
 - name: Kaiwei Lei
   photo: kaiwei.jpg
   info: PhD Student, started August 2026
+  webpage: https://kevinlei314159.github.io
   email: kaiwei@cis.lmu.de
   number_educ: 2
-  education1: B.Sc. Computational Linguistics, LMU Munich
-  education2: M.Sc. Computational Linguistics, LMU Munich
+  education1: M.Sc. Computational Linguistics, LMU Munich
+  education2: B.Sc. Computational Linguistics, LMU Munich
   
 - name: Sheng Liang
   photo: sheng.jpg
