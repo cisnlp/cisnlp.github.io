@@ -18,14 +18,15 @@
   email: sekr@cis.lmu.de
   number_educ: 0
 
-- name: Yuetian Lu
-  photo: yuetian.JPG
-  info: PhD Student, started November 2025
-  webpage:
-  email: yuetianlu@cis.lmu.de
-  number_educ: 2
-  education1: M.Sc., Electrical Engineering and Information Technology, Technical University of Munich, Germany
-  education2: B.Sc., Microelectronics Science and Engineering, Nankai University, China
+- name: Dr. Özge Alacam
+  photo: oezge.jpg
+  info: Tenure Lecturer (Akademische Rätin)
+  webpage: https://ozgealacam.com
+  email: oezge.alacam@lmu.de
+  number_educ: 3
+  education1: PhD. Informatik, Uni Hamburg Germany
+  education2: M.Sc. Cognitive Science, METU, Ankara, Türkiye
+  education3: B.Sc. Computer Education and Instructional Technologies, METU, Ankara, Türkiye
 
 - name: Sebastian Gerstner
   photo: sebastian.JPG
@@ -80,6 +81,15 @@
   number_educ: 2
   education1: M.Sc, Technical University of Munich, Germany
   education2: B.Eng, Southwest University, China
+
+- name: Yuetian Lu
+  photo: yuetian.JPG
+  info: PhD Student, started November 2025
+  webpage:
+  email: yuetianlu@cis.lmu.de
+  number_educ: 2
+  education1: M.Sc., Electrical Engineering and Information Technology, Technical University of Munich, Germany
+  education2: B.Sc., Microelectronics Science and Engineering, Nankai University, China
 
 - name: Chunlan Ma
   photo: chunlan.JPG
