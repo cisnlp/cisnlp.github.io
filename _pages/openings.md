@@ -37,8 +37,6 @@ Presently we have open BSc/MSc thesis positions in the following areas. Kindly a
 - [(MSc) Translation-Induced Framing Shifts in LLM Bias Evaluations]({{ site.baseurl }}/thesis_proposals/2026/Molly-2026-Project-2.pdf)
 - [(MSc) Faithfulness / plausibility of logit lens across models]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-2.pdf)
 
-We would also like to point out the opportunity to do a [Master thesis or research project at Media Bias Group in Tokyo]({{ site.baseurl }}/thesis_proposals/msc,media,bias.pdf). If you are interested, please contact them first (enough in advance!), and then ask us to officially supervise you on this project.
-
 
 
 <!-- - [~~Language Identification Challenges and Solutions~~]({{ site.baseurl }}/thesis_proposals/2024/Amir-2024-Project-1.pdf)
