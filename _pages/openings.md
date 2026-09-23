@@ -25,16 +25,11 @@ REMINDER. If you are a CL student from CIS and want to do a BSc/MSc thesis in ou
 
 Presently we have open BSc/MSc thesis positions in the following areas. Kindly apply on [this form](https://tinyurl.com/y2otyv2b). You can also apply if you have a thesis topic of your own :
 
-- [(MSc) Evaluating Faithfulness in Chain-of-Thought Reasoning]({{ site.baseurl }}/thesis_proposals/2024/Ali-2024-Project-1.pdf)
-- [(MSc) Measuring and Exploiting Redundancy in Multi-Turn Reasoning Traces]({{ site.baseurl }}/thesis_proposals/2026/Ali-2026-Project-1.pdf)
-- [(MSc) Look Again: Prompt-Level Visual Repetition for Robust Reasoning in Vision–Language Models]({{ site.baseurl }}/thesis_proposals/2026/Ali-2026-Project-2.pdf)
 - [(BSc) Warm-Starting Active Learning with Synthetic Data for Imbalanced Hate Speech Classification]({{ site.baseurl }}/thesis_proposals/2026/Dawar-2026-Project-1.pdf)
 - [(MSc) Query-Level Uncertainty for Ability-Aware Routing and Triage in Active Learning]({{ site.baseurl }}/thesis_proposals/2026/Dawar-2026-Project-2.pdf)
 - [(BSc/MSc) Relations in the Wild: Collecting Contextual Instances of Relation Triples for the Detection of Latent Representations]({{ site.baseurl }}/thesis_proposals/2026/Lea-2026-Project-1.pdf)
 - [(MSc) Morality-related directions in the activation space of multilingual models]({{ site.baseurl }}/thesis_proposals/2025/Leonor-2025-Project-2.pdf)
 - [(MSc) Effects of Pretraining on Bias in LLMs]({{ site.baseurl }}/thesis_proposals/2026/Leonor-2026-Project-2.pdf)
-- [(BSc) A Prompt Stress-Test Suite for LLM Media-Bias Judgments]({{ site.baseurl }}/thesis_proposals/2026/Molly-2026-Project-1.pdf)
-- [(MSc) Translation-Induced Framing Shifts in LLM Bias Evaluations]({{ site.baseurl }}/thesis_proposals/2026/Molly-2026-Project-2.pdf)
 - [(MSc) Faithfulness / plausibility of logit lens across models]({{ site.baseurl }}/thesis_proposals/2026/Sebastian-2026-Project-2.pdf)
 
 
